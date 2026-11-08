@@ -1,0 +1,3001 @@
+basket_id,items
+1,Onions;Parmesan;Pasta;Pasta Sauce
+2,Bananas;Cereal;Cheddar Cheese;Ground Beef;Tortillas
+3,Paper Towels;Tea
+4,Lettuce;Tortillas
+5,Milk;Parmesan;Pasta;Pasta Sauce
+6,Apples;Paper Towels;Rice;Yogurt
+7,Avocado;Cereal;Cheddar Cheese;Jam;Tortillas
+8,Apples;Bananas;Beer;Rice;Yogurt
+9,Bread;Butter;Cookies;Orange Juice
+10,Parmesan;Pasta
+11,Bagels;Beer;Bread;Potato Chips;Salsa;Soda
+12,Bananas;Potato Chips;Rice;Tortillas
+13,Bananas;Pasta;Pasta Sauce
+14,Apples;Bananas;Bread;Eggs;Yogurt
+15,Bread;Coffee;Milk
+16,Bacon;Butter;Eggs;Orange Juice
+17,Apples;Bread;Eggs;Milk;Orange Juice
+18,Apples;Bread;Eggs;Yogurt
+19,Bananas;Cereal;Milk;Tortillas
+20,Apples;Avocado;Bacon;Bread;Chicken Breast;Eggs;Orange Juice;Pasta;Salsa;Yogurt
+21,Bananas;Chicken Breast;Soda;Yogurt
+22,Apples;Bananas;Rice;Yogurt
+23,Avocado;Bananas;Cereal;Cheddar Cheese;Milk;Parmesan;Salsa;Tortillas
+24,Avocado;Cereal;Ground Beef;Onions;Pasta
+25,Coffee;Onions;Pasta;Pasta Sauce
+26,Beer;Cheddar Cheese;Lettuce;Tortillas
+27,Bananas;Cereal;Milk;Parmesan;Pasta;Pasta Sauce
+28,Baby Wipes;Diapers;Lettuce
+29,Cereal;Milk
+30,Coffee;Milk
+31,Lemons;Milk;Pasta;Pasta Sauce;Soda;Tea
+32,Bananas;Burger Buns;Cereal;Cheddar Cheese;Eggs;Ground Beef;Lettuce;Tomatoes
+33,Bread;Cheddar Cheese;Ground Beef;Lettuce;Parmesan;Pasta;Pasta Sauce;Peanut Butter
+34,Avocado;Bananas;Cereal;Cheddar Cheese;Milk;Tomatoes;Tortillas
+35,Chicken Breast;Yogurt
+36,Bread;Jam;Milk
+37,Baby Wipes;Beer;Diapers;Peanut Butter
+38,Lemons;Tea
+39,Bananas;Cereal;Milk;Peanut Butter
+40,Bacon;Beer;Onions;Potato Chips;Salsa;Soda
+41,Bread;Cookies;Orange Juice
+42,Burger Buns;Ground Beef;Milk;Yogurt
+43,Coffee;Onions;Parmesan;Pasta;Pasta Sauce;Sugar
+44,Bread;Coffee;Milk;Peanut Butter;Sugar
+45,Coffee;Milk;Rice;Sugar;Tortillas
+46,Bacon;Bread;Eggs
+47,Bacon;Bread;Butter;Eggs;Lettuce
+48,Cookies;Milk;Parmesan;Pasta;Pasta Sauce
+49,Chicken Breast;Paper Towels;Parmesan;Pasta
+50,Bacon;Lemons;Onions;Pasta;Pasta Sauce
+51,Apples;Coffee;Pasta;Pasta Sauce;Sugar
+52,Coffee;Ground Beef;Milk;Pasta;Sugar;Yogurt
+53,Butter;Cookies;Honey;Tea;Tortillas
+54,Apples;Bread;Orange Juice;Peanut Butter
+55,Burger Buns;Cheddar Cheese;Ground Beef;Tomatoes
+56,Bananas;Bread;Cereal;Jam;Milk;Pasta;Pasta Sauce
+57,Avocado;Lettuce;Parmesan;Pasta;Pasta Sauce;Salsa;Tortillas
+58,Bread;Burger Buns;Eggs;Orange Juice;Paper Towels
+59,Ground Beef;Paper Towels;Parmesan;Pasta;Pasta Sauce
+60,Apples;Cheddar Cheese;Eggs;Ground Beef;Potato Chips;Salsa;Soda;Tortillas
+61,Bread;Coffee;Onions;Parmesan;Pasta;Pasta Sauce;Sugar
+62,Baby Wipes;Ground Beef
+63,Bread;Butter;Cereal;Coffee;Eggs;Ground Beef;Orange Juice;Parmesan;Pasta;Pasta Sauce
+64,Bread;Coffee;Honey;Lemons;Milk;Paper Towels;Sugar;Tea
+65,Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Tomatoes
+66,Apples;Potato Chips;Salsa;Soda;Tea
+67,Bananas;Butter;Cereal;Paper Towels
+68,Apples;Avocado;Bananas;Cereal;Chicken Breast;Ground Beef;Rice;Salsa;Tortillas;Yogurt
+69,Cheddar Cheese;Ground Beef
+70,Bagels;Ground Beef;Lettuce;Salsa;Tortillas
+71,Bananas;Cereal;Eggs
+72,Apples;Bananas;Bread;Burger Buns;Cheddar Cheese;Chicken Breast;Tomatoes;Yogurt
+73,Bread;Butter;Cookies;Eggs;Honey
+74,Beer;Potato Chips;Rice;Soda
+75,Baby Wipes;Coffee;Diapers;Paper Towels;Sugar
+76,Parmesan;Potato Chips
+77,Beer;Coffee;Milk;Sugar
+78,Baby Wipes;Cookies;Diapers;Ground Beef;Parmesan;Pasta;Pasta Sauce
+79,Milk;Onions;Parmesan;Pasta;Pasta Sauce
+80,Ground Beef;Pasta;Rice
+81,Bread;Jam;Paper Towels;Peanut Butter
+82,Apples;Bananas;Yogurt
+83,Beer;Ground Beef;Peanut Butter;Potato Chips;Tomatoes
+84,Burger Buns;Cereal;Cookies;Diapers;Ground Beef;Milk;Parmesan;Pasta;Pasta Sauce
+85,Onions;Tea
+86,Lemons;Tea;Tortillas
+87,Beer;Cheddar Cheese;Ground Beef;Onions;Pasta;Pasta Sauce
+88,Bacon;Bread;Orange Juice
+89,Potato Chips;Soda
+90,Ground Beef;Paper Towels;Pasta;Pasta Sauce
+91,Bananas;Bread;Eggs;Pasta;Pasta Sauce
+92,Bananas;Cereal;Coffee;Lettuce;Milk
+93,Beer;Cereal;Ground Beef;Milk;Onions;Parmesan;Pasta;Pasta Sauce;Potato Chips;Salsa
+94,Bananas;Coffee;Milk;Potato Chips;Soda
+95,Beer;Cheddar Cheese;Ground Beef
+96,Paper Towels;Parmesan;Pasta;Pasta Sauce
+97,Burger Buns;Ground Beef;Milk;Salsa
+98,Avocado;Bacon;Bread;Eggs;Orange Juice
+99,Avocado;Cheddar Cheese;Coffee;Eggs;Ground Beef;Parmesan;Pasta;Pasta Sauce;Salsa;Tortillas
+100,Bacon;Bread;Cereal;Coffee;Cookies;Eggs;Jam
+101,Apples;Bananas;Rice
+102,Apples;Bread;Cheddar Cheese;Ground Beef;Lettuce;Pasta Sauce;Peanut Butter;Tortillas
+103,Bread;Butter;Eggs
+104,Ground Beef;Onions;Parmesan;Pasta;Pasta Sauce
+105,Bananas;Cereal;Honey;Milk
+106,Honey;Tea
+107,Apples;Bananas
+108,Apples;Cereal;Milk;Soda
+109,Avocado;Cheddar Cheese;Ground Beef;Lettuce;Milk;Parmesan;Pasta;Salsa;Tortillas
+110,Bread;Diapers;Salsa;Tortillas
+111,Beer;Bread;Ground Beef;Parmesan;Pasta;Pasta Sauce;Potato Chips;Soda
+112,Bagels;Tea
+113,Avocado;Salsa;Tortillas
+114,Onions;Pasta;Pasta Sauce
+115,Bread;Eggs;Jam;Peanut Butter
+116,Beer;Cheddar Cheese;Jam;Lettuce;Salsa;Tortillas
+117,Apples;Bananas;Cereal;Cookies;Milk;Rice;Yogurt
+118,Beer;Potato Chips;Salsa;Soda
+119,Bananas;Burger Buns;Cereal;Cheddar Cheese;Coffee;Ground Beef;Milk;Sugar;Tomatoes
+120,Bread;Chicken Breast;Coffee;Jam;Milk;Peanut Butter;Sugar
+121,Avocado;Bread;Butter;Eggs;Salsa;Tortillas
+122,Apples;Chicken Breast;Pasta
+123,Bananas;Chicken Breast;Lemons;Tea;Yogurt
+124,Burger Buns;Cheddar Cheese;Cookies;Jam;Lettuce
+125,Bananas;Bread;Cereal;Milk
+126,Cereal;Milk;Onions
+127,Cereal;Milk;Onions
+128,Apples;Avocado;Bananas;Bread;Cereal;Cheddar Cheese;Ground Beef;Milk;Salsa;Tortillas;Yogurt
+129,Bananas;Beer;Chicken Breast;Cookies;Potato Chips;Soda;Yogurt
+130,Apples;Coffee;Potato Chips
+131,Bagels;Bananas;Cereal;Milk;Paper Towels;Tortillas
+132,Coffee;Milk;Tomatoes;Yogurt
+133,Bagels;Diapers
+134,Honey;Parmesan;Tea;Tortillas
+135,Bananas;Potato Chips;Soda
+136,Apples;Lettuce;Peanut Butter;Potato Chips;Rice;Yogurt
+137,Eggs;Paper Towels;Parmesan;Pasta;Pasta Sauce
+138,Avocado;Bread;Burger Buns;Butter;Cheddar Cheese;Diapers;Ground Beef;Lettuce;Tomatoes;Tortillas
+139,Tea
+140,Honey;Lemons;Tea;Tomatoes;Tortillas
+141,Bacon;Cereal;Orange Juice
+142,Apples;Cookies;Milk
+143,Coffee;Jam;Milk;Peanut Butter;Potato Chips;Soda
+144,Cereal;Milk;Soda
+145,Avocado;Bananas;Eggs;Ground Beef;Salsa;Tortillas
+146,Apples;Butter;Milk;Salsa;Tortillas
+147,Bread;Peanut Butter;Salsa
+148,Avocado;Baby Wipes;Cereal;Cheddar Cheese;Ground Beef;Lettuce;Salsa;Tortillas
+149,Baby Wipes;Bacon;Diapers
+150,Bananas;Burger Buns;Cheddar Cheese;Eggs;Ground Beef;Milk
+151,Baby Wipes;Bread;Diapers;Orange Juice
+152,Bacon;Butter;Coffee;Eggs;Milk;Onions;Paper Towels;Tea
+153,Coffee
+154,Bagels;Burger Buns;Cheddar Cheese;Ground Beef
+155,Beer;Cookies;Potato Chips
+156,Coffee;Paper Towels;Rice;Sugar
+157,Apples;Coffee;Milk
+158,Apples;Bacon;Bananas;Beer;Chicken Breast;Potato Chips;Salsa;Soda;Yogurt
+159,Baby Wipes;Bananas;Beer;Butter;Diapers;Eggs;Milk;Orange Juice;Rice;Yogurt
+160,Avocado;Cheddar Cheese;Eggs;Salsa;Tortillas
+161,Bread;Coffee;Honey;Milk;Tea
+162,Burger Buns;Ground Beef;Rice;Tomatoes
+163,Apples;Bacon;Beer;Potato Chips;Soda
+164,Beer;Ground Beef;Jam;Lettuce;Parmesan
+165,Avocado;Tortillas
+166,Apples;Baby Wipes;Bananas;Beer;Bread;Chicken Breast;Diapers;Milk;Yogurt
+167,Bacon;Bread;Chicken Breast;Eggs
+168,Tea
+169,Bacon;Bread;Butter;Eggs;Milk;Orange Juice
+170,Beer;Burger Buns;Cereal;Cheddar Cheese;Ground Beef;Lettuce;Potato Chips;Salsa;Soda
+171,Eggs;Tortillas
+172,Bagels;Coffee;Eggs;Milk;Orange Juice;Sugar
+173,Bread;Eggs;Orange Juice;Parmesan;Pasta
+174,Bananas;Honey;Pasta Sauce;Tea
+175,Bacon;Onions;Parmesan
+176,Bananas;Chicken Breast;Lemons;Yogurt
+177,Avocado;Burger Buns;Cheddar Cheese;Ground Beef;Salsa;Tortillas
+178,Bananas;Cereal;Coffee;Milk;Orange Juice;Sugar
+179,Ground Beef;Milk;Pasta;Pasta Sauce
+180,Baby Wipes;Diapers;Ground Beef;Parmesan
+181,Bacon;Bread;Eggs;Potato Chips;Salsa;Soda
+182,Chicken Breast
+183,Coffee;Cookies;Diapers;Sugar
+184,Apples;Bananas;Chicken Breast;Rice;Soda;Yogurt
+185,Coffee;Milk;Paper Towels;Yogurt
+186,Bananas;Chicken Breast;Milk;Rice
+187,Avocado;Bread;Burger Buns;Cheddar Cheese;Ground Beef;Jam;Peanut Butter;Salsa;Tortillas
+188,Apples;Bagels;Bananas;Chicken Breast;Jam;Rice;Yogurt
+189,Bananas;Burger Buns;Cereal;Cheddar Cheese;Ground Beef;Jam;Tortillas
+190,Soda;Tea
+191,Coffee;Milk;Sugar
+192,Beer;Burger Buns;Cookies;Ground Beef;Lettuce;Milk
+193,Eggs;Onions;Parmesan;Pasta;Pasta Sauce
+194,Apples;Eggs;Ground Beef
+195,Avocado;Bananas;Bread;Cheddar Cheese;Ground Beef;Parmesan;Pasta;Pasta Sauce;Salsa;Tortillas
+196,Apples;Bananas;Chicken Breast;Honey;Rice
+197,Chicken Breast;Pasta;Pasta Sauce
+198,Bacon;Bananas;Chicken Breast;Yogurt
+199,Bananas;Bread;Chicken Breast;Jam;Peanut Butter;Potato Chips;Yogurt
+200,Coffee;Sugar
+201,Bananas;Cereal;Milk
+202,Butter;Cheddar Cheese;Ground Beef;Salsa;Tortillas
+203,Lettuce;Onions;Pasta
+204,Burger Buns;Cheddar Cheese;Ground Beef;Milk;Tomatoes
+205,Avocado;Ground Beef;Honey;Lettuce;Paper Towels;Salsa;Tea;Tortillas
+206,Bananas;Bread;Pasta Sauce;Rice;Yogurt
+207,Bread;Jam;Peanut Butter;Rice
+208,Butter;Potato Chips;Soda
+209,Honey;Potato Chips;Tea
+210,Bananas;Beer;Burger Buns;Coffee;Ground Beef;Potato Chips;Soda
+211,Beer;Burger Buns;Ground Beef;Parmesan;Pasta;Pasta Sauce;Potato Chips;Tomatoes
+212,Peanut Butter
+213,Burger Buns;Cheddar Cheese;Ground Beef
+214,Cereal;Eggs;Ground Beef;Milk;Pasta;Pasta Sauce
+215,Bread;Jam;Lettuce;Salsa;Tortillas
+216,Bacon;Beer;Bread;Cereal;Cookies;Eggs;Potato Chips;Soda
+217,Bananas;Cereal;Milk;Pasta;Pasta Sauce
+218,Eggs;Lettuce
+219,Bagels;Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Tea
+220,Butter;Honey;Lemons;Tea
+221,Butter;Eggs
+222,Butter;Chicken Breast;Coffee;Lemons;Sugar;Tea
+223,Bacon;Bread;Burger Buns;Cheddar Cheese;Eggs;Ground Beef;Orange Juice;Tortillas
+224,Apples;Coffee;Milk;Paper Towels;Tea
+225,Apples;Coffee;Pasta Sauce;Rice
+226,Bread
+227,Bananas;Cereal;Milk
+228,Bread;Coffee;Jam;Milk;Peanut Butter
+229,Eggs;Tea
+230,Avocado;Burger Buns;Cheddar Cheese;Ground Beef;Parmesan;Pasta;Pasta Sauce;Tomatoes
+231,Baby Wipes;Bananas;Beer;Cereal;Diapers;Milk;Potato Chips;Tomatoes
+232,Potato Chips;Tomatoes
+233,Bacon;Bread;Jam;Lettuce;Peanut Butter
+234,Bacon;Bread;Jam;Orange Juice;Tea
+235,Bananas;Cereal;Milk;Pasta;Pasta Sauce;Rice
+236,Bananas;Cereal;Coffee;Milk
+237,Apples;Bananas;Tea;Yogurt
+238,Apples;Bananas;Burger Buns;Chicken Breast;Pasta;Pasta Sauce;Rice
+239,Apples;Bananas;Cereal;Honey;Milk;Tea
+240,Bread;Coffee;Ground Beef;Jam;Milk;Sugar;Tomatoes
+241,Coffee;Milk;Orange Juice;Potato Chips;Soda
+242,Apples;Parmesan;Pasta;Pasta Sauce
+243,Baby Wipes;Coffee;Diapers;Milk;Sugar
+244,Bread;Cereal;Cookies;Diapers;Milk;Paper Towels;Peanut Butter
+245,Ground Beef;Lettuce;Parmesan;Pasta;Pasta Sauce;Salsa;Tortillas
+246,Butter;Eggs;Salsa;Soda
+247,Bagels;Beer;Ground Beef;Lettuce;Salsa;Sugar;Tortillas
+248,Apples;Bananas;Bread;Rice;Yogurt
+249,Bacon;Bananas;Cereal;Coffee;Eggs;Milk;Sugar
+250,Apples;Bananas;Chicken Breast;Cookies;Rice;Sugar;Yogurt
+251,Bagels;Honey;Lemons;Tea
+252,Bananas;Burger Buns;Cheddar Cheese;Ground Beef;Milk;Tomatoes
+253,Apples;Cheddar Cheese;Salsa;Tortillas;Yogurt
+254,Bacon;Bread;Butter;Eggs;Honey;Milk;Orange Juice;Tea
+255,Bread;Jam;Peanut Butter
+256,Baby Wipes;Diapers;Paper Towels;Potato Chips
+257,Avocado;Cheddar Cheese;Salsa;Tortillas
+258,Coffee;Cookies;Milk;Sugar
+259,Honey;Lemons;Paper Towels;Pasta;Pasta Sauce;Tea
+260,Bread;Ground Beef;Orange Juice;Parmesan;Pasta;Pasta Sauce
+261,Coffee;Sugar
+262,Apples;Bananas;Chicken Breast;Cookies;Jam;Paper Towels;Rice;Yogurt
+263,Chicken Breast;Yogurt
+264,Paper Towels;Potato Chips
+265,Apples;Baby Wipes;Bread;Diapers;Ground Beef;Milk;Pasta;Rice;Yogurt
+266,Bagels;Eggs;Orange Juice;Parmesan;Pasta;Pasta Sauce
+267,Onions;Pasta
+268,Bananas;Butter;Cereal;Eggs
+269,Ground Beef;Onions;Pasta;Pasta Sauce
+270,Beer;Potato Chips;Soda
+271,Avocado;Cheddar Cheese;Ground Beef;Milk;Salsa;Tortillas
+272,Bacon;Coffee;Eggs;Orange Juice
+273,Avocado;Cheddar Cheese;Salsa;Tortillas
+274,Ground Beef;Parmesan;Pasta;Pasta Sauce;Rice;Soda
+275,Baby Wipes;Bagels;Beer;Bread;Diapers;Jam
+276,Apples;Beer;Chicken Breast;Paper Towels;Potato Chips;Salsa
+277,Cereal;Ground Beef;Parmesan;Pasta;Pasta Sauce;Potato Chips;Tea
+278,Baby Wipes;Bread;Diapers;Peanut Butter
+279,Bananas;Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Orange Juice;Parmesan;Pasta;Pasta Sauce
+280,Butter;Orange Juice
+281,Cookies;Potato Chips;Soda
+282,Bread;Chicken Breast;Ground Beef;Jam;Peanut Butter
+283,Burger Buns;Honey;Lemons;Lettuce;Milk;Soda;Tea;Tomatoes
+284,Bananas
+285,Bread;Eggs;Peanut Butter
+286,Avocado;Baby Wipes;Diapers
+287,Bananas;Chicken Breast;Parmesan;Pasta;Pasta Sauce
+288,Eggs;Tea
+289,Apples;Cereal;Milk
+290,Onions;Potato Chips;Salsa;Soda
+291,Apples;Avocado;Yogurt
+292,Bread;Diapers;Potato Chips;Soda
+293,Onions;Parmesan;Pasta;Pasta Sauce;Potato Chips
+294,Bacon;Bread;Eggs;Orange Juice;Potato Chips
+295,Bananas;Cereal;Paper Towels;Rice
+296,Bananas;Diapers
+297,Bacon;Bananas;Cereal;Eggs;Lemons;Milk
+298,Coffee;Paper Towels;Parmesan;Pasta;Pasta Sauce
+299,Ground Beef;Parmesan;Pasta;Pasta Sauce
+300,Beer;Bread;Butter;Peanut Butter;Potato Chips;Soda
+301,Bread;Cheddar Cheese;Orange Juice;Tortillas
+302,Avocado;Cheddar Cheese;Eggs;Ground Beef;Lettuce;Tortillas
+303,Burger Buns;Butter;Ground Beef;Lettuce;Rice
+304,Lemons;Tea
+305,Bacon;Bananas;Eggs;Orange Juice
+306,Bacon;Bread;Coffee;Lettuce
+307,Bread;Burger Buns;Cheddar Cheese;Ground Beef;Lettuce
+308,Bacon;Eggs;Orange Juice
+309,Beer;Paper Towels;Parmesan;Pasta;Pasta Sauce;Potato Chips;Salsa
+310,Bread;Onions;Sugar
+311,Apples;Bananas;Yogurt
+312,Bread;Diapers;Onions;Tomatoes
+313,Pasta;Pasta Sauce
+314,Avocado;Beer;Lemons;Potato Chips;Salsa;Soda;Tea
+315,Bananas;Eggs;Honey;Milk;Tea
+316,Burger Buns;Ground Beef;Jam;Tomatoes
+317,Bread;Cereal;Jam;Peanut Butter
+318,Burger Buns;Ground Beef;Lettuce;Tomatoes
+319,Avocado;Ground Beef;Tortillas
+320,Avocado;Bananas;Honey
+321,Coffee;Milk
+322,Bread;Burger Buns;Cheddar Cheese;Pasta
+323,Baby Wipes;Bacon;Bread;Butter;Diapers;Eggs;Honey;Orange Juice;Paper Towels;Tea
+324,Bacon;Bagels;Bread;Burger Buns;Eggs;Ground Beef;Paper Towels;Potato Chips;Tomatoes
+325,Avocado;Bananas;Burger Buns;Cereal;Ground Beef;Milk;Tortillas
+326,Beer;Potato Chips;Soda
+327,Cereal;Milk;Pasta;Pasta Sauce
+328,Bananas;Jam;Tea
+329,Chicken Breast;Jam;Potato Chips
+330,Cheddar Cheese;Lettuce;Salsa;Tortillas
+331,Bread;Jam;Milk;Peanut Butter
+332,Coffee;Milk;Sugar
+333,Beer;Coffee;Ground Beef;Milk;Onions;Parmesan;Pasta;Pasta Sauce;Potato Chips;Salsa;Soda;Sugar
+334,Bananas;Bread;Cookies;Jam;Paper Towels
+335,Bananas;Butter;Cereal;Ground Beef
+336,Apples;Bananas;Bread;Onions;Parmesan;Pasta;Pasta Sauce;Tea;Yogurt
+337,Avocado;Bread;Chicken Breast
+338,Eggs;Onions;Pasta;Pasta Sauce
+339,Bread;Jam;Potato Chips;Soda
+340,Bread;Butter;Cookies;Diapers;Eggs;Jam;Parmesan;Pasta;Pasta Sauce;Peanut Butter
+341,Beer;Butter;Eggs;Peanut Butter
+342,Potato Chips;Salsa;Soda
+343,Bread;Butter;Tea;Tortillas
+344,Ground Beef;Parmesan;Pasta;Pasta Sauce
+345,Baby Wipes;Bananas;Bread;Cereal;Diapers;Milk
+346,Bananas;Cereal;Ground Beef;Milk;Tomatoes
+347,Burger Buns;Ground Beef;Honey;Lettuce;Orange Juice;Tea
+348,Beer;Parmesan;Pasta;Pasta Sauce
+349,Avocado;Bagels;Cheddar Cheese;Coffee;Ground Beef;Milk
+350,Bread;Burger Buns;Eggs;Ground Beef;Lemons;Tea
+351,Bread;Burger Buns;Cheddar Cheese;Ground Beef;Lettuce
+352,Milk;Pasta Sauce;Tortillas
+353,Beer;Potato Chips
+354,Bagels;Bread;Jam;Peanut Butter
+355,Bread;Eggs;Milk;Onions;Orange Juice
+356,Bacon;Bananas;Bread;Butter;Coffee;Milk;Sugar
+357,Cookies;Ground Beef;Lemons;Parmesan;Pasta;Pasta Sauce;Soda
+358,Bananas;Cereal;Coffee;Milk
+359,Onions;Parmesan;Pasta
+360,Beer;Potato Chips;Soda;Tomatoes
+361,Burger Buns;Eggs;Ground Beef;Lettuce;Rice;Tea
+362,Burger Buns;Cheddar Cheese;Coffee;Milk;Sugar;Tomatoes
+363,Beer;Coffee;Milk;Potato Chips;Salsa;Soda;Sugar
+364,Bread;Potato Chips
+365,Bread;Honey;Jam;Peanut Butter
+366,Beer;Potato Chips;Salsa;Soda;Sugar;Tea
+367,Bacon;Bread;Jam;Orange Juice;Peanut Butter
+368,Bananas;Bread;Peanut Butter;Yogurt
+369,Milk;Potato Chips;Salsa;Soda
+370,Eggs;Parmesan;Pasta;Pasta Sauce
+371,Apples;Burger Buns;Cheddar Cheese;Eggs;Ground Beef;Lettuce;Milk;Pasta Sauce;Rice;Yogurt
+372,Pasta;Pasta Sauce;Sugar
+373,Cheddar Cheese;Eggs;Orange Juice;Pasta;Pasta Sauce;Tortillas
+374,Orange Juice;Potato Chips;Salsa
+375,Apples;Chicken Breast;Milk;Yogurt
+376,Bacon;Cereal;Potato Chips;Salsa
+377,Bread;Paper Towels;Parmesan;Pasta;Pasta Sauce
+378,Bananas;Bread;Cereal;Honey;Milk;Peanut Butter;Sugar;Tea
+379,Bacon;Eggs;Orange Juice
+380,Potato Chips;Salsa;Soda
+381,Bread;Butter;Eggs;Orange Juice
+382,Bagels;Bread;Jam;Lemons
+383,Bananas;Cereal;Milk;Potato Chips;Soda;Tea;Yogurt
+384,Cheddar Cheese;Ground Beef;Salsa
+385,Burger Buns;Cheddar Cheese;Lettuce;Potato Chips;Soda
+386,Apples;Avocado;Tea
+387,Bread;Cereal;Milk
+388,Bread;Eggs;Jam
+389,Apples;Ground Beef;Milk;Parmesan;Pasta
+390,Beer;Potato Chips;Salsa;Soda;Tomatoes
+391,Avocado;Ground Beef;Parmesan;Pasta;Peanut Butter;Tortillas
+392,Bread;Burger Buns;Cheddar Cheese;Eggs;Ground Beef;Lettuce
+393,Apples;Bananas;Chicken Breast;Rice
+394,Bread;Jam;Peanut Butter
+395,Bread;Butter;Cereal;Ground Beef;Jam;Peanut Butter
+396,Beer;Bread;Jam;Peanut Butter;Potato Chips;Salsa;Soda
+397,Ground Beef;Lettuce;Salsa;Tortillas
+398,Cereal;Cookies;Milk
+399,Honey
+400,Orange Juice
+401,Apples;Burger Buns;Cheddar Cheese;Chicken Breast;Ground Beef;Yogurt
+402,Bacon;Bread;Burger Buns;Butter;Cheddar Cheese;Eggs;Ground Beef;Orange Juice
+403,Eggs
+404,Coffee;Potato Chips;Salsa;Soda;Sugar
+405,Bread;Jam
+406,Apples;Coffee
+407,Bananas;Cereal;Eggs;Milk
+408,Eggs;Parmesan;Pasta;Pasta Sauce
+409,Apples;Burger Buns;Cheddar Cheese;Ground Beef;Tomatoes
+410,Bacon;Bread;Eggs;Honey;Orange Juice;Tea
+411,Eggs;Onions;Parmesan;Pasta;Pasta Sauce;Tea
+412,Bananas;Burger Buns;Cereal;Honey;Lemons;Milk;Tea
+413,Cereal;Milk;Onions
+414,Bacon;Bread;Eggs;Orange Juice
+415,Bananas;Chicken Breast;Pasta;Yogurt
+416,Coffee;Eggs;Milk
+417,Bacon;Bananas;Butter;Chicken Breast;Pasta;Rice;Yogurt
+418,Bacon;Beer;Bread;Coffee;Eggs;Milk;Orange Juice;Pasta Sauce
+419,Bananas;Cereal;Jam;Milk;Pasta;Pasta Sauce
+420,Bacon;Bread;Eggs;Ground Beef;Parmesan;Pasta;Pasta Sauce;Rice
+421,Bacon;Bread;Eggs;Orange Juice
+422,Ground Beef;Jam;Parmesan;Pasta;Pasta Sauce
+423,Diapers;Potato Chips;Salsa;Soda
+424,Potato Chips;Salsa;Soda
+425,Apples;Chicken Breast;Eggs;Milk;Rice;Yogurt
+426,Apples;Bananas;Honey;Rice;Tea
+427,Bananas;Cheddar Cheese;Ground Beef;Lettuce;Rice;Salsa;Tortillas
+428,Bananas;Onions;Pasta;Pasta Sauce;Potato Chips;Salsa;Soda
+429,Bananas;Beer;Bread;Cereal;Milk;Potato Chips;Salsa
+430,Bananas;Bread;Jam;Onions;Parmesan;Pasta;Pasta Sauce;Yogurt
+431,Bread;Cereal;Orange Juice
+432,Cereal;Tortillas
+433,Eggs;Lettuce;Orange Juice
+434,Baby Wipes;Bananas;Butter;Chicken Breast;Diapers;Orange Juice;Yogurt
+435,Bread;Eggs;Ground Beef;Pasta;Pasta Sauce;Rice
+436,Bread;Chicken Breast;Eggs;Jam;Orange Juice;Paper Towels;Peanut Butter
+437,Apples;Chicken Breast
+438,Burger Buns;Parmesan;Pasta;Pasta Sauce
+439,Coffee;Milk;Parmesan;Pasta Sauce;Peanut Butter
+440,Bread;Cereal;Milk
+441,Ground Beef;Lemons;Pasta;Pasta Sauce
+442,Beer;Coffee;Milk;Sugar
+443,Bread;Paper Towels;Peanut Butter
+444,Avocado;Bread;Soda
+445,Cereal;Coffee;Milk
+446,Bananas;Bread;Eggs
+447,Bacon;Bananas;Bread;Cereal;Eggs;Lettuce;Milk;Orange Juice
+448,Ground Beef;Pasta;Pasta Sauce;Potato Chips
+449,Apples;Burger Buns;Cheddar Cheese;Lettuce;Tomatoes
+450,Cereal;Cheddar Cheese;Ground Beef;Onions;Tortillas
+451,Apples;Salsa;Soda;Tomatoes;Yogurt
+452,Bananas;Burger Buns;Cheddar Cheese;Chicken Breast;Eggs;Ground Beef;Paper Towels;Yogurt
+453,Cheddar Cheese;Ground Beef;Parmesan;Salsa;Tortillas
+454,Beer;Potato Chips;Soda
+455,Bread;Cereal
+456,Baby Wipes;Bread;Burger Buns;Diapers;Jam;Parmesan
+457,Bananas;Potato Chips;Soda
+458,Baby Wipes;Diapers;Parmesan;Pasta;Pasta Sauce;Potato Chips;Soda
+459,Bagels;Onions;Pasta;Pasta Sauce
+460,Baby Wipes;Bananas;Chicken Breast;Tea
+461,Coffee
+462,Bananas;Beer;Burger Buns;Cereal;Ground Beef;Lettuce;Milk;Onions;Potato Chips;Salsa;Soda
+463,Cereal;Milk
+464,Bananas;Cereal;Milk
+465,Bananas;Onions;Potato Chips;Salsa;Soda
+466,Cookies;Eggs
+467,Bread;Milk;Potato Chips
+468,Coffee;Diapers;Potato Chips
+469,Burger Buns;Cheddar Cheese;Coffee;Cookies;Ground Beef;Milk;Parmesan;Sugar;Tomatoes
+470,Beer;Coffee;Milk;Potato Chips;Rice;Soda;Sugar
+471,Coffee;Milk
+472,Bananas;Burger Buns;Ground Beef;Lettuce;Rice;Salsa;Tortillas;Yogurt
+473,Bacon;Eggs;Orange Juice;Pasta Sauce
+474,Bananas;Bread;Cereal;Jam;Milk;Peanut Butter
+475,Bacon;Bread;Coffee;Orange Juice;Tea
+476,Apples;Eggs;Orange Juice;Tomatoes
+477,Coffee;Milk
+478,Bread;Eggs;Peanut Butter
+479,Avocado;Paper Towels;Salsa;Tortillas
+480,Coffee;Milk
+481,Bagels;Bread;Ground Beef;Honey;Lemons;Pasta;Pasta Sauce;Tea
+482,Bananas;Coffee
+483,Burger Buns;Cereal;Coffee;Ground Beef;Milk;Sugar;Tomatoes
+484,Avocado;Baby Wipes;Beer;Diapers
+485,Soda;Tea;Yogurt
+486,Bacon;Bread
+487,Lemons;Onions;Potato Chips;Soda
+488,Cereal;Honey;Milk
+489,Bacon;Bananas;Diapers;Tea
+490,Chicken Breast;Milk;Pasta;Pasta Sauce;Rice;Yogurt
+491,Potato Chips;Salsa;Soda
+492,Ground Beef;Onions;Parmesan;Pasta;Pasta Sauce
+493,Apples;Bacon;Chicken Breast;Diapers;Potato Chips;Soda
+494,Jam
+495,Bread;Coffee;Milk;Sugar
+496,Butter;Cheddar Cheese;Eggs;Ground Beef;Milk;Orange Juice;Potato Chips;Salsa;Soda;Sugar;Tortillas
+497,Cheddar Cheese;Coffee;Milk;Salsa;Tea;Tortillas
+498,Salsa;Soda
+499,Coffee;Milk;Sugar
+500,Baby Wipes;Beer;Bread;Diapers;Potato Chips;Salsa;Soda
+501,Cheddar Cheese;Ground Beef;Lettuce;Tortillas
+502,Baby Wipes;Diapers;Pasta
+503,Potato Chips;Soda
+504,Bagels;Ground Beef;Onions;Parmesan;Pasta;Pasta Sauce
+505,Bacon;Bananas;Cookies;Milk
+506,Bananas;Beer;Cereal;Milk;Potato Chips;Salsa
+507,Beer;Eggs;Milk;Potato Chips;Salsa;Soda;Sugar
+508,Burger Buns;Ground Beef;Lettuce;Tomatoes
+509,Avocado;Butter;Ground Beef;Milk;Tortillas
+510,Bananas;Ground Beef;Parmesan;Pasta;Pasta Sauce;Salsa;Soda
+511,Bacon;Bread;Cheddar Cheese;Ground Beef;Orange Juice;Parmesan;Pasta;Tortillas
+512,Apples;Bananas;Milk;Sugar;Tomatoes;Yogurt
+513,Bacon;Bread;Orange Juice;Potato Chips
+514,Beer;Butter;Potato Chips;Salsa;Tea
+515,Avocado;Bananas;Burger Buns;Cereal;Ground Beef;Milk;Salsa;Tortillas
+516,Bananas;Honey;Lemons;Tea
+517,Bananas;Cereal;Chicken Breast;Yogurt
+518,Bread;Coffee;Milk
+519,Apples;Diapers;Orange Juice;Pasta;Pasta Sauce
+520,Beer;Ground Beef;Milk;Paper Towels;Pasta;Pasta Sauce;Potato Chips;Salsa;Soda
+521,Eggs;Milk;Onions;Pasta
+522,Potato Chips;Salsa;Soda;Tomatoes
+523,Apples;Potato Chips;Salsa;Soda
+524,Bananas;Milk;Paper Towels;Potato Chips;Soda
+525,Bacon;Butter;Eggs;Milk;Orange Juice;Paper Towels
+526,Avocado;Bread;Cheddar Cheese;Jam;Salsa;Tortillas
+527,Cheddar Cheese;Ground Beef;Lettuce
+528,Bananas;Beer;Cereal;Coffee;Milk;Potato Chips;Salsa;Soda
+529,Bananas;Cereal;Diapers;Milk
+530,Bread;Burger Buns;Cheddar Cheese;Ground Beef;Honey;Lettuce;Yogurt
+531,Apples;Bananas;Sugar
+532,Baby Wipes;Bread;Diapers;Jam;Peanut Butter
+533,Beer;Cheddar Cheese;Paper Towels;Potato Chips;Salsa;Soda;Tortillas
+534,Baby Wipes;Bread;Butter;Cookies;Diapers;Jam;Peanut Butter
+535,Apples;Bananas;Bread;Honey;Onions;Pasta;Pasta Sauce;Peanut Butter
+536,Bacon;Eggs;Orange Juice;Tea
+537,Bananas;Eggs;Milk;Orange Juice
+538,Potato Chips;Salsa;Soda
+539,Avocado;Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Tomatoes;Tortillas
+540,Baby Wipes;Jam;Peanut Butter
+541,Coffee;Milk;Soda
+542,Apples;Avocado;Beer;Cheddar Cheese;Ground Beef;Milk;Potato Chips;Salsa;Soda;Tortillas
+543,Diapers;Tortillas
+544,Bacon;Cereal;Milk;Pasta;Pasta Sauce
+545,Coffee;Lettuce;Milk;Sugar
+546,Bananas;Eggs;Onions;Orange Juice
+547,Apples;Burger Buns;Cheddar Cheese;Coffee;Eggs;Ground Beef;Lettuce;Milk;Sugar
+548,Apples;Bananas;Cereal;Milk
+549,Butter;Eggs
+550,Coffee;Eggs;Milk;Sugar
+551,Bread;Butter;Eggs;Honey;Orange Juice;Pasta
+552,Cereal;Milk;Paper Towels
+553,Cheddar Cheese;Milk;Paper Towels;Salsa;Tortillas
+554,Apples;Ground Beef;Parmesan;Pasta;Pasta Sauce
+555,Apples;Bananas;Bread;Cereal;Milk;Rice;Yogurt
+556,Burger Buns;Cheddar Cheese;Ground Beef;Lettuce
+557,Pasta;Pasta Sauce
+558,Onions;Paper Towels;Pasta;Pasta Sauce;Potato Chips;Salsa;Soda
+559,Bread;Jam;Peanut Butter
+560,Avocado;Cheddar Cheese;Ground Beef;Onions;Tortillas
+561,Bananas;Burger Buns;Ground Beef;Parmesan;Potato Chips;Soda;Tomatoes
+562,Bananas;Bread;Cereal;Coffee;Milk;Peanut Butter
+563,Bananas;Beer;Potato Chips;Soda
+564,Burger Buns;Ground Beef;Lettuce;Paper Towels
+565,Bagels;Bread;Jam;Yogurt
+566,Bananas;Burger Buns;Cereal;Ground Beef;Milk;Tomatoes
+567,Bread;Cheddar Cheese;Cookies;Honey;Jam;Lemons;Tea
+568,Cheddar Cheese;Ground Beef;Lettuce;Tortillas
+569,Baby Wipes;Bacon;Coffee;Diapers
+570,Avocado;Bread;Cheddar Cheese;Ground Beef;Salsa;Tortillas
+571,Honey;Jam;Milk;Tea
+572,Bananas;Bread;Jam;Peanut Butter;Tea
+573,Bananas;Bread;Eggs;Orange Juice;Soda
+574,Cheddar Cheese;Lettuce;Onions;Salsa;Tortillas
+575,Baby Wipes;Diapers;Rice;Yogurt
+576,Coffee;Milk;Sugar
+577,Bananas;Beer;Bread;Cookies;Jam;Peanut Butter
+578,Apples;Avocado;Cookies;Diapers;Lettuce;Milk;Salsa;Tortillas
+579,Bananas
+580,Bagels;Honey;Sugar;Tea
+581,Avocado;Cheddar Cheese;Potato Chips;Salsa;Tortillas
+582,Bread;Jam;Peanut Butter
+583,Bread
+584,Bacon;Cereal;Eggs;Milk
+585,Beer;Bread;Onions;Parmesan;Pasta;Potato Chips;Rice;Salsa;Soda;Tea;Yogurt
+586,Bread;Butter;Eggs;Lemons;Tea
+587,Cereal;Milk;Tea
+588,Ground Beef;Milk;Pasta;Pasta Sauce
+589,Bananas;Chicken Breast;Pasta;Pasta Sauce;Rice
+590,Pasta Sauce;Potato Chips;Salsa;Soda
+591,Cheddar Cheese;Lettuce
+592,Pasta;Soda
+593,Bananas;Coffee;Cookies;Milk
+594,Baby Wipes;Bacon;Bananas;Bread;Eggs
+595,Baby Wipes;Burger Buns;Diapers;Ground Beef;Lettuce;Orange Juice;Tomatoes
+596,Avocado;Cheddar Cheese;Ground Beef;Potato Chips;Rice;Salsa;Soda
+597,Apples;Bananas;Beer;Honey;Milk;Pasta Sauce;Potato Chips;Soda;Tea;Yogurt
+598,Apples;Bread;Cereal;Milk;Peanut Butter;Soda
+599,Coffee
+600,Bread;Peanut Butter
+601,Bread;Burger Buns;Ground Beef;Honey;Tea
+602,Cereal;Milk
+603,Lettuce;Potato Chips;Salsa;Soda
+604,Baby Wipes;Diapers
+605,Milk;Parmesan;Pasta;Pasta Sauce
+606,Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Tomatoes
+607,Beer;Cereal;Milk;Potato Chips
+608,Avocado;Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Paper Towels;Salsa;Tortillas
+609,Beer;Potato Chips;Salsa;Soda
+610,Cereal;Parmesan
+611,Bacon;Bread;Butter;Eggs;Orange Juice
+612,Honey;Pasta;Tea
+613,Burger Buns;Ground Beef;Honey
+614,Bread;Peanut Butter
+615,Apples;Chicken Breast;Milk;Rice;Yogurt
+616,Honey;Rice;Yogurt
+617,Apples;Coffee;Lemons;Milk;Sugar;Tea
+618,Apples;Avocado;Bananas;Chicken Breast;Yogurt
+619,Baby Wipes;Bananas;Beer;Diapers;Potato Chips;Salsa;Soda
+620,Cereal;Milk;Onions;Potato Chips;Soda
+621,Bagels;Coffee;Ground Beef;Onions;Pasta;Sugar
+622,Bagels;Bread;Parmesan;Pasta;Pasta Sauce;Peanut Butter
+623,Bread;Peanut Butter
+624,Bananas;Bread;Jam
+625,Ground Beef;Parmesan;Pasta
+626,Coffee
+627,Bananas;Beer;Bread;Coffee;Jam;Milk;Peanut Butter;Sugar
+628,Cheddar Cheese;Orange Juice;Salsa;Sugar
+629,Apples;Bananas;Bread;Butter;Cereal;Jam;Milk;Peanut Butter;Tortillas
+630,Coffee;Milk
+631,Bread;Butter;Jam;Milk;Peanut Butter;Sugar;Tomatoes
+632,Beer;Ground Beef;Honey;Potato Chips;Soda;Tea
+633,Bread;Burger Buns;Ground Beef;Parmesan;Pasta;Tomatoes
+634,Baby Wipes;Cheddar Cheese;Ground Beef;Salsa;Tortillas
+635,Apples;Bananas;Onions;Rice;Soda
+636,Burger Buns;Cheddar Cheese;Tomatoes
+637,Coffee;Ground Beef;Milk;Orange Juice;Pasta;Pasta Sauce;Sugar
+638,Bread;Burger Buns;Ground Beef;Salsa
+639,Burger Buns;Ground Beef;Tomatoes
+640,Cookies
+641,Cheddar Cheese;Ground Beef;Lettuce;Salsa;Tortillas
+642,Bananas;Bread;Cereal;Honey;Lemons;Tea
+643,Baby Wipes;Beer;Diapers
+644,Bacon;Bread;Butter;Eggs;Parmesan
+645,Ground Beef;Milk;Parmesan;Pasta;Pasta Sauce;Tomatoes
+646,Avocado;Bread;Butter;Cheddar Cheese;Jam;Paper Towels;Peanut Butter;Salsa;Tortillas
+647,Bananas;Bread;Cereal;Eggs;Jam;Milk;Paper Towels;Potato Chips
+648,Cookies;Jam;Peanut Butter
+649,Apples;Eggs;Yogurt
+650,Avocado;Bread;Eggs;Ground Beef;Parmesan;Tea;Tortillas;Yogurt
+651,Bread;Coffee;Milk
+652,Parmesan;Pasta;Pasta Sauce;Potato Chips
+653,Bananas;Honey;Lemons;Pasta;Sugar;Tea
+654,Apples;Bananas;Chicken Breast;Yogurt
+655,Bananas;Bread;Cereal;Milk
+656,Tea;Tortillas
+657,Avocado;Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Milk;Salsa;Tortillas
+658,Eggs;Ground Beef;Lettuce;Peanut Butter
+659,Baby Wipes;Bread;Burger Buns;Cheddar Cheese;Diapers;Ground Beef;Paper Towels;Tomatoes
+660,Cereal;Milk
+661,Lemons;Onions;Tea
+662,Bacon;Cereal;Milk
+663,Bacon;Bread;Butter;Cheddar Cheese;Ground Beef;Lettuce;Pasta;Salsa;Tortillas
+664,Cookies;Onions;Pasta;Pasta Sauce
+665,Cereal;Milk;Potato Chips
+666,Bread;Burger Buns;Cheddar Cheese;Chicken Breast;Eggs;Ground Beef;Lettuce;Orange Juice;Tomatoes
+667,Bacon;Bread;Eggs;Milk;Orange Juice;Potato Chips;Salsa
+668,Bananas;Yogurt
+669,Apples;Bananas;Chicken Breast;Ground Beef;Parmesan;Pasta;Pasta Sauce;Yogurt
+670,Apples;Bread;Chicken Breast;Jam;Milk;Peanut Butter;Yogurt
+671,Bread;Butter;Coffee;Milk;Sugar
+672,Apples;Bananas;Orange Juice;Paper Towels;Rice;Soda;Yogurt
+673,Bread;Orange Juice;Paper Towels
+674,Parmesan;Pasta;Pasta Sauce
+675,Bacon;Bagels;Diapers;Eggs;Jam;Orange Juice
+676,Burger Buns;Eggs;Ground Beef
+677,Avocado;Bread;Cheddar Cheese;Diapers;Ground Beef;Salsa;Tortillas
+678,Bread;Jam;Peanut Butter
+679,Potato Chips;Salsa
+680,Bananas;Cereal;Diapers;Ground Beef;Milk;Parmesan;Pasta;Pasta Sauce
+681,Honey;Jam;Tea
+682,Bagels;Burger Buns;Cheddar Cheese;Ground Beef;Lettuce
+683,Cereal;Coffee;Milk
+684,Avocado;Bread;Ground Beef;Salsa;Tortillas;Yogurt
+685,Bread;Jam;Parmesan;Pasta;Peanut Butter;Rice
+686,Baby Wipes;Cheddar Cheese;Ground Beef;Lettuce;Salsa;Tortillas
+687,Bananas;Cereal;Ground Beef;Milk;Parmesan;Pasta;Pasta Sauce
+688,Apples;Bacon;Bread;Orange Juice
+689,Avocado;Baby Wipes;Cheddar Cheese;Coffee;Cookies;Diapers;Lettuce;Salsa;Tortillas
+690,Apples;Bananas;Bread;Rice;Sugar
+691,Bananas;Cereal;Eggs;Milk;Pasta Sauce
+692,Butter;Cereal;Eggs;Milk
+693,Bananas;Burger Buns;Cereal;Eggs;Ground Beef;Lettuce;Milk
+694,Apples;Chicken Breast;Yogurt
+695,Bananas;Bread;Butter;Cereal;Coffee;Milk;Orange Juice;Sugar
+696,Honey;Potato Chips
+697,Bread;Coffee;Jam;Peanut Butter;Sugar
+698,Jam;Milk;Orange Juice;Peanut Butter
+699,Eggs;Ground Beef;Honey;Milk;Parmesan;Pasta;Pasta Sauce;Tea;Tomatoes
+700,Bread;Jam;Peanut Butter
+701,Beer;Ground Beef;Lettuce;Paper Towels;Potato Chips;Rice;Salsa;Soda;Sugar
+702,Bananas;Eggs;Honey;Rice;Tea;Yogurt
+703,Bread;Cereal;Eggs;Milk
+704,Bananas;Cereal;Ground Beef;Milk;Paper Towels;Rice
+705,Bananas;Butter;Cereal;Jam;Milk
+706,Cereal;Milk;Parmesan;Potato Chips
+707,Onions;Parmesan;Pasta;Pasta Sauce
+708,Cheddar Cheese;Lemons;Milk;Salsa;Tortillas
+709,Apples;Bananas;Cereal;Milk;Paper Towels
+710,Bananas;Eggs
+711,Coffee;Milk;Rice;Sugar
+712,Baby Wipes;Bacon;Bread;Eggs;Orange Juice
+713,Bananas;Cereal;Ground Beef;Milk;Pasta;Pasta Sauce;Sugar;Yogurt
+714,Beer;Milk;Soda;Tea
+715,Potato Chips
+716,Burger Buns;Cheddar Cheese;Coffee;Eggs;Ground Beef;Lettuce;Salsa;Soda;Tomatoes
+717,Baby Wipes;Diapers;Eggs;Lettuce
+718,Bananas;Honey;Onions;Pasta;Pasta Sauce;Rice;Yogurt
+719,Bacon;Butter;Orange Juice
+720,Beer;Cereal;Milk;Potato Chips;Salsa;Soda;Yogurt
+721,Baby Wipes;Bread;Burger Buns;Cheddar Cheese;Ground Beef;Salsa;Tomatoes
+722,Bread;Coffee;Paper Towels
+723,Lettuce;Orange Juice;Parmesan;Pasta;Pasta Sauce
+724,Baby Wipes;Bread;Diapers;Jam;Milk
+725,Apples;Bananas;Beer;Cereal;Chicken Breast;Ground Beef;Milk;Potato Chips;Salsa;Soda
+726,Eggs
+727,Apples;Bacon;Butter;Cereal;Coffee;Eggs;Milk;Orange Juice
+728,Coffee;Milk
+729,Apples;Baby Wipes;Diapers;Sugar
+730,Chicken Breast;Coffee;Cookies;Milk
+731,Onions;Pasta;Pasta Sauce;Soda
+732,Avocado;Bagels;Bread;Cheddar Cheese;Ground Beef;Jam;Salsa;Tortillas
+733,Butter;Chicken Breast;Eggs;Honey;Yogurt
+734,Apples;Bananas;Soda;Yogurt
+735,Burger Buns;Yogurt
+736,Apples;Bacon;Bananas;Bread;Chicken Breast;Honey;Soda
+737,Bananas;Bread;Butter;Eggs;Ground Beef;Orange Juice
+738,Apples;Avocado;Chicken Breast;Paper Towels;Rice;Salsa;Tortillas;Yogurt
+739,Bread;Coffee;Jam;Peanut Butter;Potato Chips;Soda
+740,Beer;Butter;Ground Beef;Parmesan;Pasta;Pasta Sauce;Potato Chips;Soda
+741,Bread;Coffee;Cookies;Jam;Milk;Peanut Butter
+742,Chicken Breast;Salsa;Tomatoes;Tortillas
+743,Avocado;Baby Wipes;Beer;Cheddar Cheese;Diapers;Ground Beef;Salsa;Tea;Tortillas
+744,Bananas;Bread;Pasta Sauce;Yogurt
+745,Ground Beef;Honey;Lemons;Lettuce;Paper Towels;Rice;Tea;Tomatoes
+746,Bread;Eggs;Jam
+747,Bread;Jam;Peanut Butter;Potato Chips;Salsa;Soda
+748,Bananas;Chicken Breast;Rice;Yogurt
+749,Ground Beef;Parmesan;Pasta;Pasta Sauce
+750,Cheddar Cheese;Jam;Lemons;Peanut Butter;Salsa
+751,Burger Buns;Diapers;Ground Beef
+752,Avocado;Bacon;Bagels;Bananas;Butter;Cheddar Cheese;Cookies;Eggs;Orange Juice;Rice;Salsa;Tortillas
+753,Apples;Cheddar Cheese
+754,Bagels;Ground Beef;Parmesan;Pasta
+755,Apples;Bananas;Chicken Breast;Honey;Yogurt
+756,Baby Wipes;Burger Buns;Cereal;Diapers;Orange Juice;Tea
+757,Onions;Pasta;Pasta Sauce
+758,Bananas;Cereal;Ground Beef;Lettuce;Milk;Tortillas
+759,Bread;Jam;Peanut Butter
+760,Bacon;Bread;Butter;Cheddar Cheese;Eggs;Orange Juice
+761,Bacon;Bread;Butter
+762,Baby Wipes;Beer;Diapers;Ground Beef
+763,Apples;Bacon;Bananas;Chicken Breast;Eggs;Orange Juice;Rice;Salsa;Tortillas
+764,Bread;Butter;Coffee;Ground Beef;Sugar
+765,Coffee;Milk
+766,Baby Wipes;Butter;Milk;Peanut Butter;Rice
+767,Onions;Parmesan
+768,Bagels;Bananas;Cereal;Milk
+769,Bananas;Bread;Cereal;Jam;Milk;Peanut Butter
+770,Bread;Eggs;Jam;Orange Juice;Peanut Butter;Soda
+771,Coffee;Jam
+772,Bread;Peanut Butter
+773,Bananas;Cheddar Cheese;Lettuce;Rice;Tortillas;Yogurt
+774,Baby Wipes;Bananas;Cereal;Rice
+775,Ground Beef;Parmesan;Pasta;Pasta Sauce;Sugar
+776,Potato Chips;Soda
+777,Bananas;Cereal;Milk;Potato Chips;Soda
+778,Coffee;Lemons;Milk;Sugar;Tortillas
+779,Butter;Cereal;Jam;Milk;Potato Chips
+780,Eggs;Honey;Lemons;Tea
+781,Coffee;Parmesan;Sugar
+782,Honey;Tea
+783,Butter;Cheddar Cheese;Eggs;Potato Chips;Soda
+784,Bacon;Bread;Jam;Peanut Butter
+785,Apples;Bread;Burger Buns;Butter;Eggs;Orange Juice;Paper Towels
+786,Honey;Lemons;Tea
+787,Bacon;Butter;Eggs;Honey;Yogurt
+788,Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Tomatoes
+789,Beer;Burger Buns;Ground Beef;Lettuce;Potato Chips;Soda;Tomatoes
+790,Bacon;Butter;Eggs;Orange Juice
+791,Apples;Bread;Cookies;Honey;Potato Chips;Soda
+792,Apples;Bread;Chicken Breast;Yogurt
+793,Bananas;Cereal;Chicken Breast;Cookies;Milk;Rice;Yogurt
+794,Cereal;Cheddar Cheese;Ground Beef;Honey;Milk;Salsa;Tortillas
+795,Bananas;Rice;Soda;Yogurt
+796,Bananas;Chicken Breast;Eggs;Honey;Rice;Tea
+797,Bread;Chicken Breast;Ground Beef;Honey;Jam;Lemons;Onions;Pasta;Pasta Sauce;Sugar;Tea
+798,Avocado;Bread
+799,Diapers;Honey;Parmesan;Pasta;Pasta Sauce
+800,Butter;Milk;Orange Juice
+801,Cheddar Cheese;Coffee
+802,Bacon;Butter;Eggs;Tea;Tortillas
+803,Avocado;Ground Beef;Lettuce;Pasta;Potato Chips;Salsa;Tortillas
+804,Bananas;Cereal;Eggs;Milk
+805,Coffee
+806,Coffee;Eggs;Sugar
+807,Baby Wipes;Bacon;Diapers;Honey;Jam;Tea
+808,Eggs;Rice;Yogurt
+809,Bacon;Bread;Eggs;Jam;Lettuce;Soda
+810,Apples;Bananas;Chicken Breast
+811,Bread;Peanut Butter
+812,Baby Wipes;Bananas;Beer;Diapers
+813,Bagels;Bread;Jam;Milk
+814,Beer;Lemons;Potato Chips;Tea
+815,Apples;Bread;Ground Beef;Parmesan;Pasta;Pasta Sauce
+816,Apples;Bananas;Bread;Burger Buns;Cheddar Cheese;Chicken Breast;Eggs;Ground Beef;Lettuce;Tomatoes
+817,Apples;Baby Wipes
+818,Bread;Coffee
+819,Eggs;Lemons;Tea
+820,Bananas;Burger Buns;Ground Beef;Lettuce
+821,Cheddar Cheese;Coffee;Lettuce;Milk;Sugar;Tortillas
+822,Ground Beef;Honey;Parmesan;Pasta Sauce;Tea
+823,Apples;Bananas;Chicken Breast;Paper Towels;Pasta Sauce;Rice;Yogurt
+824,Burger Buns;Ground Beef;Pasta;Pasta Sauce
+825,Bread;Jam;Peanut Butter;Soda
+826,Bread;Cereal;Lemons
+827,Burger Buns;Cheddar Cheese
+828,Bread;Jam;Peanut Butter
+829,Bananas;Bread;Eggs
+830,Cereal;Eggs;Milk
+831,Bananas;Bread;Chicken Breast;Cookies;Jam;Lemons;Pasta Sauce;Peanut Butter;Tea
+832,Apples;Salsa
+833,Burger Buns;Cheddar Cheese;Ground Beef;Salsa;Tomatoes
+834,Bananas;Beer;Chicken Breast;Milk;Potato Chips;Salsa;Yogurt
+835,Apples;Chicken Breast;Coffee;Onions;Sugar;Yogurt
+836,Baby Wipes;Bread;Diapers;Eggs
+837,Bananas;Cookies;Milk;Pasta Sauce
+838,Avocado;Ground Beef;Tortillas
+839,Apples;Baby Wipes;Bananas;Diapers;Rice;Yogurt
+840,Bananas;Cereal;Chicken Breast;Milk;Yogurt
+841,Cheddar Cheese;Cookies;Potato Chips;Salsa;Soda
+842,Burger Buns;Ground Beef;Jam;Onions;Paper Towels;Parmesan;Pasta;Pasta Sauce;Potato Chips;Soda
+843,Eggs;Onions;Pasta;Pasta Sauce;Potato Chips
+844,Bananas;Beer;Cereal;Milk;Pasta
+845,Ground Beef;Salsa;Tortillas
+846,Bacon;Bread;Butter;Jam;Peanut Butter
+847,Bread;Diapers;Paper Towels;Peanut Butter
+848,Tea
+849,Bread;Ground Beef;Pasta;Peanut Butter;Sugar
+850,Bananas;Honey;Lemons
+851,Onions;Pasta;Pasta Sauce
+852,Bananas;Beer;Diapers;Rice;Yogurt
+853,Bread;Burger Buns
+854,Butter;Cheddar Cheese;Lettuce;Tortillas
+855,Avocado;Cheddar Cheese;Tortillas
+856,Bacon;Bread;Orange Juice;Soda
+857,Bananas;Butter;Cereal;Milk;Yogurt
+858,Bananas;Cereal;Ground Beef;Milk
+859,Apples;Bread;Eggs;Onions;Orange Juice;Parmesan;Pasta;Pasta Sauce
+860,Coffee;Ground Beef;Milk;Salsa;Sugar;Tortillas
+861,Apples;Eggs;Ground Beef;Parmesan;Pasta;Pasta Sauce
+862,Baby Wipes;Bread;Diapers;Peanut Butter
+863,Apples;Beer;Potato Chips;Salsa
+864,Baby Wipes;Diapers;Lemons
+865,Milk;Pasta
+866,Lemons;Tea
+867,Bread;Parmesan;Pasta;Pasta Sauce
+868,Onions;Pasta;Pasta Sauce;Rice;Tea
+869,Bananas;Cereal;Ground Beef;Milk;Paper Towels
+870,Avocado;Bananas;Cheddar Cheese;Chicken Breast;Tortillas
+871,Bananas;Butter;Cereal;Cookies;Milk;Paper Towels
+872,Butter;Cheddar Cheese;Potato Chips;Salsa
+873,Bread;Butter;Ground Beef;Jam;Pasta;Pasta Sauce;Peanut Butter
+874,Apples;Bananas;Beer;Chicken Breast;Cookies;Potato Chips;Salsa;Soda;Yogurt
+875,Cereal;Jam;Milk;Pasta Sauce;Peanut Butter
+876,Beer;Bread;Eggs;Orange Juice;Potato Chips;Salsa
+877,Bananas;Bread;Cereal;Milk
+878,Milk;Parmesan;Pasta
+879,Bananas;Bread;Eggs
+880,Baby Wipes;Beer;Bread;Diapers;Honey;Lemons;Tea
+881,Ground Beef;Onions;Pasta;Pasta Sauce
+882,Bananas;Burger Buns;Chicken Breast;Ground Beef;Lettuce;Rice;Tomatoes;Yogurt
+883,Bread;Butter;Eggs;Orange Juice;Paper Towels
+884,Baby Wipes;Diapers;Tea
+885,Bananas;Cereal;Eggs;Potato Chips;Soda;Sugar
+886,Bananas;Bread;Jam;Peanut Butter
+887,Bread;Butter;Potato Chips;Salsa;Soda
+888,Bacon;Bread;Butter;Coffee;Jam;Milk;Peanut Butter
+889,Coffee;Jam
+890,Apples;Avocado;Bananas;Bread;Chicken Breast;Jam;Peanut Butter
+891,Yogurt
+892,Bread;Eggs;Orange Juice;Parmesan;Pasta;Pasta Sauce;Sugar
+893,Avocado;Cheddar Cheese;Eggs;Ground Beef;Honey;Lettuce;Potato Chips;Salsa;Tea;Tortillas
+894,Bread;Pasta;Pasta Sauce
+895,Apples;Beer;Potato Chips;Salsa;Soda
+896,Coffee;Milk;Sugar;Yogurt
+897,Apples;Bananas;Chicken Breast;Pasta Sauce;Soda
+898,Apples;Bananas;Burger Buns;Chicken Breast;Coffee;Ground Beef;Lettuce;Milk;Rice;Soda;Yogurt
+899,Apples;Cereal;Chicken Breast;Rice
+900,Apples;Bananas;Bread;Yogurt
+901,Coffee;Ground Beef;Milk;Pasta
+902,Coffee;Milk;Sugar
+903,Baby Wipes;Bananas;Beer
+904,Tortillas
+905,Ground Beef;Honey;Lemons;Parmesan;Pasta;Pasta Sauce;Tea;Tomatoes
+906,Cereal;Diapers;Milk
+907,Burger Buns;Coffee;Milk;Sugar
+908,Bread;Burger Buns;Butter;Cookies;Eggs;Tomatoes
+909,Apples;Chicken Breast;Yogurt
+910,Bagels;Bread;Jam;Peanut Butter
+911,Bananas;Bread;Jam;Peanut Butter
+912,Avocado;Bananas;Cheddar Cheese;Diapers;Ground Beef;Onions;Tortillas
+913,Coffee;Pasta Sauce
+914,Burger Buns;Eggs;Ground Beef;Parmesan;Pasta;Tomatoes
+915,Beer;Bread;Potato Chips;Soda
+916,Bananas;Bread;Jam;Milk
+917,Bacon;Bananas;Bread;Cereal;Eggs;Milk;Orange Juice;Pasta Sauce
+918,Bread;Jam;Parmesan;Pasta;Pasta Sauce
+919,Burger Buns;Cheddar Cheese;Ground Beef;Soda;Tomatoes
+920,Bananas;Bread;Cereal;Milk;Paper Towels
+921,Eggs;Orange Juice;Tea
+922,Apples;Baby Wipes;Lemons;Tea
+923,Bananas;Burger Buns;Cheddar Cheese;Ground Beef
+924,Avocado;Bread;Cheddar Cheese;Eggs;Ground Beef;Lettuce;Tortillas
+925,Cookies;Ground Beef;Pasta;Pasta Sauce;Tomatoes
+926,Apples;Avocado;Cheddar Cheese;Ground Beef;Lettuce;Salsa;Tortillas
+927,Yogurt
+928,Cereal
+929,Beer;Bread;Diapers;Jam
+930,Beer;Bread;Jam;Rice
+931,Apples;Baby Wipes;Burger Buns;Cheddar Cheese;Chicken Breast;Diapers;Ground Beef;Lettuce;Tomatoes;Yogurt
+932,Baby Wipes;Bread;Diapers
+933,Cheddar Cheese;Ground Beef;Salsa;Soda
+934,Bananas;Cereal;Ground Beef;Milk;Paper Towels
+935,Bread;Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Tomatoes
+936,Apples;Bananas;Cereal;Yogurt
+937,Apples;Bread;Cereal;Milk;Rice;Yogurt
+938,Apples;Baby Wipes;Beer
+939,Baby Wipes;Beer;Bread;Coffee;Cookies;Milk;Potato Chips;Sugar
+940,Bananas;Lemons;Tea
+941,Jam
+942,Apples;Chicken Breast;Coffee;Milk
+943,Bread;Peanut Butter
+944,Bacon;Bread;Eggs;Jam;Peanut Butter
+945,Bacon;Beer;Coffee;Honey;Potato Chips;Salsa;Soda;Sugar
+946,Bagels;Honey;Lemons;Tea
+947,Bananas;Cereal;Coffee;Milk;Salsa;Sugar;Yogurt
+948,Bananas;Cereal;Eggs;Milk;Orange Juice
+949,Coffee;Milk;Tea
+950,Avocado;Baby Wipes;Bananas;Ground Beef;Lettuce;Tortillas
+951,Apples;Bananas;Chicken Breast;Rice;Yogurt
+952,Beer;Cereal;Milk;Potato Chips;Soda
+953,Bagels;Cheddar Cheese;Coffee;Milk;Tortillas
+954,Butter;Cereal;Milk
+955,Bananas;Rice;Yogurt
+956,Bread;Jam;Peanut Butter
+957,Bacon;Beer;Bread;Orange Juice;Peanut Butter;Potato Chips;Salsa
+958,Bacon;Bananas;Bread;Butter;Cereal;Chicken Breast;Cookies;Milk;Orange Juice
+959,Cereal;Milk;Soda
+960,Coffee;Eggs;Milk;Onions;Parmesan;Pasta;Pasta Sauce
+961,Bread;Cereal
+962,Bagels;Milk;Potato Chips;Salsa;Soda
+963,Bananas;Chicken Breast;Eggs
+964,Apples;Parmesan;Pasta Sauce
+965,Bread;Cookies;Eggs
+966,Bacon;Cheddar Cheese;Ground Beef;Onions;Parmesan;Pasta;Pasta Sauce;Rice;Salsa;Tortillas
+967,Bread;Coffee;Milk
+968,Milk
+969,Beer;Bread;Diapers
+970,Bread;Burger Buns;Cereal;Jam;Milk;Peanut Butter
+971,Coffee;Milk;Pasta;Tea
+972,Bread;Jam;Milk;Peanut Butter;Salsa
+973,Apples;Bananas;Burger Buns;Cheddar Cheese;Diapers;Ground Beef;Lettuce;Rice;Tomatoes
+974,Bread;Onions;Parmesan;Pasta;Pasta Sauce;Peanut Butter
+975,Baby Wipes;Coffee;Diapers;Milk;Sugar
+976,Lemons;Tea
+977,Apples;Honey;Yogurt
+978,Bananas;Cereal;Cheddar Cheese;Ground Beef;Milk;Pasta;Pasta Sauce;Soda
+979,Bread;Peanut Butter
+980,Eggs;Milk;Pasta;Pasta Sauce
+981,Chicken Breast;Coffee;Milk;Tomatoes
+982,Coffee;Milk;Sugar
+983,Baby Wipes;Bread;Diapers
+984,Bread;Lemons;Milk;Peanut Butter;Tea
+985,Beer;Bread;Jam;Milk;Potato Chips
+986,Parmesan;Pasta;Pasta Sauce;Rice
+987,Beer;Jam;Potato Chips;Soda
+988,Apples;Bananas;Chicken Breast;Pasta Sauce;Yogurt
+989,Bread;Jam;Peanut Butter;Tea
+990,Eggs;Paper Towels
+991,Chicken Breast;Tomatoes;Yogurt
+992,Bacon;Chicken Breast;Eggs;Ground Beef;Onions;Parmesan;Pasta;Rice;Yogurt
+993,Apples;Bacon;Potato Chips;Soda
+994,Bread;Coffee;Salsa
+995,Eggs;Ground Beef;Pasta;Pasta Sauce;Yogurt
+996,Bacon;Beer;Bread;Eggs;Potato Chips;Soda
+997,Burger Buns;Cheddar Cheese;Ground Beef;Parmesan;Pasta Sauce
+998,Avocado;Ground Beef;Milk;Salsa;Tortillas
+999,Avocado;Bread;Cheddar Cheese;Ground Beef;Jam;Salsa;Tea;Tortillas
+1000,Bananas;Bread;Cereal;Milk;Salsa
+1001,Bananas;Cereal;Milk;Tea
+1002,Bananas;Cereal;Milk
+1003,Potato Chips;Salsa;Soda
+1004,Cookies;Ground Beef;Milk;Parmesan;Pasta;Pasta Sauce
+1005,Bread;Coffee;Eggs;Milk;Paper Towels;Sugar
+1006,Apples;Bananas;Orange Juice;Rice;Soda
+1007,Parmesan;Pasta;Pasta Sauce
+1008,Beer;Bread;Coffee;Jam;Milk
+1009,Bananas;Butter;Cereal;Eggs;Milk;Orange Juice
+1010,Eggs;Pasta;Pasta Sauce
+1011,Apples;Bananas;Bread;Butter;Chicken Breast;Eggs;Orange Juice;Parmesan;Pasta;Pasta Sauce;Yogurt
+1012,Beer;Paper Towels;Potato Chips;Soda
+1013,Apples;Bananas;Rice;Soda;Yogurt
+1014,Bread;Eggs;Orange Juice
+1015,Bread;Ground Beef;Jam;Pasta;Peanut Butter;Soda
+1016,Burger Buns;Ground Beef;Lettuce;Tomatoes;Yogurt
+1017,Bacon;Cereal
+1018,Milk
+1019,Burger Buns;Butter;Cheddar Cheese;Diapers;Ground Beef;Lettuce;Parmesan;Salsa;Tortillas
+1020,Bacon;Bananas;Chicken Breast;Eggs;Yogurt
+1021,Apples;Bananas;Eggs;Yogurt
+1022,Bananas;Coffee
+1023,Coffee;Eggs;Milk;Salsa
+1024,Beer;Chicken Breast;Onions;Potato Chips;Salsa;Soda
+1025,Bread
+1026,Beer;Butter;Potato Chips;Soda
+1027,Butter;Coffee;Lettuce;Milk
+1028,Bread;Peanut Butter
+1029,Bananas;Burger Buns;Cereal;Ground Beef;Milk;Tomatoes
+1030,Avocado;Tortillas
+1031,Bacon;Bread
+1032,Bacon;Butter;Orange Juice
+1033,Coffee;Diapers;Sugar
+1034,Bread;Butter;Eggs;Orange Juice;Pasta;Pasta Sauce;Tea
+1035,Beer;Cereal;Milk;Potato Chips;Soda;Tortillas
+1036,Bacon;Butter
+1037,Cheddar Cheese;Ground Beef;Lettuce;Parmesan;Pasta;Pasta Sauce;Tortillas
+1038,Bagels;Burger Buns;Ground Beef;Parmesan;Pasta;Pasta Sauce;Tomatoes
+1039,Apples;Bananas;Bread;Cereal;Chicken Breast;Ground Beef;Milk;Peanut Butter;Rice;Tortillas;Yogurt
+1040,Burger Buns;Coffee;Milk
+1041,Bananas;Cereal;Milk
+1042,Bread;Cheddar Cheese;Coffee;Rice;Soda;Sugar
+1043,Bananas;Cereal;Eggs;Milk
+1044,Bacon;Coffee;Paper Towels;Sugar
+1045,Coffee;Parmesan;Sugar
+1046,Bananas;Bread;Burger Buns;Cereal;Cheddar Cheese;Ground Beef;Lettuce;Milk;Paper Towels
+1047,Beer;Eggs;Potato Chips;Soda
+1048,Beer;Potato Chips;Salsa
+1049,Bacon;Bananas;Bread;Burger Buns;Cereal;Eggs;Milk;Orange Juice
+1050,Beer;Bread;Pasta;Pasta Sauce
+1051,Bacon;Bananas;Bread;Cereal;Eggs;Milk
+1052,Ground Beef;Parmesan;Pasta
+1053,Ground Beef;Honey;Tea
+1054,Bananas;Bread;Rice;Yogurt
+1055,Bananas;Cereal;Coffee;Milk
+1056,Bacon;Bread;Eggs;Onions;Parmesan;Pasta;Pasta Sauce
+1057,Diapers;Eggs;Milk;Parmesan
+1058,Cereal;Milk
+1059,Bacon;Eggs;Ground Beef;Orange Juice
+1060,Bread;Peanut Butter
+1061,Bananas;Chicken Breast
+1062,Bananas;Bread;Butter;Orange Juice
+1063,Apples;Bread;Eggs;Jam;Lemons;Peanut Butter;Tea
+1064,Apples;Chicken Breast;Rice;Tomatoes;Yogurt
+1065,Eggs;Potato Chips;Salsa
+1066,Avocado;Butter;Onions
+1067,Bananas;Cereal;Potato Chips
+1068,Diapers
+1069,Avocado;Ground Beef;Salsa;Tortillas
+1070,Apples;Bananas;Bread
+1071,Bacon;Bread;Coffee;Eggs;Milk;Onions;Orange Juice;Sugar
+1072,Orange Juice;Potato Chips;Soda
+1073,Apples;Bananas;Butter;Chicken Breast;Eggs;Rice;Yogurt
+1074,Bread;Eggs;Honey;Lemons;Orange Juice;Tea;Tortillas
+1075,Bananas;Cereal;Cookies;Milk
+1076,Avocado;Paper Towels;Salsa;Tortillas
+1077,Bacon;Bread;Eggs;Orange Juice
+1078,Apples;Avocado;Bacon;Bread;Burger Buns;Eggs;Lettuce;Parmesan;Pasta;Pasta Sauce;Salsa;Tortillas
+1079,Beer;Butter;Potato Chips;Rice;Soda
+1080,Apples;Bacon;Bread;Butter;Chicken Breast;Cookies;Rice;Yogurt
+1081,Bacon;Bananas;Bread;Cereal;Milk;Onions;Orange Juice
+1082,Apples;Bread;Ground Beef;Onions;Pasta;Pasta Sauce
+1083,Bananas;Chicken Breast;Coffee;Milk;Pasta;Pasta Sauce;Rice;Yogurt
+1084,Diapers;Peanut Butter
+1085,Bagels;Bananas;Burger Buns;Cereal;Ground Beef;Lettuce;Milk;Tomatoes
+1086,Honey;Potato Chips;Rice;Tea
+1087,Coffee;Eggs;Milk;Sugar
+1088,Bread;Ground Beef
+1089,Bananas;Bread;Lemons;Milk;Pasta;Pasta Sauce;Tea
+1090,Apples;Eggs;Yogurt
+1091,Ground Beef;Lemons;Tea
+1092,Bacon;Beer;Burger Buns;Butter;Cheddar Cheese;Chicken Breast;Ground Beef;Tomatoes
+1093,Beer;Cereal;Milk;Potato Chips;Salsa;Soda
+1094,Bananas;Cereal;Milk;Salsa;Tortillas
+1095,Potato Chips;Salsa
+1096,Beer;Potato Chips;Salsa;Soda
+1097,Chicken Breast;Ground Beef;Honey;Paper Towels;Tortillas
+1098,Bananas;Cereal;Milk;Paper Towels
+1099,Butter;Rice;Salsa
+1100,Onions;Parmesan;Pasta;Pasta Sauce;Potato Chips;Soda
+1101,Bread;Peanut Butter
+1102,Apples;Bananas;Cheddar Cheese;Rice;Soda;Yogurt
+1103,Beer;Bread;Chicken Breast;Coffee;Eggs;Milk;Orange Juice;Potato Chips
+1104,Bacon;Bread;Eggs;Orange Juice;Paper Towels
+1105,Bread;Jam;Peanut Butter
+1106,Coffee;Milk;Sugar
+1107,Beer;Cereal;Cheddar Cheese;Ground Beef;Milk;Pasta;Pasta Sauce;Potato Chips;Salsa;Soda
+1108,Bread;Orange Juice
+1109,Baby Wipes;Butter;Diapers;Pasta;Pasta Sauce
+1110,Baby Wipes;Bread;Eggs;Tortillas
+1111,Burger Buns;Cheddar Cheese;Eggs;Ground Beef;Lettuce;Milk;Tomatoes
+1112,Soda
+1113,Butter;Jam
+1114,Bread;Coffee;Sugar
+1115,Bananas;Butter;Cereal;Milk;Tea
+1116,Honey;Lemons;Pasta Sauce;Tea
+1117,Bread;Parmesan;Pasta;Tea
+1118,Lemons;Tea
+1119,Bacon;Bananas;Eggs
+1120,Baby Wipes;Diapers;Yogurt
+1121,Bread;Jam
+1122,Bananas;Cookies;Diapers;Eggs;Potato Chips;Soda
+1123,Lemons;Tea
+1124,Bacon;Butter;Ground Beef;Honey;Onions;Orange Juice;Pasta;Pasta Sauce;Sugar
+1125,Apples;Lemons;Milk;Tea
+1126,Bacon;Bread;Butter;Eggs;Jam;Orange Juice
+1127,Burger Buns;Coffee;Ground Beef;Lemons;Milk;Sugar
+1128,Baby Wipes;Diapers;Milk
+1129,Bananas;Cereal;Honey;Lemons;Milk;Parmesan;Tea
+1130,Pasta;Pasta Sauce
+1131,Avocado;Beer;Burger Buns;Ground Beef;Lettuce;Potato Chips;Salsa;Soda;Tortillas
+1132,Bananas;Bread;Milk;Soda
+1133,Avocado;Bananas;Cereal
+1134,Beer;Bread;Diapers;Jam;Milk;Peanut Butter
+1135,Baby Wipes;Diapers;Yogurt
+1136,Bacon;Coffee;Cookies;Eggs;Milk
+1137,Bread;Eggs;Jam;Paper Towels;Peanut Butter;Soda
+1138,Cereal;Milk;Paper Towels
+1139,Bacon;Eggs;Pasta Sauce
+1140,Bacon;Beer;Eggs;Potato Chips;Salsa;Soda
+1141,Ground Beef;Parmesan;Pasta
+1142,Baby Wipes;Bananas;Beer;Cereal;Diapers;Milk
+1143,Bananas;Milk;Onions;Rice;Yogurt
+1144,Bananas;Burger Buns;Cheddar Cheese;Chicken Breast;Coffee;Ground Beef;Sugar;Yogurt
+1145,Baby Wipes;Bread;Onions;Paper Towels
+1146,Bagels;Beer;Cereal;Potato Chips;Rice
+1147,Baby Wipes;Beer;Bread;Diapers;Paper Towels;Peanut Butter;Potato Chips;Salsa
+1148,Butter;Eggs;Parmesan;Pasta;Pasta Sauce;Potato Chips;Salsa
+1149,Ground Beef;Lettuce;Milk;Tomatoes
+1150,Bananas;Pasta;Pasta Sauce;Tomatoes
+1151,Apples;Bacon;Butter;Cereal;Eggs;Milk;Paper Towels;Rice
+1152,Beer;Bread;Butter;Cereal;Peanut Butter;Potato Chips;Soda
+1153,Ground Beef;Honey;Tea
+1154,Apples;Baby Wipes;Beer;Chicken Breast;Diapers;Milk;Rice;Soda;Yogurt
+1155,Avocado;Bacon;Bread;Butter;Eggs;Orange Juice
+1156,Bread;Ground Beef;Paper Towels
+1157,Avocado;Cereal;Cheddar Cheese;Ground Beef
+1158,Avocado;Cookies;Ground Beef;Salsa;Tortillas
+1159,Bread;Coffee;Jam;Peanut Butter;Sugar
+1160,Apples;Bananas;Butter;Cereal;Chicken Breast;Milk;Soda;Yogurt
+1161,Cheddar Cheese;Ground Beef;Tortillas
+1162,Burger Buns;Cereal;Coffee;Ground Beef;Milk;Tomatoes;Yogurt
+1163,Beer;Milk;Potato Chips;Soda
+1164,Bananas;Burger Buns;Ground Beef;Milk;Pasta;Soda
+1165,Apples;Bananas;Cereal;Eggs;Milk;Salsa
+1166,Coffee;Milk
+1167,Bread;Orange Juice;Parmesan;Peanut Butter
+1168,Apples;Tea
+1169,Bananas;Bread;Burger Buns;Cereal;Cheddar Cheese;Ground Beef;Milk
+1170,Milk;Sugar
+1171,Bananas;Butter;Cereal;Milk
+1172,Bananas;Burger Buns;Cereal;Cheddar Cheese;Ground Beef;Lemons;Lettuce;Milk;Tomatoes
+1173,Coffee;Milk;Pasta;Pasta Sauce
+1174,Apples;Bacon;Bread;Butter;Orange Juice
+1175,Onions;Pasta;Pasta Sauce
+1176,Bananas;Coffee;Jam;Milk;Sugar
+1177,Bananas;Burger Buns;Butter;Cereal;Ground Beef;Milk;Tomatoes
+1178,Coffee;Milk;Sugar
+1179,Avocado;Burger Buns;Ground Beef
+1180,Beer;Chicken Breast;Milk;Potato Chips;Salsa;Soda
+1181,Baby Wipes;Diapers;Paper Towels
+1182,Coffee;Milk;Onions;Pasta;Pasta Sauce;Rice;Sugar
+1183,Burger Buns;Ground Beef;Tomatoes
+1184,Honey;Parmesan;Tea
+1185,Beer;Cereal;Cheddar Cheese;Ground Beef;Pasta Sauce;Potato Chips;Salsa;Tortillas
+1186,Bananas;Onions;Parmesan;Pasta;Pasta Sauce
+1187,Baby Wipes;Bananas;Diapers;Tea
+1188,Apples;Avocado;Bananas;Beer;Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Pasta Sauce;Potato Chips;Salsa;Tortillas
+1189,Cereal;Cookies;Milk;Onions;Parmesan;Pasta;Soda
+1190,Bananas;Bread;Chicken Breast;Rice;Yogurt
+1191,Bacon;Eggs;Lemons;Orange Juice
+1192,Burger Buns;Eggs;Ground Beef
+1193,Cheddar Cheese;Ground Beef;Salsa;Tortillas
+1194,Burger Buns;Ground Beef
+1195,Bacon;Ground Beef;Lemons;Milk;Orange Juice;Parmesan;Pasta;Pasta Sauce
+1196,Avocado;Cereal;Jam;Milk;Salsa;Tortillas
+1197,Chicken Breast;Coffee;Tea
+1198,Bread;Butter;Eggs;Orange Juice
+1199,Beer;Cereal;Potato Chips;Salsa;Soda
+1200,Bread;Coffee;Milk;Paper Towels;Peanut Butter;Potato Chips;Tea
+1201,Cereal;Jam;Milk;Parmesan;Potato Chips;Salsa;Soda
+1202,Coffee;Potato Chips;Soda;Sugar
+1203,Cereal;Milk;Onions
+1204,Apples;Bread;Eggs;Paper Towels
+1205,Cereal;Milk
+1206,Cereal;Honey
+1207,Apples;Bananas;Parmesan;Pasta;Pasta Sauce;Tortillas;Yogurt
+1208,Bagels;Bread;Ground Beef;Parmesan;Pasta;Pasta Sauce
+1209,Apples;Bananas;Chicken Breast;Pasta;Rice;Tortillas;Yogurt
+1210,Apples;Bananas;Chicken Breast;Rice;Yogurt
+1211,Bread;Burger Buns;Jam;Peanut Butter
+1212,Honey;Tea
+1213,Apples;Burger Buns;Ground Beef;Lemons;Parmesan;Pasta;Peanut Butter
+1214,Soda
+1215,Bread;Jam;Soda
+1216,Apples;Chicken Breast;Milk;Yogurt
+1217,Bacon;Bananas;Burger Buns;Cheddar Cheese;Ground Beef
+1218,Bananas;Cereal;Diapers;Rice
+1219,Beer;Burger Buns;Ground Beef;Paper Towels;Potato Chips;Soda
+1220,Apples;Bananas;Onions;Pasta;Rice;Tea;Yogurt
+1221,Ground Beef;Tortillas
+1222,Burger Buns;Cheddar Cheese;Coffee;Ground Beef;Lettuce;Milk;Yogurt
+1223,Apples;Bananas;Chicken Breast;Honey;Rice;Tea;Tortillas;Yogurt
+1224,Bagels;Bread;Parmesan;Pasta;Pasta Sauce
+1225,Apples;Bananas;Chicken Breast;Rice;Yogurt
+1226,Milk;Sugar
+1227,Bread;Eggs;Orange Juice
+1228,Apples;Baby Wipes;Bananas;Chicken Breast;Eggs
+1229,Bananas;Parmesan;Pasta;Pasta Sauce
+1230,Avocado;Cheddar Cheese;Tortillas
+1231,Baby Wipes;Beer;Diapers;Potato Chips
+1232,Bread;Honey;Peanut Butter;Tea
+1233,Bread;Burger Buns;Cheddar Cheese;Ground Beef;Jam;Lemons;Lettuce;Peanut Butter;Tea;Tomatoes
+1234,Bacon;Eggs;Paper Towels;Tea
+1235,Bread;Jam;Peanut Butter;Potato Chips;Soda
+1236,Bananas;Cereal;Milk
+1237,Bacon;Burger Buns;Butter;Cheddar Cheese;Ground Beef;Lettuce;Milk;Tomatoes
+1238,Bread;Butter;Eggs
+1239,Coffee;Milk;Potato Chips;Sugar
+1240,Bananas;Chicken Breast;Potato Chips;Yogurt
+1241,Bagels;Bread;Coffee;Jam;Milk;Orange Juice;Peanut Butter;Sugar
+1242,Bread;Eggs
+1243,Apples;Bananas;Chicken Breast;Coffee;Salsa;Sugar;Yogurt
+1244,Bananas;Bread;Burger Buns;Ground Beef;Jam;Tomatoes
+1245,Bananas;Chicken Breast;Rice
+1246,Coffee;Rice
+1247,Bacon;Bananas;Bread;Cereal;Milk
+1248,Bananas;Beer;Chicken Breast;Rice;Yogurt
+1249,Avocado;Baby Wipes;Bananas;Cheddar Cheese;Diapers;Tortillas
+1250,Coffee;Eggs;Milk
+1251,Bananas;Cereal;Cookies;Milk
+1252,Baby Wipes;Diapers;Potato Chips;Soda
+1253,Bacon;Butter;Cereal;Milk;Orange Juice
+1254,Bacon;Eggs;Paper Towels
+1255,Bananas;Lemons;Onions;Rice;Tea;Yogurt
+1256,Ground Beef;Lemons;Parmesan;Tea
+1257,Bananas;Milk;Potato Chips;Salsa;Soda
+1258,Cereal;Milk;Paper Towels
+1259,Baby Wipes;Diapers;Milk;Orange Juice
+1260,Apples;Bananas;Beer;Cereal;Chicken Breast;Eggs;Milk;Potato Chips;Soda;Yogurt
+1261,Apples;Bananas;Cereal;Chicken Breast;Milk;Rice;Soda
+1262,Avocado;Parmesan;Pasta;Pasta Sauce;Sugar
+1263,Apples;Burger Buns;Coffee;Ground Beef
+1264,Bananas;Cereal
+1265,Chicken Breast;Rice;Soda
+1266,Bagels;Beer;Potato Chips;Salsa
+1267,Bananas;Bread;Cereal;Milk
+1268,Bananas;Cereal;Chicken Breast;Coffee;Milk
+1269,Bacon;Bread;Burger Buns;Butter;Cereal;Eggs;Orange Juice
+1270,Bread;Parmesan;Pasta;Potato Chips;Soda
+1271,Coffee;Milk
+1272,Butter;Ground Beef;Parmesan;Pasta;Pasta Sauce
+1273,Bacon;Bread;Eggs;Onions;Orange Juice
+1274,Bacon;Bananas;Cereal;Milk;Salsa;Yogurt
+1275,Bananas;Chicken Breast;Rice;Yogurt
+1276,Apples;Cheddar Cheese;Chicken Breast;Coffee;Pasta Sauce;Salsa;Yogurt
+1277,Ground Beef;Onions;Pasta;Pasta Sauce
+1278,Tea
+1279,Baby Wipes;Coffee;Potato Chips;Soda
+1280,Coffee;Sugar;Yogurt
+1281,Avocado;Burger Buns;Lettuce;Tomatoes
+1282,Apples;Coffee;Peanut Butter;Sugar
+1283,Bread;Lemons
+1284,Burger Buns;Cereal;Ground Beef;Lettuce;Milk;Tomatoes
+1285,Bananas;Ground Beef;Lettuce;Pasta;Pasta Sauce;Peanut Butter;Soda;Tortillas
+1286,Baby Wipes;Bacon;Bread;Cookies;Eggs;Jam
+1287,Avocado;Bread;Cheddar Cheese;Ground Beef;Lettuce;Salsa;Tortillas
+1288,Bacon;Pasta;Pasta Sauce
+1289,Bread;Lemons;Tea
+1290,Butter;Paper Towels;Pasta;Pasta Sauce;Soda
+1291,Avocado;Bread;Ground Beef;Jam;Lettuce;Parmesan;Pasta;Pasta Sauce;Rice;Tortillas
+1292,Baby Wipes;Onions;Pasta;Pasta Sauce;Soda
+1293,Apples;Bananas;Rice;Yogurt
+1294,Bread;Butter;Eggs;Honey;Lemons;Milk;Orange Juice;Tea;Yogurt
+1295,Bananas;Chicken Breast
+1296,Honey;Milk;Potato Chips;Tea
+1297,Beer;Butter;Eggs;Pasta Sauce;Potato Chips;Soda
+1298,Baby Wipes;Diapers;Paper Towels;Pasta;Pasta Sauce
+1299,Coffee;Milk;Sugar
+1300,Apples;Bananas;Chicken Breast;Eggs;Rice;Yogurt
+1301,Bacon;Bread;Butter;Eggs
+1302,Baby Wipes;Beer;Diapers;Salsa;Soda
+1303,Burger Buns;Cheddar Cheese;Orange Juice;Tomatoes
+1304,Cereal;Milk;Rice
+1305,Avocado;Potato Chips;Soda
+1306,Apples;Baby Wipes;Bananas;Chicken Breast;Yogurt
+1307,Chicken Breast;Coffee;Cookies;Sugar
+1308,Cereal;Ground Beef;Salsa;Tortillas
+1309,Avocado;Cheddar Cheese;Coffee;Ground Beef;Milk;Salsa;Tortillas
+1310,Butter;Coffee;Eggs;Milk;Sugar
+1311,Apples;Bananas;Ground Beef;Onions;Parmesan;Pasta;Pasta Sauce
+1312,Apples;Bread;Jam;Paper Towels;Peanut Butter
+1313,Coffee;Milk;Sugar
+1314,Avocado;Cheddar Cheese;Ground Beef;Salsa;Tortillas
+1315,Bananas;Honey;Sugar;Tea
+1316,Potato Chips;Salsa
+1317,Bread;Cereal;Milk
+1318,Bread;Jam
+1319,Bacon;Bread;Butter;Eggs;Parmesan;Pasta;Pasta Sauce
+1320,Chicken Breast;Yogurt
+1321,Baby Wipes;Diapers;Tea
+1322,Baby Wipes;Ground Beef;Honey;Onions;Paper Towels;Parmesan;Pasta;Pasta Sauce;Tea
+1323,Apples;Avocado;Ground Beef;Lettuce
+1324,Coffee;Lettuce;Milk;Onions;Paper Towels;Salsa;Sugar
+1325,Apples;Yogurt
+1326,Chicken Breast;Tortillas;Yogurt
+1327,Bananas;Cereal;Cookies;Milk
+1328,Ground Beef;Potato Chips;Soda
+1329,Bread;Eggs;Soda;Sugar
+1330,Burger Buns;Ground Beef;Paper Towels;Pasta;Pasta Sauce;Tomatoes
+1331,Apples;Bacon;Bread;Eggs;Milk
+1332,Avocado;Bagels;Coffee;Ground Beef;Lettuce;Salsa;Sugar;Tortillas
+1333,Pasta;Pasta Sauce
+1334,Bananas;Bread;Cereal;Milk;Peanut Butter
+1335,Eggs;Milk;Orange Juice
+1336,Potato Chips;Salsa
+1337,Lemons;Orange Juice;Tea
+1338,Bacon;Beer;Butter;Coffee;Eggs;Lettuce;Orange Juice;Potato Chips;Salsa
+1339,Cereal;Coffee;Milk;Salsa;Tomatoes
+1340,Bread;Burger Buns;Butter;Eggs;Ground Beef;Jam;Soda;Tomatoes
+1341,Coffee;Milk
+1342,Baby Wipes;Cookies;Diapers
+1343,Ground Beef;Lettuce;Onions;Parmesan;Pasta;Pasta Sauce;Rice;Tomatoes
+1344,Burger Buns;Cereal;Milk;Potato Chips;Salsa;Soda
+1345,Baby Wipes;Diapers;Soda;Tea
+1346,Parmesan;Pasta Sauce
+1347,Apples;Bananas;Chicken Breast;Coffee;Milk;Paper Towels;Rice;Soda;Yogurt
+1348,Coffee;Eggs;Milk;Orange Juice;Soda
+1349,Paper Towels;Pasta;Pasta Sauce;Rice
+1350,Apples;Baby Wipes;Beer;Diapers;Milk;Rice
+1351,Cereal;Milk
+1352,Bananas;Bread;Butter;Cereal;Eggs;Milk;Orange Juice;Salsa;Tomatoes
+1353,Apples;Bananas;Bread;Ground Beef;Paper Towels;Rice;Yogurt
+1354,Bananas;Orange Juice;Pasta;Pasta Sauce
+1355,Bread;Tea
+1356,Chicken Breast;Rice;Yogurt
+1357,Cheddar Cheese;Ground Beef;Tortillas
+1358,Bread;Cheddar Cheese;Lettuce;Salsa;Tortillas
+1359,Bananas;Cereal;Lettuce;Milk
+1360,Bread;Peanut Butter;Sugar
+1361,Butter;Cereal;Eggs;Honey;Onions;Pasta;Pasta Sauce
+1362,Cereal;Coffee;Milk;Paper Towels;Tea
+1363,Baby Wipes;Diapers;Paper Towels
+1364,Cereal;Milk
+1365,Bacon;Bananas;Bread;Cereal;Eggs;Ground Beef
+1366,Bananas;Chicken Breast;Coffee;Eggs;Milk;Yogurt
+1367,Beer;Paper Towels;Yogurt
+1368,Bread;Ground Beef;Lemons;Milk;Pasta;Pasta Sauce;Tea
+1369,Bread;Honey;Jam;Lettuce;Peanut Butter;Tea
+1370,Avocado;Cheddar Cheese;Lettuce;Milk;Tortillas
+1371,Bananas;Cereal;Eggs;Ground Beef;Milk;Parmesan;Pasta Sauce
+1372,Onions;Pasta;Potato Chips;Salsa
+1373,Bacon;Ground Beef;Salsa;Tortillas
+1374,Bread;Burger Buns;Peanut Butter;Rice;Tomatoes
+1375,Pasta
+1376,Bananas;Parmesan;Pasta;Pasta Sauce
+1377,Beer;Burger Buns;Potato Chips;Soda
+1378,Bacon;Butter;Eggs;Lemons
+1379,Bread;Eggs;Orange Juice;Parmesan;Pasta;Pasta Sauce;Tomatoes
+1380,Ground Beef;Lettuce;Parmesan;Pasta;Pasta Sauce
+1381,Cheddar Cheese;Ground Beef;Tomatoes
+1382,Lemons;Milk;Parmesan;Pasta;Pasta Sauce
+1383,Bacon;Butter;Eggs;Milk
+1384,Bread;Coffee;Diapers;Milk;Peanut Butter
+1385,Avocado;Ground Beef;Honey;Salsa
+1386,Potato Chips;Soda
+1387,Coffee;Ground Beef;Milk;Tomatoes
+1388,Bread;Eggs;Jam;Peanut Butter;Potato Chips
+1389,Burger Buns;Ground Beef;Lemons;Paper Towels
+1390,Paper Towels
+1391,Coffee;Cookies;Paper Towels;Soda;Sugar
+1392,Apples;Bacon;Bananas;Butter;Yogurt
+1393,Bananas;Bread;Jam;Peanut Butter
+1394,Apples;Baby Wipes;Bananas;Bread;Chicken Breast;Milk;Yogurt
+1395,Pasta;Pasta Sauce;Tortillas
+1396,Avocado;Bacon;Ground Beef;Milk;Orange Juice;Tortillas
+1397,Bacon;Bread;Eggs;Rice;Yogurt
+1398,Cheddar Cheese;Ground Beef;Milk;Salsa;Tortillas
+1399,Tea
+1400,Avocado;Baby Wipes;Ground Beef;Lemons;Tortillas;Yogurt
+1401,Diapers;Potato Chips;Salsa;Soda
+1402,Bacon;Butter;Eggs;Potato Chips
+1403,Bread;Eggs;Milk;Orange Juice
+1404,Bananas;Cereal;Milk;Soda
+1405,Avocado;Cheddar Cheese;Ground Beef;Tea;Tortillas
+1406,Bread;Jam;Milk;Peanut Butter
+1407,Potato Chips;Salsa
+1408,Baby Wipes;Burger Buns;Diapers;Ground Beef;Tomatoes
+1409,Avocado;Cheddar Cheese;Eggs;Lettuce;Pasta;Tortillas
+1410,Bananas;Bread;Chicken Breast
+1411,Cereal;Milk;Paper Towels
+1412,Bagels;Bananas;Bread;Cereal;Milk
+1413,Potato Chips;Salsa;Soda
+1414,Baby Wipes;Diapers;Honey;Lemons;Milk;Parmesan;Pasta;Pasta Sauce
+1415,Burger Buns;Butter;Cheddar Cheese;Ground Beef
+1416,Baby Wipes;Beer;Bread;Potato Chips;Sugar
+1417,Butter;Coffee;Diapers;Milk;Sugar
+1418,Bacon;Eggs;Onions;Pasta;Potato Chips;Salsa
+1419,Bacon;Coffee;Eggs;Lemons
+1420,Bread;Milk;Peanut Butter
+1421,Bacon;Bread;Eggs;Ground Beef;Orange Juice
+1422,Cereal;Milk;Sugar
+1423,Coffee;Milk
+1424,Bread;Jam;Onions;Pasta;Pasta Sauce;Peanut Butter;Soda
+1425,Cereal;Eggs;Milk
+1426,Bananas;Burger Buns;Cheddar Cheese;Chicken Breast;Coffee;Ground Beef;Lettuce;Milk;Paper Towels;Pasta Sauce;Sugar;Tomatoes;Yogurt
+1427,Bananas;Coffee;Rice
+1428,Bread;Cheddar Cheese;Peanut Butter;Tortillas
+1429,Apples;Bagels;Bananas;Butter;Eggs;Orange Juice;Parmesan;Pasta;Pasta Sauce;Yogurt
+1430,Baby Wipes;Bread;Diapers
+1431,Apples;Bacon;Butter;Chicken Breast;Eggs
+1432,Apples;Bananas;Chicken Breast;Milk;Potato Chips
+1433,Apples;Baby Wipes;Diapers;Paper Towels;Pasta Sauce
+1434,Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Onions;Pasta
+1435,Bread;Ground Beef;Parmesan;Pasta;Pasta Sauce;Potato Chips;Salsa;Soda
+1436,Apples;Bananas;Chicken Breast;Rice
+1437,Apples;Bread;Butter;Eggs;Lemons
+1438,Ground Beef;Tortillas
+1439,Bread;Cookies;Ground Beef;Honey;Jam;Lemons
+1440,Apples;Bananas;Milk;Potato Chips
+1441,Eggs;Soda;Tomatoes
+1442,Onions;Parmesan;Pasta;Pasta Sauce
+1443,Burger Buns;Cheddar Cheese;Coffee;Ground Beef;Milk;Tomatoes
+1444,Avocado;Beer;Ground Beef;Potato Chips;Salsa
+1445,Bread
+1446,Bananas;Beer;Cereal;Cookies;Lettuce;Potato Chips
+1447,Onions;Parmesan;Pasta;Pasta Sauce
+1448,Bananas;Cereal;Coffee;Milk;Sugar
+1449,Parmesan;Pasta;Pasta Sauce
+1450,Ground Beef;Onions;Paper Towels;Parmesan;Pasta;Pasta Sauce;Yogurt
+1451,Bacon;Bananas;Bread;Eggs;Orange Juice;Soda
+1452,Avocado;Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Milk
+1453,Bananas;Bread;Chicken Breast;Jam;Peanut Butter;Rice
+1454,Bread
+1455,Milk;Onions;Parmesan;Pasta;Pasta Sauce
+1456,Bananas;Cereal;Ground Beef;Milk;Tortillas
+1457,Diapers;Potato Chips;Soda
+1458,Avocado;Bread;Cheddar Cheese;Ground Beef;Jam;Lettuce;Paper Towels;Salsa;Tortillas
+1459,Burger Buns;Eggs;Ground Beef;Onions;Orange Juice;Paper Towels;Parmesan;Pasta;Soda;Tomatoes
+1460,Bacon;Butter;Eggs;Soda
+1461,Beer;Diapers;Honey;Potato Chips;Soda
+1462,Burger Buns;Coffee;Pasta;Pasta Sauce
+1463,Burger Buns;Honey;Lemons;Tea
+1464,Baby Wipes;Butter;Eggs;Paper Towels
+1465,Ground Beef;Milk;Parmesan;Pasta;Pasta Sauce
+1466,Bagels;Bananas;Cereal;Chicken Breast;Milk;Pasta;Rice;Yogurt
+1467,Coffee;Peanut Butter
+1468,Bagels;Cheddar Cheese;Ground Beef;Lettuce;Tortillas
+1469,Cereal;Coffee;Eggs;Milk;Salsa;Tortillas
+1470,Pasta;Pasta Sauce;Salsa
+1471,Avocado;Bread;Burger Buns;Cheddar Cheese;Eggs;Ground Beef;Jam;Lettuce;Milk;Peanut Butter;Potato Chips;Salsa;Tortillas
+1472,Apples;Bacon;Butter;Chicken Breast;Eggs;Orange Juice;Yogurt
+1473,Avocado;Chicken Breast;Cookies;Peanut Butter;Yogurt
+1474,Bread;Jam;Peanut Butter
+1475,Cereal;Milk;Potato Chips
+1476,Chicken Breast;Potato Chips;Rice;Yogurt
+1477,Apples;Bagels;Sugar;Tea
+1478,Avocado;Ground Beef;Honey;Salsa;Soda;Tea;Tortillas
+1479,Bacon;Bread;Butter;Coffee;Eggs;Orange Juice
+1480,Bananas;Burger Buns;Cookies;Ground Beef;Lettuce;Rice;Tomatoes;Yogurt
+1481,Avocado;Bananas;Onions;Tortillas
+1482,Bread;Eggs;Pasta;Peanut Butter
+1483,Bananas;Milk;Parmesan
+1484,Avocado;Beer;Bread;Butter;Cheddar Cheese;Ground Beef;Peanut Butter;Tea;Tortillas
+1485,Beer;Bread;Potato Chips;Salsa;Soda;Tortillas
+1486,Bread;Ground Beef;Lettuce
+1487,Coffee;Milk;Sugar
+1488,Beer;Bread;Coffee;Milk;Onions;Potato Chips;Salsa;Soda;Sugar
+1489,Bacon;Lettuce
+1490,Cookies;Milk;Onions;Parmesan;Pasta;Pasta Sauce;Soda
+1491,Parmesan;Pasta;Salsa
+1492,Ground Beef;Lettuce;Tortillas
+1493,Bacon;Bread;Coffee;Eggs;Orange Juice;Sugar;Yogurt
+1494,Bread;Coffee;Lemons;Milk;Peanut Butter;Tea;Tomatoes
+1495,Bacon;Butter;Eggs;Ground Beef;Pasta;Pasta Sauce;Soda
+1496,Bread;Eggs;Orange Juice;Salsa
+1497,Bread;Milk;Potato Chips;Salsa;Soda;Tea
+1498,Baby Wipes;Diapers;Honey;Milk;Tea
+1499,Cookies;Jam
+1500,Baby Wipes;Diapers
+1501,Bananas;Burger Buns;Cereal;Cheddar Cheese;Ground Beef;Milk;Potato Chips;Salsa;Soda
+1502,Bread;Tea
+1503,Pasta;Pasta Sauce;Potato Chips;Salsa;Tortillas
+1504,Bacon;Potato Chips;Rice;Soda
+1505,Chicken Breast;Milk;Yogurt
+1506,Baby Wipes;Coffee;Milk;Sugar
+1507,Bananas;Burger Buns;Cheddar Cheese;Ground Beef;Lettuce
+1508,Bacon;Bread;Coffee;Ground Beef;Milk;Onions;Parmesan;Pasta;Pasta Sauce;Sugar
+1509,Honey;Pasta;Tomatoes
+1510,Honey;Lemons;Tea
+1511,Baby Wipes;Chicken Breast;Diapers;Lettuce;Tortillas;Yogurt
+1512,Peanut Butter
+1513,Bananas;Butter;Cookies;Milk
+1514,Bananas;Beer;Bread;Coffee;Sugar
+1515,Bananas;Cereal;Soda
+1516,Cereal;Coffee;Parmesan;Pasta;Pasta Sauce
+1517,Beer;Potato Chips;Soda
+1518,Bread;Jam;Pasta;Peanut Butter
+1519,Bread;Cheddar Cheese;Jam;Peanut Butter;Tortillas
+1520,Bread;Jam;Peanut Butter
+1521,Salsa;Soda
+1522,Baby Wipes;Cereal;Paper Towels;Pasta Sauce
+1523,Bread;Burger Buns;Ground Beef;Jam;Tomatoes
+1524,Cheddar Cheese;Salsa;Tortillas
+1525,Bacon;Butter;Eggs;Orange Juice;Paper Towels
+1526,Bananas;Beer;Peanut Butter;Potato Chips;Soda
+1527,Bacon;Bread;Ground Beef;Onions;Pasta;Pasta Sauce
+1528,Diapers;Tea
+1529,Apples;Baby Wipes;Beer;Burger Buns;Diapers;Lettuce;Tomatoes
+1530,Bread;Coffee;Onions;Parmesan;Pasta;Pasta Sauce
+1531,Bacon;Eggs;Pasta
+1532,Milk;Rice;Sugar
+1533,Bacon;Coffee;Milk;Orange Juice
+1534,Bananas;Cereal;Milk;Onions;Pasta;Pasta Sauce;Yogurt
+1535,Coffee;Milk
+1536,Bread;Orange Juice;Tea
+1537,Apples;Coffee;Milk;Rice;Yogurt
+1538,Bacon;Diapers
+1539,Bread;Cereal;Eggs;Milk
+1540,Onions;Pasta Sauce
+1541,Baby Wipes;Bananas;Bread;Cereal;Diapers;Sugar
+1542,Honey;Lemons;Peanut Butter;Tea
+1543,Beer;Orange Juice;Paper Towels;Salsa;Tea
+1544,Ground Beef;Orange Juice;Pasta;Pasta Sauce;Soda
+1545,Baby Wipes;Beer;Diapers;Honey;Lemons;Tea;Yogurt
+1546,Beer;Cheddar Cheese;Milk;Pasta;Pasta Sauce;Potato Chips;Salsa
+1547,Bacon;Bread;Butter;Cereal;Eggs;Orange Juice
+1548,Chicken Breast;Eggs;Orange Juice
+1549,Beer;Bread;Jam;Onions;Pasta;Potato Chips;Salsa;Soda
+1550,Coffee;Orange Juice;Tomatoes
+1551,Bacon
+1552,Bananas;Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Tomatoes
+1553,Apples;Bananas;Chicken Breast;Rice;Yogurt
+1554,Beer;Cereal;Jam;Milk;Potato Chips;Soda
+1555,Apples;Bananas;Chicken Breast;Honey;Tea;Yogurt
+1556,Burger Buns;Cheddar Cheese;Diapers;Ground Beef;Soda;Tomatoes;Yogurt
+1557,Coffee;Eggs;Milk;Orange Juice
+1558,Beer;Bread;Jam;Orange Juice;Peanut Butter;Potato Chips;Salsa;Soda;Sugar;Tomatoes
+1559,Bacon;Onions;Parmesan;Pasta;Pasta Sauce
+1560,Parmesan;Pasta;Pasta Sauce;Salsa
+1561,Avocado;Bacon;Coffee;Salsa;Tortillas
+1562,Bacon;Bread;Butter;Coffee;Diapers;Soda
+1563,Bacon;Bread;Butter;Cereal;Diapers;Orange Juice;Salsa
+1564,Coffee;Lettuce;Paper Towels;Tortillas
+1565,Coffee;Eggs;Sugar
+1566,Bread;Coffee;Milk;Peanut Butter;Potato Chips;Salsa;Soda
+1567,Butter;Cheddar Cheese;Cookies;Ground Beef;Paper Towels;Salsa
+1568,Cereal;Milk;Paper Towels
+1569,Bananas;Eggs;Rice;Yogurt
+1570,Ground Beef;Onions;Orange Juice;Parmesan;Pasta
+1571,Baby Wipes;Bread;Cheddar Cheese;Diapers;Eggs;Orange Juice;Peanut Butter;Potato Chips
+1572,Apples;Bananas;Eggs;Yogurt
+1573,Avocado;Cheddar Cheese;Ground Beef;Tortillas
+1574,Cereal;Coffee;Milk;Potato Chips;Salsa;Soda;Sugar
+1575,Apples;Eggs;Potato Chips;Yogurt
+1576,Avocado;Coffee;Eggs;Orange Juice;Tortillas
+1577,Apples;Bananas;Cereal;Honey
+1578,Beer;Eggs;Potato Chips;Salsa
+1579,Milk;Paper Towels;Potato Chips;Soda;Yogurt
+1580,Beer;Bread;Ground Beef;Salsa
+1581,Baby Wipes;Bacon;Butter;Cereal;Eggs;Orange Juice
+1582,Eggs;Honey;Lemons;Tea
+1583,Burger Buns;Cheddar Cheese;Tomatoes
+1584,Avocado;Cereal;Ground Beef;Milk;Salsa;Tortillas
+1585,Coffee;Parmesan;Pasta
+1586,Burger Buns;Parmesan;Pasta
+1587,Bacon;Parmesan
+1588,Bagels;Bread;Lemons;Tea
+1589,Baby Wipes;Beer;Potato Chips;Salsa;Soda;Tea
+1590,Apples;Bananas;Bread;Jam;Yogurt
+1591,Cereal;Eggs;Milk
+1592,Bagels;Bread;Peanut Butter
+1593,Bagels;Bread;Eggs;Onions;Orange Juice;Pasta;Pasta Sauce;Sugar
+1594,Beer;Parmesan;Pasta;Pasta Sauce
+1595,Beer;Potato Chips;Soda
+1596,Potato Chips;Soda
+1597,Lemons;Potato Chips;Salsa;Soda
+1598,Tea
+1599,Bacon;Bagels;Bread;Eggs;Orange Juice;Tortillas
+1600,Ground Beef;Tomatoes
+1601,Bacon;Eggs;Pasta
+1602,Beer;Bread;Jam;Milk;Peanut Butter;Soda
+1603,Apples;Chicken Breast;Ground Beef;Milk;Parmesan;Pasta;Pasta Sauce;Potato Chips;Salsa
+1604,Apples;Bananas;Bread;Chicken Breast;Peanut Butter;Salsa;Yogurt
+1605,Bananas;Bread;Cereal;Milk;Peanut Butter
+1606,Bacon;Bagels;Beer;Bread;Butter;Diapers;Eggs
+1607,Avocado;Cheddar Cheese;Milk;Salsa;Tortillas
+1608,Bacon;Bread;Butter;Eggs
+1609,Cheddar Cheese;Potato Chips;Salsa;Soda;Tortillas
+1610,Apples;Avocado;Beer;Honey;Potato Chips;Soda;Tea
+1611,Cereal;Pasta
+1612,Parmesan;Pasta Sauce
+1613,Apples;Bananas;Bread;Cereal;Milk;Yogurt
+1614,Milk;Potato Chips;Rice;Soda
+1615,Bread;Coffee;Jam;Milk;Peanut Butter;Sugar
+1616,Avocado;Cookies;Ground Beef;Lettuce;Salsa;Tortillas
+1617,Bacon;Pasta;Pasta Sauce
+1618,Bananas;Bread;Cereal;Milk;Orange Juice
+1619,Apples;Bananas;Chicken Breast;Rice;Yogurt
+1620,Cheddar Cheese;Eggs;Ground Beef;Lettuce;Pasta;Salsa;Tortillas
+1621,Bread;Burger Buns;Cheddar Cheese;Ground Beef;Jam;Milk;Peanut Butter
+1622,Bacon;Cereal;Milk;Rice
+1623,Cereal;Milk;Paper Towels;Soda
+1624,Butter;Orange Juice;Rice
+1625,Pasta Sauce;Potato Chips;Soda
+1626,Bread;Lemons;Milk
+1627,Apples;Avocado;Burger Buns;Ground Beef;Lettuce;Paper Towels;Tea
+1628,Baby Wipes;Coffee;Diapers;Honey;Milk;Sugar;Tea;Yogurt
+1629,Bacon;Bread;Honey;Orange Juice;Tea
+1630,Eggs;Onions;Parmesan;Pasta;Yogurt
+1631,Bananas;Bread;Coffee;Milk;Sugar
+1632,Apples;Avocado;Bananas;Cheddar Cheese;Chicken Breast;Ground Beef;Milk;Salsa;Tortillas;Yogurt
+1633,Bananas;Cereal;Coffee;Milk
+1634,Bread;Coffee;Honey;Milk;Paper Towels;Parmesan
+1635,Baby Wipes;Beer;Diapers;Jam
+1636,Bread;Jam;Parmesan;Pasta;Pasta Sauce;Peanut Butter;Yogurt
+1637,Avocado;Baby Wipes;Diapers
+1638,Ground Beef;Onions;Parmesan;Pasta;Pasta Sauce
+1639,Bread;Coffee;Jam;Lemons;Milk;Sugar;Tea
+1640,Baby Wipes;Bread;Diapers
+1641,Bread;Butter;Orange Juice
+1642,Beer;Cheddar Cheese;Diapers;Potato Chips;Salsa;Soda;Tortillas
+1643,Apples;Bananas;Bread;Potato Chips;Rice;Tea;Yogurt
+1644,Bread;Butter;Eggs;Orange Juice;Potato Chips;Yogurt
+1645,Coffee;Sugar
+1646,Bagels;Bread;Butter;Eggs;Onions;Orange Juice
+1647,Bread;Coffee;Peanut Butter
+1648,Baby Wipes;Bananas;Cereal;Diapers;Milk
+1649,Apples;Bagels;Chicken Breast;Lemons;Yogurt
+1650,Burger Buns;Butter;Cheddar Cheese;Ground Beef;Tomatoes
+1651,Bread;Jam;Peanut Butter
+1652,Butter;Cereal;Eggs;Soda
+1653,Avocado;Bacon;Ground Beef;Salsa;Tea
+1654,Coffee;Honey;Sugar
+1655,Bread;Eggs;Milk;Peanut Butter
+1656,Burger Buns;Ground Beef;Tomatoes
+1657,Cheddar Cheese;Lettuce;Onions;Salsa;Tortillas
+1658,Baby Wipes;Beer;Diapers;Parmesan
+1659,Beer;Ground Beef;Lettuce;Potato Chips;Soda;Tortillas
+1660,Beer;Coffee;Milk;Potato Chips;Soda
+1661,Beer;Lemons;Potato Chips;Salsa;Tea
+1662,Bread;Cheddar Cheese;Ground Beef;Lettuce;Peanut Butter;Tomatoes
+1663,Bread;Burger Buns;Ground Beef;Milk;Potato Chips;Salsa;Soda;Tortillas
+1664,Bananas;Cereal;Cheddar Cheese;Eggs;Ground Beef;Milk
+1665,Avocado;Bananas;Bread;Butter;Coffee;Orange Juice;Sugar
+1666,Bacon;Bread;Onions;Sugar
+1667,Pasta Sauce;Potato Chips;Soda
+1668,Beer;Potato Chips;Salsa
+1669,Bread
+1670,Bacon;Bananas;Butter;Eggs;Orange Juice
+1671,Cereal;Pasta;Pasta Sauce;Rice
+1672,Bread;Jam;Milk;Peanut Butter
+1673,Eggs;Honey
+1674,Bananas;Chicken Breast;Onions;Pasta;Pasta Sauce;Rice;Yogurt
+1675,Bananas;Cereal;Milk
+1676,Beer;Bread;Milk
+1677,Beer;Ground Beef;Salsa;Tortillas
+1678,Baby Wipes;Onions;Pasta;Pasta Sauce
+1679,Honey;Lemons;Tea
+1680,Cheddar Cheese;Chicken Breast;Ground Beef;Tortillas;Yogurt
+1681,Coffee;Cookies;Milk;Tea
+1682,Burger Buns;Ground Beef;Tomatoes
+1683,Bread;Pasta Sauce;Rice
+1684,Bacon;Potato Chips;Soda
+1685,Bread;Burger Buns;Butter;Ground Beef;Peanut Butter
+1686,Bread;Butter;Coffee;Eggs;Lemons;Milk;Rice;Tea
+1687,Cereal;Eggs;Milk
+1688,Apples;Chicken Breast;Yogurt
+1689,Cheddar Cheese;Ground Beef;Salsa
+1690,Avocado;Cereal;Ground Beef;Tortillas
+1691,Bread;Cereal;Eggs;Peanut Butter
+1692,Eggs;Onions;Parmesan;Pasta;Pasta Sauce;Potato Chips
+1693,Apples;Bananas;Chicken Breast;Coffee;Paper Towels
+1694,Apples;Bananas;Cereal;Chicken Breast;Milk;Peanut Butter
+1695,Bread;Jam;Paper Towels;Peanut Butter
+1696,Avocado;Cheddar Cheese;Diapers;Ground Beef;Salsa
+1697,Apples;Chicken Breast;Rice;Soda;Yogurt
+1698,Bananas;Chicken Breast;Rice
+1699,Baby Wipes;Beer;Bread;Burger Buns;Cookies;Diapers;Jam;Peanut Butter;Potato Chips;Soda
+1700,Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Rice;Soda;Tomatoes
+1701,Baby Wipes;Bananas;Cereal;Milk;Potato Chips
+1702,Butter;Coffee
+1703,Cereal;Coffee;Milk
+1704,Bacon;Bread;Eggs;Potato Chips;Salsa
+1705,Bananas;Bread;Cereal;Ground Beef;Jam;Milk;Soda
+1706,Bread;Honey;Paper Towels;Tea
+1707,Bananas;Honey;Lemons;Tea
+1708,Cheddar Cheese;Milk;Salsa;Tortillas
+1709,Bacon;Beer;Bread;Burger Buns;Butter;Eggs;Milk;Parmesan;Potato Chips;Salsa;Soda;Tomatoes
+1710,Eggs;Honey;Tea
+1711,Baby Wipes;Bananas;Cereal;Milk;Rice
+1712,Bananas;Chicken Breast;Eggs
+1713,Avocado;Cereal;Ground Beef;Lettuce;Milk;Salsa;Tortillas
+1714,Baby Wipes;Bread;Ground Beef;Honey;Jam;Lemons;Parmesan;Pasta;Pasta Sauce;Peanut Butter;Tea
+1715,Bread;Chicken Breast;Peanut Butter;Potato Chips;Salsa;Soda
+1716,Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Tortillas
+1717,Burger Buns;Diapers;Eggs;Potato Chips;Salsa;Soda
+1718,Cereal;Chicken Breast;Milk
+1719,Apples;Bananas;Chicken Breast;Rice;Yogurt
+1720,Bananas;Cookies;Ground Beef;Lettuce;Tortillas;Yogurt
+1721,Bacon;Bread;Eggs;Orange Juice
+1722,Bananas;Tea;Tortillas
+1723,Apples;Chicken Breast;Coffee;Milk;Rice;Yogurt
+1724,Baby Wipes;Diapers
+1725,Bread;Peanut Butter;Potato Chips;Salsa;Soda
+1726,Burger Buns;Cookies;Milk;Parmesan;Pasta;Pasta Sauce
+1727,Bacon;Bananas;Bread;Cereal;Eggs;Milk
+1728,Cereal;Milk
+1729,Bananas;Bread;Cereal;Milk;Peanut Butter;Potato Chips
+1730,Bread;Diapers;Soda
+1731,Bacon;Eggs;Yogurt
+1732,Bread;Eggs
+1733,Bananas;Cereal;Eggs;Milk;Potato Chips;Soda
+1734,Bacon;Bread;Butter;Eggs;Milk;Orange Juice
+1735,Baby Wipes;Diapers;Onions
+1736,Bacon;Bread;Eggs;Paper Towels;Rice
+1737,Baby Wipes;Bacon;Diapers;Ground Beef;Tortillas
+1738,Bacon;Butter;Eggs
+1739,Tea
+1740,Bananas;Bread;Cereal;Cheddar Cheese;Jam;Milk;Salsa;Tortillas
+1741,Bananas;Parmesan;Pasta
+1742,Apples;Bread;Soda
+1743,Bananas;Ground Beef;Onions;Parmesan;Pasta;Pasta Sauce
+1744,Apples;Bananas;Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Paper Towels;Tomatoes;Yogurt
+1745,Bacon;Bread;Butter;Eggs
+1746,Lemons;Tea
+1747,Bananas;Beer;Potato Chips;Salsa;Soda
+1748,Cookies;Lettuce;Salsa;Tortillas
+1749,Honey;Lemons;Tea;Tortillas
+1750,Bananas;Cereal;Lettuce;Milk
+1751,Avocado;Cheddar Cheese;Ground Beef;Lettuce;Milk;Potato Chips;Salsa;Soda;Tortillas
+1752,Bananas;Cereal;Milk;Paper Towels;Salsa;Tortillas
+1753,Eggs;Orange Juice
+1754,Bananas;Bread;Butter;Coffee;Eggs;Orange Juice
+1755,Bread;Burger Buns;Cheddar Cheese;Jam;Lettuce;Peanut Butter
+1756,Butter;Eggs;Potato Chips;Salsa;Soda
+1757,Apples;Cheddar Cheese;Chicken Breast;Cookies;Ground Beef;Honey;Salsa;Tortillas;Yogurt
+1758,Burger Buns;Cereal;Cheddar Cheese;Ground Beef;Lettuce;Milk;Tomatoes
+1759,Bread;Burger Buns;Ground Beef;Lettuce
+1760,Cereal;Cookies;Ground Beef;Lemons;Potato Chips;Salsa;Tea;Tortillas
+1761,Apples;Bananas;Bread;Cereal;Jam;Milk;Rice;Salsa;Tea;Yogurt
+1762,Baby Wipes;Coffee;Cookies;Diapers;Milk
+1763,Bananas;Chicken Breast;Coffee;Milk;Sugar;Yogurt
+1764,Bread;Eggs;Paper Towels;Pasta Sauce;Tea
+1765,Coffee;Milk;Tortillas
+1766,Onions;Parmesan;Pasta;Pasta Sauce
+1767,Apples;Baby Wipes;Burger Buns;Diapers
+1768,Apples;Coffee;Honey;Potato Chips;Salsa;Soda;Tea
+1769,Coffee;Milk;Pasta Sauce;Sugar
+1770,Bananas;Burger Buns;Cereal;Ground Beef;Lettuce;Milk
+1771,Coffee;Sugar
+1772,Cheddar Cheese;Ground Beef;Tomatoes
+1773,Baby Wipes;Diapers;Potato Chips
+1774,Bananas;Chicken Breast;Yogurt
+1775,Soda
+1776,Bread;Pasta;Peanut Butter
+1777,Beer;Diapers;Milk
+1778,Bread;Jam;Peanut Butter
+1779,Apples;Parmesan;Pasta;Peanut Butter
+1780,Baby Wipes;Beer;Bread;Diapers;Parmesan
+1781,Baby Wipes;Bread;Coffee;Eggs;Sugar
+1782,Apples;Bananas;Chicken Breast;Parmesan;Pasta;Pasta Sauce;Rice;Yogurt
+1783,Honey;Paper Towels;Pasta;Pasta Sauce;Soda;Tea
+1784,Pasta;Soda
+1785,Bananas;Cereal;Milk;Parmesan;Pasta;Pasta Sauce
+1786,Apples;Avocado;Bananas;Chicken Breast;Coffee;Milk;Rice;Yogurt
+1787,Butter;Eggs;Onions;Pasta;Pasta Sauce
+1788,Baby Wipes;Butter;Diapers
+1789,Burger Buns;Ground Beef;Onions;Pasta;Pasta Sauce;Tomatoes
+1790,Bananas;Milk;Onions;Parmesan;Pasta;Pasta Sauce
+1791,Butter;Onions;Orange Juice;Parmesan;Pasta
+1792,Eggs;Ground Beef;Parmesan;Pasta;Pasta Sauce;Tea
+1793,Beer;Coffee;Diapers;Eggs;Honey;Milk;Paper Towels
+1794,Bananas;Coffee;Ground Beef;Lemons;Milk;Onions;Parmesan;Pasta Sauce;Sugar;Yogurt
+1795,Baby Wipes;Bananas;Diapers;Rice
+1796,Cookies;Pasta;Pasta Sauce
+1797,Bread;Burger Buns;Eggs;Orange Juice
+1798,Bread;Cereal;Milk;Onions;Paper Towels;Parmesan;Pasta;Pasta Sauce
+1799,Bread;Butter;Eggs;Milk
+1800,Bread;Eggs;Jam;Onions;Peanut Butter
+1801,Bananas;Ground Beef;Onions;Parmesan;Pasta;Pasta Sauce;Rice
+1802,Ground Beef;Milk;Parmesan;Pasta
+1803,Onions;Parmesan;Pasta;Pasta Sauce
+1804,Baby Wipes;Diapers;Salsa
+1805,Cheddar Cheese;Coffee;Sugar
+1806,Avocado;Bagels;Pasta;Pasta Sauce
+1807,Apples;Cheddar Cheese;Coffee;Milk;Tortillas;Yogurt
+1808,Avocado;Cheddar Cheese;Ground Beef;Lettuce;Rice;Salsa;Tortillas
+1809,Bananas;Cereal;Milk;Pasta;Pasta Sauce
+1810,Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Peanut Butter;Tomatoes
+1811,Potato Chips;Salsa;Soda
+1812,Cereal;Coffee;Milk;Sugar
+1813,Coffee;Milk;Pasta;Sugar
+1814,Apples;Bananas;Chicken Breast;Diapers;Milk;Potato Chips;Tortillas;Yogurt
+1815,Beer;Bread;Potato Chips;Salsa
+1816,Diapers;Milk;Paper Towels;Rice
+1817,Bananas;Cereal;Milk;Paper Towels;Sugar
+1818,Bacon;Bananas;Bread;Cheddar Cheese;Eggs;Ground Beef
+1819,Cheddar Cheese;Milk;Potato Chips;Salsa;Tortillas
+1820,Tea
+1821,Bacon;Bread;Butter;Onions;Pasta;Pasta Sauce
+1822,Bananas;Cereal;Milk;Pasta
+1823,Bananas;Butter;Eggs;Ground Beef;Paper Towels;Tortillas
+1824,Bacon;Bread;Butter;Eggs;Ground Beef;Milk;Parmesan;Pasta
+1825,Bread;Jam;Onions;Parmesan;Pasta;Pasta Sauce;Peanut Butter;Soda
+1826,Avocado;Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Salsa
+1827,Cheddar Cheese;Coffee;Cookies;Lettuce;Sugar;Tortillas
+1828,Beer;Bread;Potato Chips;Salsa
+1829,Bread;Eggs;Honey;Peanut Butter;Tea
+1830,Eggs;Pasta;Pasta Sauce
+1831,Bacon;Bread;Cookies;Eggs;Orange Juice
+1832,Bread;Cereal;Eggs;Orange Juice
+1833,Bread;Butter;Eggs;Salsa
+1834,Bananas;Cereal;Milk;Tea
+1835,Bacon;Cereal
+1836,Apples;Bananas;Rice;Yogurt
+1837,Baby Wipes;Beer;Diapers
+1838,Bananas;Bread;Cereal;Coffee;Milk;Peanut Butter;Sugar
+1839,Avocado;Bread;Cheddar Cheese;Eggs;Ground Beef;Orange Juice;Tortillas
+1840,Baby Wipes;Diapers
+1841,Bananas;Cereal;Eggs;Milk
+1842,Bacon;Bread;Eggs;Orange Juice
+1843,Burger Buns;Cereal;Cheddar Cheese;Ground Beef;Milk;Tomatoes
+1844,Burger Buns;Cheddar Cheese;Ground Beef;Paper Towels;Pasta;Pasta Sauce;Rice;Tortillas
+1845,Bread;Parmesan;Pasta
+1846,Bacon;Burger Buns;Cheddar Cheese;Ground Beef;Lemons;Tomatoes
+1847,Coffee;Diapers;Eggs;Milk;Sugar
+1848,Avocado;Beer;Cheddar Cheese;Lemons;Peanut Butter;Potato Chips;Salsa;Tortillas
+1849,Cereal;Milk
+1850,Apples;Bananas;Chicken Breast;Eggs;Lemons;Rice;Yogurt
+1851,Onions;Parmesan;Pasta;Pasta Sauce
+1852,Apples;Beer;Coffee;Milk;Paper Towels;Potato Chips;Soda;Sugar
+1853,Bread;Honey;Lemons;Tea
+1854,Bread;Cereal;Jam;Milk;Peanut Butter
+1855,Bread;Coffee;Milk;Sugar
+1856,Bread;Jam;Peanut Butter
+1857,Apples;Honey
+1858,Bananas;Bread;Burger Buns;Cereal;Cheddar Cheese;Chicken Breast;Ground Beef;Lettuce;Milk
+1859,Apples;Coffee;Milk;Tea;Tortillas
+1860,Ground Beef;Pasta;Pasta Sauce
+1861,Avocado;Ground Beef;Lettuce;Salsa;Tortillas;Yogurt
+1862,Honey;Tea
+1863,Bananas;Bread;Cereal;Milk;Pasta Sauce
+1864,Burger Buns;Ground Beef;Lettuce;Milk;Rice;Soda;Tomatoes
+1865,Bananas;Cereal;Coffee;Milk;Potato Chips
+1866,Parmesan;Pasta;Pasta Sauce
+1867,Cheddar Cheese;Ground Beef;Lettuce
+1868,Baby Wipes;Diapers;Eggs;Honey
+1869,Burger Buns;Cheddar Cheese;Coffee;Ground Beef;Milk;Tomatoes
+1870,Chicken Breast;Honey;Tea
+1871,Bananas;Cereal;Milk;Rice
+1872,Beer;Bread;Jam;Tortillas
+1873,Butter;Coffee
+1874,Ground Beef;Parmesan;Pasta;Pasta Sauce;Rice
+1875,Bananas;Bread;Jam;Paper Towels;Peanut Butter;Potato Chips;Salsa;Soda
+1876,Potato Chips;Salsa;Soda;Tea
+1877,Beer;Milk;Potato Chips;Soda
+1878,Coffee;Milk;Potato Chips;Salsa
+1879,Apples;Bananas;Chicken Breast;Tea;Yogurt
+1880,Beer;Burger Buns;Cheddar Cheese;Paper Towels;Potato Chips;Soda
+1881,Baby Wipes;Diapers;Peanut Butter;Sugar
+1882,Apples;Bread;Jam;Rice;Yogurt
+1883,Bagels;Butter;Eggs
+1884,Baby Wipes;Beer;Potato Chips;Salsa;Soda
+1885,Bread;Jam
+1886,Coffee;Milk;Sugar;Tea
+1887,Apples;Bananas;Burger Buns;Cheddar Cheese;Chicken Breast;Ground Beef;Lettuce;Rice
+1888,Avocado;Chicken Breast;Ground Beef;Lettuce;Pasta;Salsa;Tortillas
+1889,Honey;Jam;Milk;Paper Towels;Tea
+1890,Baby Wipes;Diapers;Pasta;Pasta Sauce;Tomatoes
+1891,Apples;Cheddar Cheese;Chicken Breast;Ground Beef;Lettuce;Peanut Butter;Rice;Salsa;Tortillas;Yogurt
+1892,Apples;Bananas;Milk
+1893,Avocado;Baby Wipes;Diapers;Eggs;Honey;Lemons;Milk;Tea
+1894,Avocado;Bread;Ground Beef;Tortillas
+1895,Cheddar Cheese;Coffee;Eggs;Milk
+1896,Coffee;Potato Chips
+1897,Onions;Pasta;Pasta Sauce
+1898,Avocado;Bacon;Bread;Burger Buns;Eggs;Ground Beef;Lettuce;Salsa
+1899,Chicken Breast;Lemons;Pasta;Pasta Sauce
+1900,Bacon;Bread;Butter;Cookies;Eggs;Ground Beef;Salsa;Tortillas
+1901,Bread;Cereal;Coffee;Milk;Sugar
+1902,Beer;Lemons;Potato Chips;Soda
+1903,Baby Wipes;Diapers;Rice
+1904,Apples;Bananas;Chicken Breast;Paper Towels;Pasta;Pasta Sauce;Rice;Salsa;Yogurt
+1905,Bananas;Cereal;Milk;Parmesan;Pasta;Pasta Sauce
+1906,Bread;Coffee;Jam;Sugar
+1907,Coffee;Milk;Paper Towels;Sugar;Tea
+1908,Apples;Paper Towels;Tortillas;Yogurt
+1909,Beer;Bread;Burger Buns;Cheddar Cheese;Ground Beef;Potato Chips;Salsa;Soda;Tomatoes;Yogurt
+1910,Bananas;Cereal;Milk;Paper Towels;Parmesan;Potato Chips;Soda
+1911,Bacon;Burger Buns;Cheddar Cheese;Eggs;Lettuce;Milk;Orange Juice
+1912,Bagels;Potato Chips;Soda
+1913,Burger Buns;Butter;Ground Beef;Rice;Tomatoes
+1914,Apples;Bananas;Burger Buns;Cereal;Eggs;Ground Beef
+1915,Apples;Bread;Pasta;Pasta Sauce;Peanut Butter;Rice
+1916,Bread;Eggs;Tortillas
+1917,Coffee;Cookies
+1918,Bread;Cookies;Jam;Peanut Butter
+1919,Cereal;Cheddar Cheese;Parmesan
+1920,Bananas;Rice
+1921,Eggs;Milk;Potato Chips;Salsa;Soda
+1922,Bread;Ground Beef;Pasta;Pasta Sauce;Tortillas
+1923,Baby Wipes;Bacon;Beer;Bread;Butter;Diapers;Orange Juice;Soda
+1924,Cereal;Ground Beef;Honey;Lettuce;Rice;Tomatoes
+1925,Coffee;Sugar
+1926,Beer;Pasta;Soda
+1927,Cereal;Milk;Pasta;Pasta Sauce
+1928,Bread
+1929,Bacon;Bread;Coffee;Eggs;Orange Juice
+1930,Bananas;Burger Buns;Cereal;Eggs;Ground Beef;Lettuce;Milk;Tomatoes
+1931,Bananas;Beer;Ground Beef;Parmesan;Pasta;Pasta Sauce
+1932,Bananas;Burger Buns;Cereal;Cheddar Cheese;Lettuce;Milk;Salsa;Tomatoes;Tortillas
+1933,Bananas;Ground Beef;Onions;Pasta;Pasta Sauce
+1934,Eggs;Soda
+1935,Butter;Honey;Milk;Salsa;Tortillas
+1936,Apples;Bananas;Eggs;Rice;Yogurt
+1937,Bacon;Bread;Butter;Cheddar Cheese;Eggs;Lettuce;Milk;Salsa;Tortillas
+1938,Burger Buns;Ground Beef;Onions;Paper Towels;Parmesan;Pasta;Pasta Sauce;Tomatoes
+1939,Bread
+1940,Bananas;Milk
+1941,Bananas;Cheddar Cheese;Ground Beef;Salsa;Tortillas
+1942,Baby Wipes;Cereal;Milk
+1943,Beer;Coffee;Ground Beef;Milk;Potato Chips;Salsa;Sugar;Tortillas
+1944,Baby Wipes;Diapers;Eggs
+1945,Bread;Chicken Breast;Honey;Lemons;Rice;Tea;Yogurt
+1946,Burger Buns;Cheddar Cheese
+1947,Bacon;Bread;Eggs;Orange Juice;Soda
+1948,Cereal;Coffee;Milk;Sugar
+1949,Beer;Milk;Potato Chips;Salsa;Soda
+1950,Bacon;Butter;Cheddar Cheese;Eggs;Tortillas
+1951,Diapers;Rice
+1952,Avocado;Cheddar Cheese;Chicken Breast;Ground Beef;Lettuce;Milk;Tortillas
+1953,Apples;Bananas;Burger Buns;Coffee;Ground Beef;Milk;Sugar;Yogurt
+1954,Bacon;Bread
+1955,Bagels;Coffee;Milk;Tomatoes
+1956,Beer;Lettuce;Potato Chips;Soda
+1957,Cookies;Eggs;Ground Beef;Paper Towels;Parmesan;Pasta
+1958,Bananas;Cereal;Milk;Tortillas
+1959,Bananas;Cookies;Orange Juice;Rice
+1960,Bananas;Cereal;Milk;Soda
+1961,Bread;Butter;Orange Juice
+1962,Apples;Cereal;Coffee;Sugar
+1963,Bananas;Beer;Cereal;Cookies;Honey;Milk;Paper Towels;Potato Chips
+1964,Apples;Burger Buns;Lettuce;Sugar
+1965,Burger Buns;Cheddar Cheese;Yogurt
+1966,Honey;Lemons;Tea
+1967,Bread;Chicken Breast;Potato Chips;Soda;Yogurt
+1968,Cereal;Milk;Paper Towels
+1969,Baby Wipes;Diapers;Ground Beef;Parmesan;Pasta;Pasta Sauce
+1970,Bread;Burger Buns;Coffee;Jam;Peanut Butter;Yogurt
+1971,Bananas;Bread;Butter;Cereal;Lemons
+1972,Bread;Butter;Peanut Butter;Soda
+1973,Apples;Ground Beef;Onions;Parmesan;Pasta;Pasta Sauce
+1974,Salsa
+1975,Cheddar Cheese;Ground Beef;Lettuce;Salsa;Tortillas
+1976,Avocado;Bananas;Cereal;Jam;Milk
+1977,Apples;Butter;Onions;Parmesan;Pasta;Pasta Sauce;Potato Chips
+1978,Ground Beef;Lettuce;Orange Juice;Salsa;Soda;Tortillas
+1979,Apples;Bananas;Diapers;Yogurt
+1980,Bananas;Bread;Jam;Paper Towels;Parmesan
+1981,Avocado;Cookies;Lettuce;Salsa;Soda;Tortillas;Yogurt
+1982,Bacon;Bread;Burger Buns;Cheddar Cheese;Eggs;Jam;Orange Juice;Tomatoes
+1983,Bread;Eggs;Milk;Onions;Orange Juice;Potato Chips;Salsa;Soda
+1984,Apples;Bacon;Beer;Potato Chips;Salsa
+1985,Bacon;Bananas;Eggs;Orange Juice;Pasta;Pasta Sauce;Yogurt
+1986,Lemons;Lettuce;Tea
+1987,Burger Buns;Butter;Ground Beef;Onions;Parmesan;Pasta
+1988,Bananas;Cereal;Cheddar Cheese;Ground Beef;Milk;Parmesan;Tortillas
+1989,Coffee;Milk;Parmesan;Pasta;Rice
+1990,Bread;Cereal;Jam;Milk;Peanut Butter
+1991,Ground Beef;Onions;Parmesan;Pasta;Pasta Sauce
+1992,Cookies;Potato Chips;Salsa
+1993,Bananas;Yogurt
+1994,Bananas;Bread;Lemons;Rice;Tea
+1995,Beer;Coffee;Milk
+1996,Bananas;Bread;Rice;Yogurt
+1997,Burger Buns;Ground Beef;Lettuce;Sugar
+1998,Burger Buns;Cheddar Cheese;Ground Beef
+1999,Bananas;Cereal;Milk;Tomatoes
+2000,Burger Buns;Cheddar Cheese;Lettuce
+2001,Chicken Breast;Ground Beef;Honey;Potato Chips;Salsa;Tea;Tortillas
+2002,Bread;Coffee;Jam;Lettuce;Peanut Butter
+2003,Bread;Coffee;Milk;Sugar
+2004,Bread;Cereal;Milk;Pasta;Pasta Sauce
+2005,Apples;Burger Buns;Chicken Breast;Ground Beef;Pasta;Rice;Yogurt
+2006,Bread;Cheddar Cheese;Coffee;Jam;Milk;Peanut Butter;Sugar
+2007,Bananas;Chicken Breast;Eggs;Rice;Yogurt
+2008,Apples;Baby Wipes;Bananas;Cereal;Coffee;Milk;Onions;Rice;Sugar;Yogurt
+2009,Ground Beef;Parmesan;Pasta;Pasta Sauce
+2010,Honey;Milk;Pasta;Tea
+2011,Honey;Lemons;Milk;Tea
+2012,Bananas;Chicken Breast
+2013,Avocado;Cheddar Cheese;Ground Beef;Milk;Salsa;Tortillas
+2014,Chicken Breast;Yogurt
+2015,Burger Buns;Cheddar Cheese;Ground Beef;Tomatoes;Tortillas
+2016,Honey;Tea
+2017,Bread;Jam
+2018,Bananas;Cereal;Chicken Breast;Milk
+2019,Beer;Potato Chips;Salsa;Soda
+2020,Bacon;Butter;Onions;Pasta
+2021,Avocado;Baby Wipes;Diapers;Ground Beef;Salsa;Tortillas
+2022,Bread;Jam;Peanut Butter
+2023,Bananas;Bread;Burger Buns;Butter;Eggs;Ground Beef;Lettuce
+2024,Baby Wipes;Potato Chips;Salsa;Soda
+2025,Bread;Jam;Peanut Butter;Tortillas
+2026,Eggs;Onions;Parmesan;Pasta;Pasta Sauce;Soda
+2027,Honey;Tea
+2028,Baby Wipes;Bacon;Bread;Coffee;Diapers;Eggs;Milk;Orange Juice;Tea
+2029,Bananas;Bread;Cereal;Milk
+2030,Ground Beef;Milk;Parmesan;Pasta;Pasta Sauce
+2031,Baby Wipes;Beer;Burger Buns;Cheddar Cheese;Diapers;Lettuce;Tomatoes
+2032,Chicken Breast;Milk;Rice
+2033,Bacon;Bread;Butter;Eggs;Milk
+2034,Bread;Jam;Lemons;Peanut Butter;Rice
+2035,Bacon;Bread;Butter;Eggs;Peanut Butter
+2036,Bread;Cookies;Eggs;Jam;Pasta;Tea
+2037,Burger Buns;Cheddar Cheese;Lettuce
+2038,Apples;Bread;Chicken Breast;Eggs;Orange Juice;Peanut Butter;Rice;Yogurt
+2039,Ground Beef;Rice;Salsa;Soda;Tortillas
+2040,Bread;Cereal;Milk
+2041,Bananas;Chicken Breast;Coffee;Milk;Rice;Sugar;Yogurt
+2042,Bread;Cheddar Cheese;Eggs;Ground Beef;Lettuce;Potato Chips;Salsa;Tortillas
+2043,Beer;Cereal;Eggs;Potato Chips;Salsa;Soda
+2044,Bacon;Bananas;Bread;Chicken Breast;Eggs;Rice
+2045,Cereal;Lemons;Milk;Soda
+2046,Chicken Breast;Coffee
+2047,Eggs;Honey;Lemons;Milk;Tea
+2048,Apples;Chicken Breast;Coffee;Milk;Parmesan;Pasta;Pasta Sauce;Rice;Sugar;Yogurt
+2049,Bananas;Cereal;Coffee;Milk
+2050,Avocado;Bread;Cereal;Cheddar Cheese;Ground Beef;Milk;Salsa;Tortillas
+2051,Apples;Bananas;Onions;Potato Chips;Salsa;Yogurt
+2052,Avocado;Bacon;Bananas;Butter;Cheddar Cheese;Chicken Breast;Coffee;Rice;Salsa;Tortillas
+2053,Apples;Bananas;Chicken Breast;Rice;Soda;Yogurt
+2054,Coffee;Pasta;Soda
+2055,Apples;Chicken Breast;Peanut Butter;Yogurt
+2056,Bananas;Chicken Breast;Eggs
+2057,Bananas;Eggs;Lemons;Milk;Orange Juice;Paper Towels
+2058,Cereal;Ground Beef;Milk;Pasta;Pasta Sauce
+2059,Bananas;Cheddar Cheese;Ground Beef;Peanut Butter;Tortillas
+2060,Cereal;Coffee
+2061,Apples;Bananas;Yogurt
+2062,Bread;Eggs
+2063,Bacon;Bread;Jam
+2064,Bread;Jam;Onions;Pasta;Pasta Sauce;Peanut Butter
+2065,Bread;Cereal;Milk;Pasta
+2066,Apples;Bananas;Chicken Breast
+2067,Bacon;Bread;Butter;Eggs;Orange Juice
+2068,Ground Beef;Lemons;Pasta;Pasta Sauce;Potato Chips;Salsa;Tea;Tortillas
+2069,Bread;Onions
+2070,Cheddar Cheese;Lettuce;Salsa;Soda;Tortillas
+2071,Bananas;Cereal;Coffee;Milk;Peanut Butter;Tortillas
+2072,Bagels;Beer;Diapers;Potato Chips;Soda
+2073,Apples;Bananas;Cookies;Eggs;Pasta;Pasta Sauce;Yogurt
+2074,Bananas;Cereal;Milk;Pasta Sauce
+2075,Apples;Bananas;Bread;Eggs;Ground Beef;Pasta;Pasta Sauce;Yogurt
+2076,Bananas;Bread;Cereal;Jam;Milk;Peanut Butter
+2077,Apples;Bananas;Peanut Butter;Rice;Yogurt
+2078,Bread
+2079,Avocado;Bread;Butter;Cheddar Cheese;Diapers;Ground Beef;Salsa;Tortillas
+2080,Bread;Pasta;Pasta Sauce
+2081,Avocado;Bread;Cereal;Ground Beef;Jam;Lettuce;Salsa;Tortillas;Yogurt
+2082,Cheddar Cheese;Ground Beef;Jam;Lettuce;Milk;Salsa;Tortillas
+2083,Cheddar Cheese;Ground Beef;Lettuce;Potato Chips;Salsa;Soda;Tortillas
+2084,Chicken Breast;Ground Beef;Rice;Salsa;Tortillas
+2085,Avocado;Cheddar Cheese;Ground Beef;Salsa
+2086,Cereal;Milk
+2087,Pasta;Pasta Sauce
+2088,Coffee;Eggs;Rice;Sugar
+2089,Cheddar Cheese;Cookies;Ground Beef;Lettuce
+2090,Coffee;Milk;Potato Chips
+2091,Bananas;Cereal;Eggs;Milk;Sugar;Tea
+2092,Coffee;Pasta;Pasta Sauce
+2093,Avocado;Cheddar Cheese;Coffee;Milk;Salsa;Tortillas
+2094,Beer;Cookies;Potato Chips;Soda
+2095,Bacon;Eggs;Milk;Orange Juice
+2096,Ground Beef;Parmesan;Pasta;Pasta Sauce
+2097,Beer;Coffee;Potato Chips;Rice;Soda
+2098,Coffee;Cookies;Honey;Milk;Tea
+2099,Apples;Cereal;Lettuce;Potato Chips
+2100,Burger Buns;Ground Beef;Lettuce;Onions;Pasta;Pasta Sauce;Tomatoes
+2101,Apples;Baby Wipes;Rice;Yogurt
+2102,Burger Buns;Cookies;Ground Beef;Tomatoes
+2103,Bread;Paper Towels;Peanut Butter
+2104,Bananas;Milk;Paper Towels;Potato Chips;Rice;Yogurt
+2105,Bananas;Cereal;Milk;Potato Chips;Soda
+2106,Coffee;Pasta;Pasta Sauce;Soda
+2107,Baby Wipes;Bananas;Cereal;Diapers;Milk
+2108,Bacon;Milk;Paper Towels;Potato Chips;Salsa;Soda
+2109,Bananas;Bread;Cereal;Diapers;Eggs
+2110,Butter;Eggs
+2111,Baby Wipes;Diapers;Lemons;Milk;Onions;Parmesan;Pasta;Pasta Sauce;Soda;Tea
+2112,Apples;Milk;Yogurt
+2113,Bananas;Cereal;Diapers;Milk
+2114,Avocado;Eggs;Ground Beef;Lettuce;Salsa;Tortillas
+2115,Bananas;Ground Beef;Jam;Orange Juice;Parmesan;Pasta;Pasta Sauce
+2116,Pasta Sauce;Peanut Butter
+2117,Onions;Parmesan;Pasta;Pasta Sauce
+2118,Bananas;Burger Buns;Ground Beef
+2119,Beer;Bread;Potato Chips;Salsa
+2120,Cheddar Cheese;Pasta;Pasta Sauce;Tortillas
+2121,Bread;Onions;Pasta Sauce;Peanut Butter
+2122,Bacon;Bread;Burger Buns;Butter;Eggs;Jam;Milk;Orange Juice
+2123,Apples;Bananas;Onions;Pasta;Pasta Sauce;Rice
+2124,Bread;Butter;Cookies;Eggs
+2125,Baby Wipes;Bacon;Bread;Diapers;Jam;Milk;Orange Juice;Parmesan
+2126,Bananas;Ground Beef;Honey;Lemons;Lettuce;Paper Towels;Tea
+2127,Apples;Cheddar Cheese;Chicken Breast;Coffee;Ground Beef;Salsa;Sugar;Tortillas;Yogurt
+2128,Burger Buns;Ground Beef;Lettuce
+2129,Bacon;Bananas;Bread;Butter;Ground Beef;Orange Juice
+2130,Baby Wipes;Lemons;Tea
+2131,Bananas;Bread;Parmesan;Pasta;Pasta Sauce;Peanut Butter
+2132,Beer;Eggs;Honey;Milk;Pasta;Pasta Sauce;Potato Chips;Salsa;Soda
+2133,Bacon;Bread;Butter;Eggs;Honey;Orange Juice
+2134,Apples;Potato Chips;Soda
+2135,Bananas;Cereal;Milk;Onions;Parmesan;Pasta;Pasta Sauce;Soda
+2136,Bananas;Cereal;Milk
+2137,Cereal;Milk;Paper Towels
+2138,Apples;Bananas;Eggs;Pasta
+2139,Bacon;Butter;Coffee;Eggs;Milk;Sugar
+2140,Beer;Butter;Cookies;Potato Chips;Salsa;Soda
+2141,Bread;Jam;Parmesan;Pasta Sauce
+2142,Avocado;Burger Buns;Cheddar Cheese;Tortillas
+2143,Apples;Butter;Eggs;Honey;Paper Towels;Yogurt
+2144,Apples;Milk;Rice
+2145,Apples;Bananas;Bread;Jam;Peanut Butter;Potato Chips
+2146,Chicken Breast;Paper Towels;Potato Chips;Salsa;Tea;Tortillas;Yogurt
+2147,Apples;Bananas;Bread;Chicken Breast;Parmesan;Pasta;Pasta Sauce;Yogurt
+2148,Beer;Bread;Diapers;Sugar
+2149,Burger Buns;Milk
+2150,Bananas;Bread;Chicken Breast;Yogurt
+2151,Bread;Eggs;Ground Beef;Salsa;Tortillas
+2152,Avocado;Bacon;Bananas;Bread;Cheddar Cheese;Eggs;Ground Beef;Salsa;Tortillas;Yogurt
+2153,Apples;Chicken Breast;Coffee;Milk;Potato Chips;Rice;Sugar;Yogurt
+2154,Bread;Eggs;Jam;Peanut Butter;Soda
+2155,Bread
+2156,Bacon;Burger Buns;Cereal;Ground Beef;Milk
+2157,Bananas;Bread;Coffee;Ground Beef;Jam;Parmesan;Pasta;Peanut Butter
+2158,Bacon;Bread;Eggs;Milk;Potato Chips;Salsa;Soda
+2159,Bananas;Bread;Cereal;Jam;Milk;Tea
+2160,Burger Buns;Ground Beef;Lettuce;Potato Chips;Salsa;Soda;Tomatoes
+2161,Burger Buns;Butter;Cheddar Cheese;Ground Beef;Jam;Lettuce;Tomatoes
+2162,Baby Wipes;Bananas;Coffee;Diapers;Yogurt
+2163,Bread;Chicken Breast;Eggs;Honey;Lemons;Tea;Yogurt
+2164,Apples;Bananas;Coffee;Pasta
+2165,Cereal;Cookies;Milk;Potato Chips;Salsa;Soda
+2166,Coffee;Milk;Sugar
+2167,Butter;Onions;Pasta;Pasta Sauce
+2168,Apples;Bananas;Bread;Chicken Breast;Jam;Peanut Butter;Rice;Sugar;Yogurt
+2169,Bananas;Cereal
+2170,Cereal;Chicken Breast;Pasta;Pasta Sauce
+2171,Cereal;Milk;Onions;Orange Juice;Parmesan;Pasta;Pasta Sauce
+2172,Butter;Eggs;Potato Chips;Salsa;Soda;Yogurt
+2173,Potato Chips;Salsa;Soda
+2174,Parmesan;Pasta;Sugar
+2175,Bread;Burger Buns;Cheddar Cheese;Ground Beef;Jam;Lemons;Peanut Butter;Potato Chips;Salsa;Soda
+2176,Bread;Burger Buns;Eggs;Ground Beef;Tomatoes
+2177,Bagels;Tea
+2178,Cereal;Diapers;Milk
+2179,Beer;Potato Chips;Salsa;Soda
+2180,Avocado;Cereal;Cheddar Cheese;Ground Beef;Lettuce;Milk;Tortillas
+2181,Avocado;Cereal;Cheddar Cheese;Ground Beef;Milk;Salsa;Tortillas
+2182,Onions;Parmesan;Pasta;Pasta Sauce
+2183,Avocado;Baby Wipes;Cheddar Cheese;Diapers;Eggs;Rice;Salsa;Tortillas
+2184,Burger Buns;Cereal;Cookies;Ground Beef;Milk
+2185,Bread;Pasta;Pasta Sauce
+2186,Bananas;Bread;Burger Buns;Butter;Jam;Tomatoes
+2187,Bagels;Honey;Pasta;Tea
+2188,Bananas;Cereal;Milk;Onions;Pasta
+2189,Coffee;Eggs;Milk
+2190,Avocado;Ground Beef;Honey;Lemons;Milk;Parmesan;Salsa;Tea;Tortillas
+2191,Ground Beef;Parmesan;Pasta;Pasta Sauce
+2192,Bananas;Bread;Jam;Orange Juice
+2193,Bread;Potato Chips;Rice
+2194,Coffee;Milk;Sugar
+2195,Onions;Parmesan;Pasta;Pasta Sauce
+2196,Ground Beef;Lettuce;Tortillas
+2197,Bread
+2198,Eggs;Potato Chips;Soda
+2199,Parmesan;Pasta;Pasta Sauce;Sugar;Tea
+2200,Coffee;Milk;Sugar
+2201,Apples;Bananas;Chicken Breast;Coffee;Yogurt
+2202,Pasta;Pasta Sauce;Salsa
+2203,Apples;Coffee;Eggs;Sugar
+2204,Beer;Burger Buns;Potato Chips;Salsa;Soda
+2205,Baby Wipes;Diapers;Eggs
+2206,Bread;Cereal;Jam;Milk;Peanut Butter
+2207,Butter;Eggs;Potato Chips;Rice;Salsa
+2208,Bananas;Cereal
+2209,Bacon;Bread;Butter;Eggs;Orange Juice
+2210,Burger Buns;Coffee;Ground Beef;Pasta Sauce
+2211,Avocado;Parmesan;Pasta;Pasta Sauce;Salsa;Tortillas
+2212,Beer;Orange Juice;Soda
+2213,Bread;Honey;Lemons;Tea
+2214,Bread;Burger Buns;Ground Beef;Jam;Pasta Sauce;Peanut Butter;Rice
+2215,Coffee;Cookies;Eggs;Jam;Milk;Peanut Butter;Sugar
+2216,Bacon;Butter;Soda
+2217,Avocado;Chicken Breast;Ground Beef;Tortillas
+2218,Coffee;Diapers;Milk;Soda;Sugar;Tea
+2219,Tea
+2220,Bread;Butter;Eggs;Honey;Peanut Butter;Soda;Tea
+2221,Apples;Baby Wipes;Bacon;Beer;Diapers;Orange Juice;Tea
+2222,Coffee;Milk;Sugar
+2223,Cereal;Ground Beef;Milk
+2224,Beer;Chicken Breast;Coffee;Milk;Pasta;Potato Chips;Salsa;Soda;Sugar
+2225,Bacon;Cereal;Coffee;Eggs;Milk;Orange Juice;Sugar
+2226,Bread;Honey;Jam;Paper Towels
+2227,Bacon;Bread;Butter;Eggs;Potato Chips
+2228,Bananas;Cereal;Ground Beef;Milk;Onions;Pasta;Pasta Sauce;Soda
+2229,Apples;Cheddar Cheese;Eggs;Rice;Yogurt
+2230,Apples;Cereal;Chicken Breast;Rice;Yogurt
+2231,Bacon;Butter;Eggs;Orange Juice
+2232,Ground Beef;Lemons;Parmesan;Pasta;Pasta Sauce
+2233,Avocado;Bread;Cereal;Eggs;Ground Beef;Lettuce;Salsa;Tortillas
+2234,Bread;Eggs;Milk;Orange Juice;Potato Chips;Soda
+2235,Apples;Butter;Eggs
+2236,Apples;Bananas;Cereal;Chicken Breast;Milk;Rice;Soda;Tortillas
+2237,Coffee;Eggs
+2238,Apples;Paper Towels;Yogurt
+2239,Bread;Butter;Eggs;Orange Juice
+2240,Butter;Eggs;Milk;Orange Juice
+2241,Beer;Cheddar Cheese;Ground Beef;Potato Chips;Salsa;Soda;Tortillas
+2242,Bread;Honey;Lemons;Milk;Paper Towels;Peanut Butter;Tea
+2243,Bananas;Chicken Breast;Coffee;Parmesan;Pasta;Pasta Sauce;Yogurt
+2244,Baby Wipes;Diapers;Eggs;Orange Juice;Paper Towels
+2245,Bananas;Cereal;Coffee;Milk;Paper Towels;Pasta Sauce;Sugar
+2246,Bread;Cereal;Cookies;Milk
+2247,Apples;Bananas;Chicken Breast;Salsa;Soda;Tortillas;Yogurt
+2248,Bananas;Rice;Yogurt
+2249,Baby Wipes;Beer;Burger Buns;Cheddar Cheese;Diapers;Ground Beef
+2250,Bread
+2251,Bananas;Burger Buns;Cheddar Cheese;Ground Beef;Potato Chips;Salsa;Tomatoes
+2252,Bread;Eggs;Jam
+2253,Bananas;Bread;Ground Beef;Jam;Onions;Parmesan;Pasta Sauce;Peanut Butter
+2254,Burger Buns;Cheddar Cheese;Ground Beef;Honey;Lettuce;Tea;Tomatoes;Tortillas
+2255,Ground Beef;Jam;Paper Towels
+2256,Bread;Coffee;Milk;Potato Chips;Sugar
+2257,Burger Buns;Cereal;Ground Beef;Lettuce;Milk;Tomatoes
+2258,Coffee;Eggs;Ground Beef;Milk;Onions;Pasta;Pasta Sauce
+2259,Bananas;Bread;Cereal;Milk
+2260,Bacon;Bananas;Salsa;Soda
+2261,Honey;Lemons;Tea
+2262,Apples;Rice;Yogurt
+2263,Cereal;Milk
+2264,Cereal;Coffee;Eggs;Ground Beef;Milk;Sugar
+2265,Baby Wipes;Beer;Diapers;Eggs;Potato Chips;Soda
+2266,Beer;Milk;Pasta Sauce;Potato Chips;Salsa;Soda
+2267,Bananas;Cereal;Milk
+2268,Bacon;Bananas;Bread;Butter;Eggs;Orange Juice
+2269,Burger Buns;Ground Beef;Lemons;Lettuce
+2270,Apples;Baby Wipes;Diapers
+2271,Apples;Burger Buns;Coffee;Ground Beef;Potato Chips;Salsa;Sugar
+2272,Bread;Eggs;Orange Juice
+2273,Apples;Bananas;Cheddar Cheese;Chicken Breast;Diapers;Paper Towels;Potato Chips;Soda;Tortillas
+2274,Bananas;Cereal;Ground Beef;Honey;Milk;Salsa;Tea;Tortillas
+2275,Butter;Eggs;Orange Juice;Parmesan;Pasta;Pasta Sauce;Soda
+2276,Apples;Bananas;Butter;Cereal;Eggs;Milk;Rice;Yogurt
+2277,Baby Wipes;Beer;Diapers
+2278,Bacon;Bread
+2279,Apples;Bananas;Ground Beef;Rice
+2280,Apples;Avocado;Bacon;Bananas;Orange Juice;Yogurt
+2281,Beer;Chicken Breast;Diapers;Paper Towels
+2282,Avocado;Peanut Butter;Potato Chips
+2283,Honey;Tea;Tomatoes
+2284,Bread;Potato Chips;Soda
+2285,Bananas;Cereal
+2286,Eggs
+2287,Beer;Bread;Potato Chips;Salsa;Soda
+2288,Cheddar Cheese;Lettuce;Paper Towels;Potato Chips;Salsa;Tortillas
+2289,Apples;Bananas;Milk;Potato Chips;Rice;Tea;Yogurt
+2290,Apples;Bananas;Chicken Breast;Diapers;Rice;Salsa
+2291,Bread;Jam;Peanut Butter;Soda;Yogurt
+2292,Burger Buns;Ground Beef;Paper Towels;Tomatoes
+2293,Apples;Beer;Butter;Chicken Breast;Potato Chips;Rice;Salsa;Soda
+2294,Apples;Bananas;Coffee;Ground Beef;Onions;Parmesan;Pasta;Pasta Sauce;Rice;Yogurt
+2295,Bacon;Bread;Butter;Cookies;Eggs;Orange Juice
+2296,Bacon;Bread;Cereal;Eggs
+2297,Avocado;Bread;Lemons;Peanut Butter;Tortillas
+2298,Bagels;Bread;Onions;Parmesan;Pasta;Pasta Sauce
+2299,Cookies;Ground Beef;Pasta;Pasta Sauce;Potato Chips;Salsa;Soda
+2300,Bread;Eggs;Honey;Rice
+2301,Burger Buns;Butter;Ground Beef;Honey;Tomatoes
+2302,Jam;Potato Chips;Salsa;Soda
+2303,Bread;Coffee;Jam;Milk;Onions;Peanut Butter
+2304,Apples;Cookies;Lettuce;Salsa;Tortillas
+2305,Coffee;Jam;Milk
+2306,Bananas;Bread;Rice;Yogurt
+2307,Paper Towels;Parmesan;Pasta;Pasta Sauce;Soda
+2308,Coffee;Milk;Sugar;Yogurt
+2309,Bread;Cheddar Cheese;Ground Beef;Orange Juice;Peanut Butter;Tomatoes
+2310,Baby Wipes;Diapers;Lettuce;Peanut Butter
+2311,Baby Wipes;Coffee;Eggs;Ground Beef;Potato Chips;Soda
+2312,Burger Buns;Cheddar Cheese;Ground Beef;Orange Juice;Tomatoes
+2313,Burger Buns;Cheddar Cheese;Ground Beef;Honey;Lemons;Milk;Tea;Tomatoes
+2314,Bread;Orange Juice;Parmesan;Pasta;Pasta Sauce;Peanut Butter;Sugar
+2315,Bagels;Bananas;Beer;Cereal;Milk;Potato Chips;Salsa;Soda
+2316,Bananas;Cereal;Milk
+2317,Cereal;Milk
+2318,Bacon;Honey;Lemons;Orange Juice;Tea
+2319,Bread;Jam;Parmesan;Pasta;Peanut Butter
+2320,Bananas;Cereal;Milk;Paper Towels
+2321,Ground Beef;Paper Towels;Parmesan;Pasta;Pasta Sauce
+2322,Cereal;Cheddar Cheese;Milk
+2323,Cereal;Milk
+2324,Bread;Paper Towels;Pasta Sauce;Peanut Butter
+2325,Coffee;Milk
+2326,Eggs;Ground Beef;Milk;Pasta
+2327,Bagels;Beer;Onions;Pasta;Pasta Sauce;Rice;Salsa;Soda
+2328,Bagels;Bread;Butter;Jam;Lemons;Peanut Butter;Tea
+2329,Bread;Peanut Butter
+2330,Cheddar Cheese;Coffee;Ground Beef;Milk;Salsa;Sugar;Tea;Tortillas
+2331,Bacon;Coffee
+2332,Bread;Coffee;Milk;Peanut Butter;Sugar
+2333,Avocado;Cheddar Cheese;Lettuce;Tortillas
+2334,Cereal;Milk
+2335,Bananas;Chicken Breast;Coffee;Milk;Yogurt
+2336,Burger Buns;Cookies;Ground Beef;Pasta;Pasta Sauce;Tomatoes
+2337,Bread;Parmesan;Pasta;Rice
+2338,Bread;Coffee
+2339,Beer;Onions;Parmesan;Pasta;Pasta Sauce;Potato Chips
+2340,Chicken Breast;Eggs;Potato Chips
+2341,Bananas;Butter;Parmesan;Rice;Yogurt
+2342,Burger Buns;Ground Beef
+2343,Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Tortillas
+2344,Diapers;Lemons;Paper Towels
+2345,Burger Buns;Ground Beef;Tomatoes;Tortillas
+2346,Apples;Bananas;Bread;Burger Buns;Cheddar Cheese;Ground Beef;Pasta;Pasta Sauce;Rice;Tomatoes;Yogurt
+2347,Bananas;Beer;Burger Buns;Ground Beef;Lettuce;Potato Chips;Salsa;Soda;Tomatoes
+2348,Beer;Potato Chips;Salsa;Soda
+2349,Coffee;Ground Beef;Onions;Parmesan;Pasta;Pasta Sauce;Potato Chips;Soda
+2350,Apples;Bananas;Milk;Rice;Yogurt
+2351,Bananas;Bread;Cereal;Eggs;Milk;Orange Juice;Yogurt
+2352,Apples;Bread;Cookies;Milk;Yogurt
+2353,Bacon;Honey;Lemons;Potato Chips;Salsa;Soda;Tea
+2354,Bacon;Bread;Eggs;Orange Juice
+2355,Chicken Breast;Parmesan;Pasta;Pasta Sauce;Yogurt
+2356,Cereal;Ground Beef;Milk;Parmesan;Pasta
+2357,Bananas;Butter;Cheddar Cheese;Ground Beef;Tortillas
+2358,Apples;Milk;Yogurt
+2359,Beer;Coffee;Milk;Paper Towels;Sugar
+2360,Beer;Pasta;Pasta Sauce;Soda
+2361,Baby Wipes;Parmesan;Pasta;Pasta Sauce
+2362,Coffee;Milk;Pasta;Tea
+2363,Bananas;Cereal;Milk
+2364,Bacon;Butter;Eggs;Orange Juice;Parmesan;Pasta
+2365,Coffee;Milk;Soda
+2366,Bread;Cheddar Cheese;Ground Beef;Orange Juice
+2367,Pasta;Pasta Sauce;Rice
+2368,Ground Beef;Honey;Parmesan;Pasta;Pasta Sauce;Tea
+2369,Bacon;Ground Beef;Onions;Orange Juice;Pasta
+2370,Paper Towels;Parmesan;Pasta;Pasta Sauce
+2371,Beer;Bread;Jam;Lettuce;Peanut Butter;Potato Chips;Soda
+2372,Burger Buns;Butter;Cheddar Cheese;Ground Beef;Pasta;Tomatoes
+2373,Apples;Bananas;Eggs;Milk;Yogurt
+2374,Baby Wipes;Burger Buns;Cheddar Cheese;Diapers;Ground Beef;Lettuce;Salsa;Tomatoes
+2375,Avocado;Ground Beef;Salsa;Tortillas
+2376,Bread;Peanut Butter;Tomatoes
+2377,Bananas;Cereal;Cheddar Cheese;Ground Beef;Milk;Pasta Sauce;Tortillas
+2378,Apples;Bananas;Chicken Breast;Rice;Yogurt
+2379,Bananas;Cereal;Ground Beef;Pasta;Pasta Sauce
+2380,Bread;Coffee;Jam;Peanut Butter;Sugar
+2381,Onions;Parmesan;Pasta;Pasta Sauce
+2382,Baby Wipes;Diapers;Ground Beef
+2383,Apples;Bananas;Chicken Breast;Lemons;Parmesan;Pasta;Pasta Sauce;Tea;Yogurt
+2384,Ground Beef;Parmesan;Pasta;Pasta Sauce
+2385,Bananas;Coffee;Milk;Tomatoes
+2386,Butter;Eggs
+2387,Rice;Salsa;Tortillas
+2388,Apples;Avocado;Jam
+2389,Bananas;Chicken Breast;Parmesan;Pasta;Pasta Sauce
+2390,Bread;Peanut Butter
+2391,Bread;Cereal
+2392,Bread;Cereal;Milk;Potato Chips;Salsa;Soda
+2393,Ground Beef;Salsa;Tortillas
+2394,Beer;Burger Buns;Butter;Potato Chips;Salsa
+2395,Bananas;Cereal;Milk
+2396,Butter;Onions;Parmesan;Pasta;Pasta Sauce
+2397,Bread;Jam;Rice
+2398,Apples;Bacon;Bananas;Chicken Breast;Ground Beef;Orange Juice;Parmesan;Pasta;Pasta Sauce;Yogurt
+2399,Beer;Diapers
+2400,Bananas;Burger Buns;Cereal;Milk
+2401,Baby Wipes;Bread;Burger Buns;Coffee;Ground Beef;Lettuce
+2402,Bacon;Bananas;Bread;Butter;Cereal;Coffee;Eggs;Milk
+2403,Bacon;Bananas;Butter;Chicken Breast;Eggs;Orange Juice;Parmesan;Pasta;Pasta Sauce;Salsa
+2404,Bananas;Coffee;Milk;Yogurt
+2405,Bread;Butter;Pasta
+2406,Burger Buns;Ground Beef;Milk;Peanut Butter;Tomatoes;Yogurt
+2407,Bacon;Bread;Butter;Coffee;Eggs;Honey;Milk
+2408,Cookies;Onions;Parmesan;Pasta;Pasta Sauce
+2409,Butter;Ground Beef;Pasta;Pasta Sauce;Peanut Butter;Sugar
+2410,Beer;Potato Chips;Salsa;Soda
+2411,Bread;Burger Buns;Jam;Lettuce;Peanut Butter;Tomatoes
+2412,Bananas;Burger Buns;Chicken Breast;Cookies;Eggs;Ground Beef;Lettuce;Potato Chips;Soda;Yogurt
+2413,Burger Buns;Cheddar Cheese;Lettuce
+2414,Paper Towels;Tea
+2415,Bananas;Butter;Cereal;Cheddar Cheese;Milk
+2416,Bacon;Bananas;Burger Buns;Cheddar Cheese;Ground Beef;Potato Chips;Salsa;Soda;Tomatoes
+2417,Apples;Bananas;Chicken Breast;Rice
+2418,Cheddar Cheese;Eggs;Ground Beef;Parmesan;Pasta;Pasta Sauce;Salsa;Tortillas
+2419,Beer;Soda
+2420,Bread;Cereal;Jam;Milk;Peanut Butter
+2421,Bread;Lemons;Soda;Tea
+2422,Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Milk;Paper Towels
+2423,Cheddar Cheese;Ground Beef;Salsa;Tortillas
+2424,Apples;Bread;Parmesan;Pasta;Pasta Sauce
+2425,Bread;Coffee;Jam;Milk;Paper Towels;Sugar
+2426,Coffee
+2427,Bread;Coffee;Ground Beef;Milk;Pasta;Pasta Sauce;Rice;Sugar
+2428,Bread;Peanut Butter
+2429,Cereal;Parmesan
+2430,Apples;Cheddar Cheese;Lettuce;Rice;Salsa;Yogurt
+2431,Bread
+2432,Beer;Cereal;Potato Chips;Soda
+2433,Parmesan;Pasta;Pasta Sauce
+2434,Bagels;Coffee
+2435,Bacon;Bread;Butter;Eggs;Orange Juice;Soda
+2436,Cereal;Milk;Parmesan;Pasta;Pasta Sauce;Soda
+2437,Cheddar Cheese;Ground Beef;Parmesan;Tortillas
+2438,Bananas;Beer;Potato Chips
+2439,Apples;Bananas;Rice;Yogurt
+2440,Bacon;Bread;Eggs;Orange Juice;Parmesan;Pasta;Pasta Sauce
+2441,Bread;Butter;Orange Juice;Potato Chips
+2442,Burger Buns;Cheddar Cheese;Ground Beef
+2443,Apples;Chicken Breast;Coffee
+2444,Ground Beef;Onions;Parmesan;Pasta;Pasta Sauce
+2445,Apples;Bananas;Beer;Butter;Potato Chips;Salsa;Soda;Yogurt
+2446,Bananas;Yogurt
+2447,Bananas;Cereal;Milk;Tomatoes
+2448,Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Paper Towels;Parmesan;Pasta
+2449,Cheddar Cheese;Tortillas
+2450,Bread;Eggs;Jam;Peanut Butter
+2451,Apples;Bread;Butter;Eggs;Jam;Orange Juice;Rice;Yogurt
+2452,Beer;Tortillas
+2453,Apples;Bananas;Honey;Tea
+2454,Apples;Baby Wipes;Cookies
+2455,Parmesan;Pasta;Pasta Sauce
+2456,Beer;Bread;Eggs;Potato Chips;Salsa;Soda
+2457,Avocado;Eggs;Pasta Sauce
+2458,Coffee;Milk;Sugar
+2459,Eggs;Rice;Yogurt
+2460,Avocado;Bagels;Burger Buns;Ground Beef
+2461,Bread
+2462,Lemons;Tea
+2463,Burger Buns;Cereal;Cheddar Cheese;Ground Beef;Lettuce;Milk;Potato Chips;Salsa;Soda;Tomatoes
+2464,Avocado;Bread;Cheddar Cheese;Peanut Butter;Rice;Tortillas
+2465,Apples;Chicken Breast;Yogurt
+2466,Cereal;Cookies;Eggs;Milk;Tomatoes
+2467,Cereal;Ground Beef;Milk;Pasta;Pasta Sauce
+2468,Avocado;Bananas;Bread;Jam;Tea;Tortillas
+2469,Bread;Eggs;Potato Chips
+2470,Orange Juice;Potato Chips;Salsa;Soda
+2471,Chicken Breast;Coffee;Milk;Sugar;Yogurt
+2472,Apples;Avocado;Bananas;Cookies
+2473,Coffee;Milk;Parmesan;Sugar
+2474,Avocado;Ground Beef;Potato Chips;Salsa;Soda;Tortillas
+2475,Baby Wipes;Butter;Diapers;Parmesan
+2476,Apples;Bread;Burger Buns;Chicken Breast;Ground Beef;Onions;Rice;Yogurt
+2477,Bananas;Coffee;Honey;Milk;Onions;Parmesan;Pasta;Peanut Butter;Tea
+2478,Baby Wipes;Diapers
+2479,Bacon;Butter;Eggs;Ground Beef;Onions;Orange Juice;Paper Towels;Parmesan;Pasta;Pasta Sauce;Rice;Tortillas
+2480,Eggs;Pasta Sauce
+2481,Bread;Onions;Paper Towels;Parmesan;Pasta;Pasta Sauce
+2482,Potato Chips;Salsa;Soda
+2483,Ground Beef;Lettuce;Parmesan;Pasta;Pasta Sauce
+2484,Apples;Avocado;Beer;Cheddar Cheese;Chicken Breast;Salsa;Soda;Tortillas
+2485,Bacon;Bread;Eggs;Orange Juice;Tea
+2486,Coffee
+2487,Ground Beef;Parmesan;Pasta;Pasta Sauce
+2488,Pasta;Pasta Sauce
+2489,Bacon;Bananas;Bread;Butter;Cereal;Eggs;Milk
+2490,Lemons;Tea
+2491,Bread;Eggs;Onions
+2492,Bananas;Milk
+2493,Jam;Peanut Butter
+2494,Avocado;Jam;Lettuce;Salsa;Tortillas
+2495,Cereal;Milk;Rice
+2496,Honey;Pasta
+2497,Avocado;Coffee;Milk;Sugar
+2498,Eggs;Orange Juice
+2499,Bagels;Burger Buns;Cheddar Cheese;Eggs;Ground Beef;Lettuce
+2500,Bread;Coffee;Eggs;Ground Beef;Jam;Milk;Parmesan;Pasta;Pasta Sauce;Peanut Butter;Sugar
+2501,Bananas;Beer;Chicken Breast;Yogurt
+2502,Beer;Burger Buns;Cheddar Cheese;Diapers;Ground Beef;Orange Juice;Tomatoes
+2503,Soda
+2504,Coffee;Milk;Rice;Sugar
+2505,Bananas;Cereal;Milk;Onions;Parmesan;Pasta;Pasta Sauce;Soda
+2506,Bananas;Chicken Breast;Paper Towels;Yogurt
+2507,Bread;Ground Beef;Jam;Milk;Onions;Parmesan;Pasta;Tea
+2508,Potato Chips;Soda
+2509,Bread;Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Rice;Tortillas;Yogurt
+2510,Burger Buns;Cereal;Ground Beef
+2511,Potato Chips;Sugar
+2512,Apples;Chicken Breast;Rice;Yogurt
+2513,Bananas;Beer;Coffee;Eggs;Potato Chips;Salsa;Sugar
+2514,Bacon;Bagels;Beer;Cereal;Diapers;Eggs;Milk;Orange Juice;Potato Chips;Soda
+2515,Chicken Breast;Eggs;Paper Towels;Yogurt
+2516,Avocado;Bananas;Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Sugar;Tortillas
+2517,Beer;Potato Chips;Soda;Tea
+2518,Onions;Parmesan;Pasta;Pasta Sauce
+2519,Bread;Burger Buns;Butter;Cheddar Cheese;Cookies;Eggs;Ground Beef;Lettuce;Orange Juice
+2520,Butter;Eggs;Milk
+2521,Bacon;Beer;Bread;Orange Juice;Potato Chips
+2522,Apples;Bananas;Bread;Chicken Breast;Lettuce;Paper Towels;Peanut Butter;Rice;Yogurt
+2523,Coffee;Honey;Milk;Sugar;Tortillas
+2524,Baby Wipes;Bread;Eggs;Jam;Peanut Butter
+2525,Bananas;Chicken Breast;Rice;Yogurt
+2526,Coffee
+2527,Bread;Burger Buns;Ground Beef;Lettuce;Peanut Butter
+2528,Peanut Butter
+2529,Baby Wipes;Cheddar Cheese;Ground Beef
+2530,Apples;Bananas;Chicken Breast;Milk;Rice;Yogurt
+2531,Lettuce;Salsa;Tortillas
+2532,Bananas;Bread;Jam;Peanut Butter
+2533,Butter;Eggs;Orange Juice
+2534,Coffee;Parmesan;Sugar
+2535,Avocado;Cheddar Cheese;Ground Beef;Lemons;Lettuce;Paper Towels;Pasta;Potato Chips;Salsa;Tortillas
+2536,Bacon;Bread;Cereal;Milk;Sugar;Tea
+2537,Honey;Lemons;Sugar;Tea
+2538,Bread;Ground Beef;Salsa;Tortillas
+2539,Apples;Bacon;Bread;Eggs;Orange Juice;Sugar;Yogurt
+2540,Baby Wipes;Bread;Diapers;Jam;Peanut Butter;Salsa
+2541,Burger Buns;Eggs;Ground Beef;Paper Towels;Pasta Sauce;Tomatoes
+2542,Burger Buns
+2543,Bananas;Bread;Cereal;Jam;Milk;Peanut Butter;Tea
+2544,Apples;Beer;Burger Buns;Cheddar Cheese;Ground Beef;Potato Chips;Soda
+2545,Apples;Bananas;Burger Buns;Cheddar Cheese;Chicken Breast;Coffee;Diapers;Ground Beef;Milk;Rice;Sugar;Yogurt
+2546,Lemons;Tea
+2547,Bananas;Bread;Cereal;Eggs
+2548,Butter;Potato Chips;Soda
+2549,Potato Chips;Rice;Soda
+2550,Beer;Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Potato Chips;Salsa;Soda
+2551,Bread;Eggs;Jam;Peanut Butter;Tea
+2552,Coffee;Diapers;Eggs;Milk;Sugar;Yogurt
+2553,Cereal;Eggs;Milk
+2554,Bagels;Bananas;Cereal;Cookies;Lemons;Milk
+2555,Cheddar Cheese;Ground Beef;Potato Chips;Salsa;Soda;Tortillas
+2556,Coffee;Parmesan;Pasta Sauce;Sugar;Yogurt
+2557,Baby Wipes;Beer;Potato Chips
+2558,Avocado;Baby Wipes;Diapers
+2559,Apples;Bananas;Chicken Breast;Eggs;Yogurt
+2560,Apples;Ground Beef;Salsa;Tortillas
+2561,Bananas;Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Tomatoes
+2562,Cereal;Soda;Tea
+2563,Butter;Potato Chips;Soda
+2564,Diapers
+2565,Baby Wipes;Bread;Butter;Diapers;Eggs;Milk;Yogurt
+2566,Apples;Bananas;Cereal;Eggs;Milk;Parmesan;Pasta
+2567,Bananas;Bread;Coffee;Cookies;Milk
+2568,Burger Buns;Cheddar Cheese;Ground Beef;Lettuce
+2569,Apples;Bread;Butter;Eggs;Orange Juice;Potato Chips;Salsa;Soda;Tomatoes
+2570,Eggs;Orange Juice;Parmesan;Pasta;Pasta Sauce
+2571,Baby Wipes;Diapers;Honey
+2572,Burger Buns;Ground Beef;Tomatoes
+2573,Paper Towels;Potato Chips;Salsa;Soda
+2574,Bread;Ground Beef;Paper Towels;Salsa;Tortillas
+2575,Beer;Eggs;Orange Juice
+2576,Coffee;Milk;Sugar
+2577,Apples;Burger Buns;Chicken Breast;Ground Beef;Tomatoes;Yogurt
+2578,Apples;Bananas;Butter;Cookies;Eggs;Orange Juice
+2579,Milk;Potato Chips
+2580,Bacon;Coffee;Honey;Milk;Sugar
+2581,Cookies;Onions;Pasta;Pasta Sauce
+2582,Bacon;Bread;Chicken Breast;Cookies;Eggs;Paper Towels;Yogurt
+2583,Apples;Bananas;Butter;Chicken Breast;Soda;Tea;Yogurt
+2584,Avocado;Baby Wipes;Salsa;Tortillas
+2585,Avocado;Beer;Paper Towels;Potato Chips;Salsa;Soda
+2586,Bananas;Cereal
+2587,Avocado;Baby Wipes;Cheddar Cheese;Diapers;Rice;Tortillas
+2588,Ground Beef;Milk;Paper Towels;Pasta;Pasta Sauce
+2589,Baby Wipes;Cereal;Diapers
+2590,Baby Wipes;Diapers
+2591,Bread;Honey;Tea
+2592,Bread;Cereal;Eggs;Potato Chips;Salsa;Soda
+2593,Bananas;Chicken Breast;Paper Towels;Rice;Yogurt
+2594,Cereal;Milk
+2595,Cookies;Eggs;Ground Beef;Onions;Parmesan;Pasta;Pasta Sauce
+2596,Burger Buns;Cheddar Cheese;Ground Beef;Lettuce
+2597,Beer;Cereal;Milk;Potato Chips;Salsa
+2598,Butter;Coffee;Eggs;Milk;Soda;Sugar
+2599,Apples;Paper Towels;Rice
+2600,Cereal;Milk
+2601,Ground Beef;Pasta;Pasta Sauce;Salsa;Tortillas
+2602,Beer;Diapers;Ground Beef;Salsa;Soda
+2603,Honey;Lemons;Tea
+2604,Bread;Butter;Eggs
+2605,Bananas;Rice;Yogurt
+2606,Beer;Bread;Jam;Potato Chips;Rice;Soda
+2607,Pasta;Pasta Sauce
+2608,Bananas;Bread;Butter;Chicken Breast;Eggs;Orange Juice
+2609,Apples;Bananas;Bread;Cereal;Milk;Orange Juice;Parmesan;Pasta;Pasta Sauce
+2610,Apples;Avocado;Ground Beef;Pasta;Pasta Sauce
+2611,Coffee;Jam;Milk;Sugar
+2612,Beer;Cereal;Ground Beef;Pasta Sauce;Potato Chips;Soda
+2613,Bread;Eggs;Jam;Peanut Butter
+2614,Lemons;Milk;Tea
+2615,Coffee;Soda
+2616,Beer;Cookies;Eggs;Potato Chips;Salsa;Soda
+2617,Cheddar Cheese;Coffee;Lettuce;Milk;Salsa;Tortillas
+2618,Beer;Diapers;Paper Towels
+2619,Ground Beef;Milk;Parmesan;Pasta;Pasta Sauce;Peanut Butter;Potato Chips
+2620,Bananas;Burger Buns;Lettuce;Salsa;Sugar;Tortillas
+2621,Bread;Peanut Butter
+2622,Coffee;Milk
+2623,Bagels;Onions;Pasta
+2624,Onions;Pasta;Pasta Sauce
+2625,Bacon;Bananas;Bread;Butter;Eggs;Orange Juice
+2626,Bread;Jam;Potato Chips;Yogurt
+2627,Bananas;Paper Towels;Peanut Butter
+2628,Butter;Onions;Parmesan;Pasta;Pasta Sauce;Yogurt
+2629,Beer;Eggs;Ground Beef;Paper Towels;Pasta;Pasta Sauce;Potato Chips;Rice;Salsa;Soda
+2630,Cheddar Cheese;Coffee;Milk;Potato Chips;Rice;Tortillas
+2631,Cookies;Ground Beef;Milk;Onions;Parmesan;Pasta;Peanut Butter;Tea
+2632,Bacon;Bread;Honey;Orange Juice;Tea
+2633,Bacon;Cookies;Orange Juice
+2634,Bread;Coffee;Honey;Jam;Tea;Yogurt
+2635,Burger Buns;Cookies;Ground Beef;Honey;Tomatoes
+2636,Burger Buns;Lettuce;Paper Towels;Tea;Tomatoes
+2637,Beer;Potato Chips;Soda
+2638,Cheddar Cheese;Eggs;Pasta;Pasta Sauce
+2639,Bananas;Chicken Breast;Honey;Soda
+2640,Beer;Cheddar Cheese;Orange Juice;Salsa;Tortillas
+2641,Coffee;Ground Beef;Parmesan;Pasta;Pasta Sauce
+2642,Bread;Jam
+2643,Bananas;Bread;Chicken Breast
+2644,Bagels;Bananas;Bread;Coffee;Milk
+2645,Bacon;Beer;Bread;Butter;Eggs;Orange Juice;Potato Chips;Soda
+2646,Apples;Bananas;Diapers;Rice;Yogurt
+2647,Avocado;Cheddar Cheese;Ground Beef;Tea;Tortillas
+2648,Bread;Cookies;Potato Chips;Salsa
+2649,Avocado;Bagels;Ground Beef;Milk;Tortillas
+2650,Beer;Bread;Cookies;Jam;Potato Chips;Salsa;Soda;Tea
+2651,Bananas;Butter;Cereal;Milk
+2652,Burger Buns;Ground Beef;Parmesan;Pasta;Pasta Sauce
+2653,Beer;Bread;Eggs;Orange Juice
+2654,Bread;Coffee;Honey;Lemons;Peanut Butter;Tea
+2655,Beer;Pasta;Potato Chips;Salsa;Soda
+2656,Beer;Milk;Potato Chips;Salsa
+2657,Avocado;Bananas;Cheddar Cheese;Cookies;Ground Beef;Lettuce;Salsa;Tortillas;Yogurt
+2658,Bacon;Bread;Butter;Eggs;Orange Juice
+2659,Baby Wipes;Beer;Diapers;Milk;Potato Chips;Soda
+2660,Bread;Eggs;Jam;Orange Juice
+2661,Coffee;Jam;Pasta;Pasta Sauce
+2662,Baby Wipes;Cheddar Cheese;Diapers;Salsa
+2663,Bread;Jam;Milk;Paper Towels;Pasta;Pasta Sauce;Peanut Butter
+2664,Apples;Bananas;Bread;Eggs;Ground Beef;Jam;Rice;Yogurt
+2665,Apples;Pasta;Pasta Sauce
+2666,Bread;Parmesan;Pasta;Pasta Sauce;Peanut Butter
+2667,Bread;Lettuce;Peanut Butter
+2668,Bananas;Cereal;Coffee;Sugar
+2669,Cheddar Cheese;Milk;Salsa;Tortillas
+2670,Avocado;Ground Beef;Jam;Milk;Salsa;Tortillas
+2671,Baby Wipes;Burger Buns;Ground Beef;Lettuce;Paper Towels
+2672,Bread;Cookies;Jam
+2673,Bread;Coffee;Pasta;Rice;Sugar
+2674,Bagels;Potato Chips;Salsa;Soda
+2675,Bananas;Chicken Breast;Yogurt
+2676,Bananas;Cereal;Coffee;Milk;Rice;Tortillas
+2677,Bananas;Yogurt
+2678,Burger Buns;Cheddar Cheese;Cookies;Ground Beef;Paper Towels;Sugar;Tomatoes
+2679,Bagels;Coffee;Parmesan;Pasta Sauce
+2680,Bagels;Bread;Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Paper Towels
+2681,Milk;Tea
+2682,Bacon;Bread;Eggs
+2683,Beer;Cereal;Milk;Potato Chips;Salsa
+2684,Bread;Jam;Peanut Butter
+2685,Bacon;Bananas;Bread
+2686,Cereal;Milk
+2687,Coffee;Ground Beef;Milk;Pasta;Pasta Sauce;Potato Chips;Sugar
+2688,Coffee;Onions;Parmesan;Pasta;Pasta Sauce;Soda
+2689,Chicken Breast;Coffee;Milk;Sugar
+2690,Bananas;Onions;Parmesan;Pasta;Pasta Sauce
+2691,Bacon;Bananas;Yogurt
+2692,Apples;Chicken Breast;Rice;Yogurt
+2693,Bread;Burger Buns;Jam;Tea
+2694,Potato Chips
+2695,Beer;Butter;Cookies;Eggs;Honey;Paper Towels;Potato Chips;Salsa;Tea
+2696,Honey;Salsa;Soda
+2697,Onions;Paper Towels;Pasta;Pasta Sauce
+2698,Parmesan;Pasta;Pasta Sauce
+2699,Potato Chips;Salsa;Soda
+2700,Rice
+2701,Bananas;Milk;Pasta;Pasta Sauce;Potato Chips
+2702,Burger Buns;Cheddar Cheese;Ground Beef;Honey;Lettuce;Onions;Tea
+2703,Baby Wipes;Beer;Butter;Diapers;Eggs
+2704,Cereal;Coffee;Milk;Sugar
+2705,Ground Beef;Pasta;Pasta Sauce
+2706,Beer;Tea
+2707,Bread;Jam;Rice
+2708,Beer;Potato Chips;Rice;Soda
+2709,Baby Wipes;Bananas;Cereal;Milk
+2710,Burger Buns;Cheddar Cheese;Ground Beef;Parmesan;Pasta;Tomatoes
+2711,Bacon;Bananas;Beer;Butter;Chicken Breast;Eggs;Orange Juice;Potato Chips;Rice;Salsa;Soda
+2712,Bacon;Beer;Cookies;Ground Beef;Potato Chips;Salsa;Soda
+2713,Bread;Butter;Orange Juice;Paper Towels;Parmesan
+2714,Bananas;Cereal;Milk;Soda
+2715,Bananas;Beer;Bread;Cereal;Jam;Milk;Peanut Butter
+2716,Bananas;Cereal;Coffee;Milk
+2717,Bacon;Diapers
+2718,Baby Wipes;Butter;Diapers;Eggs;Milk
+2719,Apples;Baby Wipes;Bananas;Burger Buns;Chicken Breast;Diapers;Ground Beef;Lettuce;Tea;Tomatoes;Yogurt
+2720,Baby Wipes;Cereal;Diapers;Parmesan;Pasta;Pasta Sauce
+2721,Burger Buns;Chicken Breast;Honey;Tea
+2722,Bacon;Butter;Orange Juice
+2723,Bread;Cheddar Cheese;Eggs;Salsa;Tortillas
+2724,Burger Buns;Cereal;Milk;Tortillas
+2725,Bananas;Cereal;Coffee;Milk;Pasta;Pasta Sauce;Sugar
+2726,Burger Buns;Cheddar Cheese;Coffee;Milk;Tomatoes
+2727,Apples;Avocado;Cheddar Cheese;Ground Beef;Lettuce;Parmesan;Pasta;Pasta Sauce;Salsa;Soda
+2728,Baby Wipes;Lemons;Tea
+2729,Beer;Milk;Potato Chips;Salsa;Soda
+2730,Apples;Burger Buns;Tortillas
+2731,Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Salsa;Tomatoes;Tortillas
+2732,Cheddar Cheese;Ground Beef;Soda;Tortillas
+2733,Bread;Coffee;Milk
+2734,Bread;Jam
+2735,Baby Wipes;Diapers;Ground Beef;Tomatoes
+2736,Bacon;Cereal;Milk;Orange Juice
+2737,Lemons;Soda;Tea
+2738,Beer;Diapers;Potato Chips;Salsa;Soda
+2739,Avocado;Ground Beef;Milk
+2740,Cheddar Cheese;Honey;Parmesan;Pasta;Pasta Sauce
+2741,Apples;Coffee;Potato Chips;Sugar;Tea
+2742,Cheddar Cheese;Ground Beef;Lemons;Tortillas
+2743,Bread;Pasta;Peanut Butter
+2744,Honey;Tea
+2745,Butter;Milk
+2746,Burger Buns;Eggs;Ground Beef
+2747,Chicken Breast;Onions;Parmesan;Pasta;Pasta Sauce
+2748,Bananas;Cereal;Milk
+2749,Beer;Milk
+2750,Bananas;Coffee;Milk;Tortillas
+2751,Apples;Chicken Breast;Cookies;Onions;Rice;Yogurt
+2752,Burger Buns;Cheddar Cheese;Eggs;Ground Beef;Jam;Lettuce;Salsa;Tortillas
+2753,Beer;Cereal;Potato Chips;Soda
+2754,Eggs;Tea
+2755,Butter;Cheddar Cheese;Ground Beef;Milk;Salsa;Tortillas
+2756,Bacon;Bread;Cookies;Eggs;Orange Juice
+2757,Coffee;Potato Chips;Soda;Sugar
+2758,Beer;Cereal;Lemons;Potato Chips;Salsa;Soda
+2759,Cereal;Cheddar Cheese;Milk;Pasta;Salsa;Tortillas
+2760,Bacon;Bread;Coffee;Eggs;Milk;Orange Juice;Potato Chips;Sugar
+2761,Burger Buns;Cheddar Cheese;Ground Beef;Lemons;Lettuce
+2762,Baby Wipes;Burger Buns;Cereal;Diapers;Ground Beef;Milk
+2763,Bread;Butter;Cereal;Coffee;Orange Juice
+2764,Apples;Bananas;Burger Buns;Cheddar Cheese;Ground Beef;Lettuce;Soda;Tomatoes;Tortillas
+2765,Baby Wipes;Burger Buns;Diapers;Milk;Yogurt
+2766,Burger Buns;Cheddar Cheese;Chicken Breast;Milk;Rice;Yogurt
+2767,Apples;Baby Wipes;Bagels;Bananas;Bread;Cheddar Cheese;Chicken Breast;Lettuce;Rice;Tortillas
+2768,Chicken Breast;Potato Chips;Salsa;Soda
+2769,Bread;Butter;Ground Beef;Jam;Tomatoes
+2770,Bananas;Burger Buns;Cereal;Honey;Milk;Tea;Tomatoes
+2771,Ground Beef;Milk;Parmesan;Pasta
+2772,Bananas;Burger Buns;Ground Beef;Lettuce;Tomatoes
+2773,Avocado;Burger Buns;Cheddar Cheese;Ground Beef;Potato Chips;Salsa;Tomatoes;Tortillas
+2774,Bread;Jam
+2775,Baby Wipes;Diapers;Jam;Potato Chips;Rice;Salsa;Soda
+2776,Bananas;Cereal;Cheddar Cheese;Ground Beef;Milk
+2777,Apples;Bananas;Burger Buns;Potato Chips;Soda;Yogurt
+2778,Butter;Potato Chips;Soda
+2779,Apples;Avocado;Chicken Breast;Paper Towels;Rice;Yogurt
+2780,Bacon;Bread;Cereal;Jam;Milk;Peanut Butter;Soda
+2781,Cereal;Milk
+2782,Potato Chips
+2783,Bananas;Cereal;Cheddar Cheese;Ground Beef;Milk;Onions;Pasta;Pasta Sauce;Salsa;Tortillas
+2784,Cereal;Milk
+2785,Bread;Ground Beef;Jam;Parmesan;Pasta;Pasta Sauce;Peanut Butter;Potato Chips;Salsa
+2786,Beer;Cereal;Milk;Salsa;Soda
+2787,Cheddar Cheese;Ground Beef;Orange Juice;Rice;Salsa;Tortillas
+2788,Salsa;Tea
+2789,Bread;Eggs;Jam;Peanut Butter
+2790,Bacon;Eggs
+2791,Coffee;Cookies;Milk
+2792,Bananas;Bread;Cereal;Eggs;Ground Beef;Lemons;Milk;Orange Juice;Parmesan;Pasta;Pasta Sauce;Tea
+2793,Bacon;Bread;Orange Juice;Paper Towels
+2794,Bananas;Ground Beef;Pasta;Pasta Sauce
+2795,Bacon;Coffee;Milk;Pasta;Sugar;Tea
+2796,Bananas;Coffee;Milk;Sugar
+2797,Avocado;Beer;Cheddar Cheese;Ground Beef;Lemons;Onions;Parmesan;Pasta;Pasta Sauce;Potato Chips;Salsa;Soda
+2798,Bagels;Pasta;Pasta Sauce
+2799,Apples;Burger Buns;Paper Towels;Yogurt
+2800,Bacon;Bananas;Bread;Milk
+2801,Cheddar Cheese;Diapers
+2802,Bread;Butter;Eggs;Lemons;Milk;Tea
+2803,Bananas;Bread;Cereal;Cheddar Cheese;Eggs;Milk;Rice
+2804,Bread;Cookies;Peanut Butter
+2805,Coffee;Cookies;Milk;Sugar
+2806,Bananas;Potato Chips;Rice;Salsa
+2807,Bacon;Cheddar Cheese;Milk;Parmesan;Pasta;Pasta Sauce;Salsa;Tortillas
+2808,Baby Wipes;Bacon;Bread;Diapers;Eggs
+2809,Coffee;Milk;Paper Towels
+2810,Bananas;Cereal;Cookies;Milk
+2811,Apples;Bananas;Potato Chips;Rice;Salsa
+2812,Apples;Bananas;Yogurt
+2813,Bananas;Cereal;Milk
+2814,Parmesan;Pasta;Pasta Sauce
+2815,Eggs;Parmesan;Pasta;Pasta Sauce;Peanut Butter
+2816,Cereal;Milk;Paper Towels
+2817,Beer;Burger Buns;Diapers;Ground Beef;Honey;Lettuce;Tea;Tomatoes
+2818,Bananas
+2819,Cereal;Eggs;Ground Beef;Lettuce;Tortillas
+2820,Apples;Lemons;Tea
+2821,Cereal
+2822,Apples;Bananas;Bread;Chicken Breast;Onions;Paper Towels;Pasta;Pasta Sauce;Yogurt
+2823,Honey;Milk;Tea
+2824,Bread;Jam;Peanut Butter
+2825,Baby Wipes;Beer;Milk;Parmesan
+2826,Orange Juice
+2827,Bacon;Bread;Tea
+2828,Milk;Onions;Parmesan;Pasta
+2829,Bananas;Butter;Soda;Tea
+2830,Cheddar Cheese;Ground Beef;Milk;Tortillas
+2831,Coffee;Milk;Onions;Potato Chips;Salsa;Soda;Sugar
+2832,Coffee
+2833,Avocado;Cheddar Cheese;Coffee;Ground Beef;Milk;Salsa;Tortillas
+2834,Coffee;Milk
+2835,Cheddar Cheese;Ground Beef;Lettuce;Onions;Potato Chips;Salsa;Tortillas
+2836,Coffee;Milk
+2837,Avocado;Bananas;Ground Beef;Honey;Salsa;Tea;Tortillas
+2838,Avocado;Bagels;Cheddar Cheese;Ground Beef;Tortillas;Yogurt
+2839,Butter;Coffee;Cookies;Milk;Sugar
+2840,Apples;Bananas;Bread;Orange Juice;Peanut Butter;Rice;Yogurt
+2841,Bacon;Bread;Butter
+2842,Bananas;Rice;Soda;Yogurt
+2843,Onions;Rice
+2844,Bread;Burger Buns;Cheddar Cheese;Ground Beef;Parmesan;Pasta;Pasta Sauce
+2845,Burger Buns;Ground Beef;Lettuce;Tomatoes
+2846,Apples;Chicken Breast;Pasta;Pasta Sauce;Peanut Butter;Yogurt
+2847,Baby Wipes;Diapers;Soda
+2848,Ground Beef;Lettuce;Parmesan;Pasta;Pasta Sauce;Peanut Butter;Salsa;Tortillas
+2849,Bread;Cheddar Cheese;Salsa;Tortillas
+2850,Baby Wipes;Diapers;Tortillas
+2851,Bread;Eggs;Orange Juice;Rice;Soda
+2852,Bread;Jam
+2853,Avocado;Bananas;Burger Buns;Cereal;Cheddar Cheese;Ground Beef;Milk;Salsa
+2854,Coffee;Lemons;Milk;Sugar
+2855,Avocado;Cheddar Cheese;Ground Beef;Lettuce;Salsa;Tortillas
+2856,Apples;Bananas;Beer;Chicken Breast;Potato Chips;Soda
+2857,Cereal;Milk;Soda
+2858,Avocado;Ground Beef;Pasta;Pasta Sauce;Tortillas
+2859,Apples;Bananas;Bread;Chicken Breast;Yogurt
+2860,Milk;Pasta;Pasta Sauce;Rice
+2861,Bread;Diapers;Jam;Onions;Parmesan;Pasta;Pasta Sauce
+2862,Milk;Parmesan;Pasta;Pasta Sauce
+2863,Cereal;Milk
+2864,Parmesan;Pasta;Pasta Sauce
+2865,Bananas;Coffee;Milk;Parmesan;Pasta;Pasta Sauce;Rice;Soda;Sugar;Yogurt
+2866,Bananas;Cereal;Lemons;Milk;Tomatoes
+2867,Coffee
+2868,Cereal
+2869,Cereal;Milk;Yogurt
+2870,Avocado;Bananas;Burger Buns;Cereal;Cheddar Cheese;Ground Beef;Lemons;Milk;Salsa;Tomatoes;Tortillas
+2871,Cookies;Parmesan;Pasta;Pasta Sauce
+2872,Apples;Bagels;Bananas;Chicken Breast;Rice;Yogurt
+2873,Avocado;Beer;Ground Beef;Lettuce;Onions;Parmesan;Pasta;Pasta Sauce;Potato Chips;Salsa;Soda
+2874,Bananas;Cereal;Eggs;Milk;Potato Chips;Soda
+2875,Baby Wipes;Bacon;Bread;Diapers;Eggs;Orange Juice
+2876,Bagels;Eggs;Pasta
+2877,Avocado;Burger Buns;Ground Beef;Peanut Butter;Salsa;Tomatoes;Tortillas
+2878,Rice;Yogurt
+2879,Burger Buns;Cheddar Cheese;Ground Beef
+2880,Cereal;Coffee;Milk;Paper Towels
+2881,Bread;Rice;Yogurt
+2882,Baby Wipes;Burger Buns;Cheddar Cheese;Chicken Breast;Coffee;Ground Beef;Tomatoes
+2883,Coffee;Paper Towels
+2884,Beer;Burger Buns;Diapers;Ground Beef;Lettuce;Tomatoes
+2885,Coffee;Milk;Rice;Soda
+2886,Bread;Cereal;Ground Beef;Milk;Orange Juice;Salsa;Tortillas
+2887,Bagels;Bread;Eggs;Yogurt
+2888,Apples;Beer;Jam;Parmesan;Potato Chips;Soda;Tea;Yogurt
+2889,Burger Buns;Cheddar Cheese;Eggs;Ground Beef
+2890,Bacon;Bread;Butter;Eggs;Ground Beef;Salsa;Tortillas
+2891,Eggs;Onions;Parmesan;Pasta;Pasta Sauce
+2892,Bacon;Bread;Coffee;Eggs;Sugar
+2893,Potato Chips
+2894,Cereal;Chicken Breast;Ground Beef;Milk
+2895,Diapers;Honey;Tea
+2896,Bread;Eggs;Paper Towels
+2897,Bananas;Chicken Breast;Orange Juice;Yogurt
+2898,Bananas;Beer;Bread;Lemons;Tea;Tomatoes;Yogurt
+2899,Avocado;Beer;Cheddar Cheese;Milk;Paper Towels;Tortillas
+2900,Apples;Burger Buns;Chicken Breast;Ground Beef;Parmesan;Pasta;Pasta Sauce;Tomatoes
+2901,Ground Beef;Lettuce;Parmesan;Pasta;Pasta Sauce
+2902,Bread;Jam;Peanut Butter
+2903,Onions;Pasta;Pasta Sauce
+2904,Bacon;Bread;Butter;Eggs;Orange Juice
+2905,Ground Beef;Milk;Onions;Pasta;Pasta Sauce
+2906,Jam;Peanut Butter
+2907,Bread;Paper Towels;Rice;Yogurt
+2908,Burger Buns;Diapers;Ground Beef;Salsa;Soda;Tortillas
+2909,Burger Buns;Cereal;Cheddar Cheese;Ground Beef
+2910,Baby Wipes;Bananas;Cereal;Honey;Lemons;Milk;Tea
+2911,Cheddar Cheese;Diapers;Ground Beef;Pasta;Pasta Sauce
+2912,Cereal;Milk;Tea
+2913,Bananas;Beer;Bread;Butter;Cereal;Eggs;Milk;Potato Chips;Salsa;Soda
+2914,Bacon;Butter;Eggs
+2915,Baby Wipes;Diapers;Milk;Tea
+2916,Bananas;Ground Beef;Tea;Tortillas;Yogurt
+2917,Coffee;Lettuce;Potato Chips;Salsa;Tomatoes
+2918,Eggs;Pasta;Pasta Sauce
+2919,Cheddar Cheese;Jam;Paper Towels;Peanut Butter
+2920,Bagels;Bananas;Bread;Potato Chips;Salsa;Soda
+2921,Cereal;Milk
+2922,Burger Buns;Ground Beef;Potato Chips;Soda
+2923,Coffee
+2924,Beer;Pasta Sauce;Potato Chips;Salsa;Soda
+2925,Bacon;Onions;Pasta;Pasta Sauce
+2926,Bacon;Bread;Eggs;Orange Juice;Tomatoes
+2927,Cheddar Cheese;Ground Beef;Salsa;Tortillas
+2928,Apples;Bread;Chicken Breast;Jam;Milk;Rice;Tea
+2929,Bananas;Cereal;Eggs;Lettuce;Milk
+2930,Bananas;Cereal;Milk
+2931,Bacon;Bread;Coffee;Pasta;Peanut Butter
+2932,Bacon;Bread;Peanut Butter
+2933,Bananas;Beer;Burger Buns;Cereal;Milk;Potato Chips;Salsa;Soda
+2934,Bananas;Cheddar Cheese;Salsa;Tortillas
+2935,Bacon;Bread;Butter;Eggs;Orange Juice
+2936,Rice;Tea
+2937,Bread;Cereal;Milk;Potato Chips;Salsa;Soda
+2938,Coffee;Milk
+2939,Bagels;Bananas;Cereal;Milk
+2940,Cereal;Eggs
+2941,Burger Buns;Cookies;Lettuce
+2942,Paper Towels;Parmesan;Pasta
+2943,Baby Wipes;Bread;Butter;Cookies;Eggs;Salsa;Tortillas
+2944,Bananas;Cereal;Eggs;Milk;Tea
+2945,Apples;Bananas;Eggs;Potato Chips;Rice;Salsa;Yogurt
+2946,Bagels;Rice;Yogurt
+2947,Burger Buns;Ground Beef;Lettuce;Salsa
+2948,Eggs;Orange Juice
+2949,Apples;Bananas;Coffee;Milk;Yogurt
+2950,Burger Buns;Cookies;Eggs;Honey
+2951,Apples;Cookies;Onions;Pasta;Pasta Sauce;Yogurt
+2952,Beer;Potato Chips;Salsa;Soda
+2953,Coffee;Ground Beef;Milk;Sugar
+2954,Honey;Lemons;Tea
+2955,Eggs;Soda
+2956,Bread;Burger Buns;Cheddar Cheese;Ground Beef;Jam;Tomatoes
+2957,Bacon;Burger Buns;Cereal;Cheddar Cheese;Eggs;Ground Beef;Orange Juice;Paper Towels;Tomatoes
+2958,Diapers;Pasta;Pasta Sauce
+2959,Potato Chips;Salsa;Soda
+2960,Burger Buns;Coffee;Ground Beef;Lettuce;Milk;Tomatoes
+2961,Beer;Burger Buns;Cheddar Cheese;Ground Beef;Potato Chips;Soda;Tea
+2962,Butter;Honey;Orange Juice;Tea
+2963,Baby Wipes;Bagels;Bananas;Cereal;Milk
+2964,Bananas;Burger Buns;Cheddar Cheese;Chicken Breast;Ground Beef;Lettuce;Yogurt
+2965,Eggs;Ground Beef;Parmesan;Pasta
+2966,Ground Beef;Lettuce
+2967,Baby Wipes;Bananas;Beer;Rice;Salsa;Soda;Yogurt
+2968,Bananas;Ground Beef;Tortillas
+2969,Butter;Diapers;Potato Chips;Soda
+2970,Avocado;Coffee
+2971,Bread;Chicken Breast;Yogurt
+2972,Bananas;Chicken Breast;Paper Towels;Rice;Yogurt
+2973,Cereal;Eggs;Milk;Orange Juice
+2974,Milk;Paper Towels;Potato Chips;Salsa
+2975,Bacon;Bread;Eggs;Orange Juice
+2976,Eggs;Lemons;Soda;Tea
+2977,Bread;Jam;Peanut Butter;Soda;Yogurt
+2978,Avocado;Cheddar Cheese;Tortillas
+2979,Bananas;Burger Buns;Cereal;Ground Beef;Milk;Salsa;Tortillas
+2980,Bread;Jam;Paper Towels
+2981,Coffee;Milk
+2982,Bananas;Burger Buns;Cheddar Cheese;Ground Beef;Honey;Tea
+2983,Apples;Bananas;Butter;Cheddar Cheese;Chicken Breast
+2984,Bagels;Bread;Jam;Peanut Butter
+2985,Coffee;Milk
+2986,Avocado;Coffee;Lettuce;Sugar;Tortillas
+2987,Bananas;Cereal;Cookies
+2988,Eggs;Honey;Tea
+2989,Cereal;Cookies;Eggs;Milk
+2990,Bread;Chicken Breast;Eggs
+2991,Bread;Peanut Butter
+2992,Ground Beef;Parmesan;Pasta
+2993,Bread;Burger Buns;Ground Beef;Tomatoes
+2994,Bread;Jam;Peanut Butter
+2995,Bread;Jam;Tea
+2996,Bread;Peanut Butter;Rice
+2997,Honey;Lemons;Milk;Tea
+2998,Baby Wipes;Bananas;Beer;Chicken Breast;Diapers;Rice;Yogurt
+2999,Bread;Peanut Butter
+3000,Baby Wipes;Bread;Eggs

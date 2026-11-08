@@ -1,0 +1,48 @@
+Basket assistant ready. Tell me what's in your basket, or type 'help'.
+> I have pasta and parmesan
+Added Parmesan, Pasta.
+You might also want:
+  1. Pasta Sauce (Pantry): 76% of baskets with Pasta also had it (lift 4.8)
+  2. Onions (Produce): 29% of baskets with Pasta also had it (lift 4.1)
+  3. Ground Beef (Meat): 41% of baskets with Parmesan also had it (lift 1.8)
+  4. Milk (Dairy & Eggs): popular: in 29% of all baskets
+  5. Bread (Bakery): popular: in 28% of all baskets
+> why pasta sauce
+Strongest reasons to suggest Pasta Sauce:
+  - {Onions, Parmesan} -> {Pasta Sauce} (support=0.026, confidence=0.84, lift=5.31)
+  - {Pasta} -> {Pasta Sauce} (support=0.137, confidence=0.76, lift=4.82)
+  - {Parmesan} -> {Pasta Sauce} (support=0.082, confidence=0.71, lift=4.51)
+> avoid dairy
+OK, I won't suggest Dairy & Eggs.
+You might also want:
+  1. Pasta Sauce (Pantry): 76% of baskets with Pasta also had it (lift 4.8)
+  2. Onions (Produce): 29% of baskets with Pasta also had it (lift 4.1)
+  3. Ground Beef (Meat): 41% of baskets with Parmesan also had it (lift 1.8)
+  4. Bread (Bakery): popular: in 28% of all baskets
+  5. Bananas (Produce): popular: in 23% of all baskets
+> add tortilas, ground beef
+Added Ground Beef, Tortillas.
+You might also want:
+  1. Pasta Sauce (Pantry): 76% of baskets with Pasta also had it (lift 4.8)
+  2. Avocado (Produce): 39% of baskets with Tortillas also had it (lift 5.7)
+  3. Salsa (Pantry): 56% of baskets with Tortillas also had it (lift 3.5)
+  4. Burger Buns (Bakery): 39% of baskets with Ground Beef also had it (lift 3.4)
+  5. Onions (Produce): 29% of baskets with Pasta also had it (lift 4.1)
+> diversity 0.5
+Diversity set to 0.5.
+You might also want:
+  1. Pasta Sauce (Pantry): 76% of baskets with Pasta also had it (lift 4.8)
+  2. Avocado (Produce): 39% of baskets with Tortillas also had it (lift 5.7)
+  3. Burger Buns (Bakery): 39% of baskets with Ground Beef also had it (lift 3.4)
+  4. Salsa (Pantry): 56% of baskets with Tortillas also had it (lift 3.5)
+  5. Onions (Produce): 29% of baskets with Pasta also had it (lift 4.1)
+> remove pasta
+Removed Pasta (I won't suggest it again; type 'allow pasta' to undo).
+You might also want:
+  1. Pasta Sauce (Pantry): 71% of baskets with Parmesan also had it (lift 4.5)
+  2. Avocado (Produce): 39% of baskets with Tortillas also had it (lift 5.7)
+  3. Burger Buns (Bakery): 39% of baskets with Ground Beef also had it (lift 3.4)
+  4. Salsa (Pantry): 56% of baskets with Tortillas also had it (lift 3.5)
+  5. Onions (Produce): 27% of baskets with Parmesan also had it (lift 3.8)
+> quit
+Goodbye!
